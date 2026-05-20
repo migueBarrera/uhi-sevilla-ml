@@ -1,0 +1,12 @@
+boto3
+pymongo
+rasterio
+numpy
+pandas
+scipy
+python-dotenv
+earthengine-api
+requests
+geopandas
+matplotlib
+shapely
