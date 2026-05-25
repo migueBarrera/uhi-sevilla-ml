@@ -1,0 +1,3183 @@
+id_via,tipo,nombre,latitud,longitud
+10233186,trunk,Carretera Gijón a Puerto de Sevilla,37.3712208,-6.0140582
+18978590,primary,Calle Reyes Católicos,37.3879175,-6.0009162
+19124158,primary,Calle Marqués de Paradas,37.3885083,-6.0006208
+19745791,secondary,Calle Carretera de Carmona,37.4030778,-5.9658355
+19746072,primary,Avenida Concejal Alberto Jiménez-Becerril,37.4046337,-5.9946133
+19746094,primary,Glorieta Olímpica,37.413304,-5.9883799
+19746250,primary,Sin nombre,37.4037869,-5.9955582
+19746878,primary,Plaza Duquesa Cayetana de Alba,37.4035641,-5.9957436
+19747214,primary,Calle Torneo,37.3918635,-6.0031112
+19747258,primary,Calle Arjona,37.3907416,-6.0028274
+19747779,primary,Puente del Cristo de la Expiración,37.3902381,-6.0076291
+19747830,primary,Avenida del Cristo de la Expiración,37.3905976,-6.0040272
+19747856,primary,Avenida del Cristo de la Expiración,37.3904088,-6.0060126
+19747865,primary,Avenida del Cristo de la Expiración,37.3905616,-6.0045726
+19748167,primary,Sin nombre,37.3907028,-6.0029207
+19748204,primary,Plaza La Legión,37.3908901,-6.0020431
+19748248,primary,Plaza La Legion,37.3907707,-6.0026497
+19748287,primary,Sin nombre,37.3908174,-6.0026633
+19748798,primary,Paseo de Cristóbal Colón,37.3872674,-6.0012964
+19753374,primary_link,Sin nombre,37.3759059,-5.991453
+19753405,primary,Avenida de El Cid,37.3805526,-5.9889051
+19753489,primary_link,Sin nombre,37.3814972,-5.9882113
+19753657,primary_link,Sin nombre,37.3815393,-5.9883716
+19753727,primary,Calle Resolana,37.4031758,-5.9904787
+19783204,motorway,Circunvalación de Sevilla,37.4038367,-5.9476827
+19783251,motorway,Circunvalación de Sevilla,37.3593513,-5.9552528
+19783259,motorway,Circunvalación de Sevilla,37.357992,-5.9566764
+19783281,motorway,Circunvalación de Sevilla,37.3535036,-5.9595984
+19783394,motorway,Circunvalación de Sevilla,37.3490455,-5.9931959
+19783395,motorway,Circunvalación de Sevilla,37.3539622,-5.9989861
+19783997,motorway,Circunvalación de Sevilla,37.3643707,-6.0112422
+19784048,motorway,Circunvalación de Sevilla,37.3680768,-6.0137531
+19784051,motorway,Circunvalación de Sevilla,37.3724164,-6.0205999
+19784070,motorway,Circunvalación de Sevilla,37.3726141,-6.0255843
+19784100,motorway,Circunvalación de Sevilla,37.4002224,-6.0280505
+19784147,motorway,Circunvalación de Sevilla,37.4062116,-5.9483971
+19784155,primary,Ronda Urbana Norte,37.4136754,-5.9501685
+19784160,motorway_link,Sin nombre,37.4065415,-5.9493255
+19784172,motorway_link,Sin nombre,37.4073444,-5.9514527
+19784189,motorway_link,Sin nombre,37.4075819,-5.950672
+19784202,motorway,Sin nombre,37.40711,-5.9476845
+19784224,motorway,Sin nombre,37.4091414,-5.9444852
+19784267,motorway_link,Sin nombre,37.4093565,-5.9437025
+19784287,motorway_link,Sin nombre,37.4084524,-5.9496746
+19784312,motorway_link,Sin nombre,37.4076035,-5.9491913
+19784346,motorway_link,Sin nombre,37.4090253,-5.9490107
+19784385,motorway_link,Sin nombre,37.4094951,-5.9486079
+19784413,motorway,Autovía del Sur,37.4087211,-5.9457413
+19784483,motorway,Circunvalación de Sevilla,37.413733,-6.026186
+19784490,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4131912,-5.9889203
+19784522,primary,Avenida Concejal Alberto Jiménez-Becerril,37.4111177,-5.9901446
+19784533,primary,Avenida Juventudes Musicales,37.4132305,-5.9859226
+19784543,secondary,Sin nombre,37.4135148,-5.9832329
+19854002,secondary,Calle Torneo,37.3939941,-6.0028284
+22742149,primary,Calle Demetrio de los Ríos,37.3855708,-5.985916
+22742198,primary,Calle Arjona,37.3907514,-6.0029844
+22743508,primary,Avenida Juventudes Musicales,37.4134928,-5.9859549
+22743515,primary,Ronda Urbana Norte,37.4139062,-5.9812262
+22744074,primary,Calle La Rábida,37.3788644,-5.9923221
+22744081,primary,Sin nombre,37.3776802,-5.9927528
+22744108,primary,Glorieta Doña María de las Mercedes de Borbón y Orleans,37.3795158,-5.9829774
+22744117,primary,Avenida de Ramón y Cajal,37.37737,-5.9756857
+22744123,primary,Avenida Ramón y Cajal,37.3778132,-5.9767884
+22744197,primary,Glorieta de los Ingenieros Industriales,37.3744674,-5.9758727
+22744215,primary,Avenida de Diego Martínez Barrio,37.3753194,-5.9755497
+22744223,primary,Glorieta Diputado Manuel Barrios,37.3901201,-5.9747483
+22744237,secondary_link,Calle Pablo Picasso,37.3900368,-5.9755361
+22744243,primary,Avenida de Kansas City,37.3885113,-5.973673
+22744258,motorway_link,Sin nombre,37.3696748,-6.0132139
+22744269,primary,Sin nombre,37.3770538,-6.0143732
+22744315,motorway_link,Sin nombre,37.3725726,-6.0255956
+22744385,motorway_link,Sin nombre,37.3716347,-6.0170486
+22744390,motorway_link,Sin nombre,37.3720732,-6.0133962
+22744403,motorway_link,Sin nombre,37.3743464,-6.0143168
+22744414,motorway_link,Sin nombre,37.3702256,-6.0267209
+22744429,motorway_link,Sin nombre,37.3712091,-6.026778
+22744432,motorway_link,Sin nombre,37.3710498,-6.0291835
+22744447,motorway_link,Sin nombre,37.3731339,-6.0277399
+22744514,motorway_link,Sin nombre,37.3758767,-6.0152268
+22744662,primary,Avenida de Diego Martínez Barrio,37.3734392,-5.9765316
+22744726,primary,Calle Rubén Darío,37.3752058,-6.0104215
+22747501,primary,Glorieta de Isla Mágica,37.4053514,-5.9989533
+22747502,primary,Sin nombre,37.4050577,-5.9986007
+22747504,primary,Sin nombre,37.4037228,-5.9959613
+22747511,primary,Plaza Duquesa Cayetana de Alba,37.4034215,-5.9957298
+22747513,primary,Puente de la Barqueta,37.4038951,-5.9963837
+22747514,primary,Sin nombre,37.4051565,-5.9984798
+22747516,primary,Sin nombre,37.4036409,-5.9961069
+22747517,primary,Puente de la Barqueta,37.4046608,-5.9979043
+22937616,trunk,Carretera Gijón a Puerto de Sevilla,37.3891637,-6.0171698
+23004012,secondary,Carretera de La Rinconada,37.4423486,-5.9782138
+23004100,secondary,Sin nombre,37.4493388,-5.9770065
+23004112,secondary,Sin nombre,37.4490307,-5.9769827
+23004113,secondary,Sin nombre,37.4497738,-5.9768594
+23004116,secondary,Sin nombre,37.451771,-5.9763589
+23004120,secondary,Sin nombre,37.4490343,-5.977097
+23045962,secondary,Carretera de La Algaba,37.4510237,-5.9985583
+23045984,secondary,Carretera de La Algaba,37.4303039,-5.9887385
+23046002,secondary,Sin nombre,37.4513281,-5.9881893
+23050244,secondary,Sin nombre,37.4499412,-5.9372815
+23050247,secondary,Antigua Carretera de Mercancías Peligrosas (I),37.4498906,-5.9375209
+23050249,secondary,Carretera Madreperla,37.4462815,-5.936422
+23050250,secondary,Sin nombre,37.4502461,-5.9372466
+23050265,secondary,Antigua Carretera de Mercancías Peligrosas (I),37.4499637,-5.9375437
+23050310,secondary,Carretera Madreperla,37.447301,-5.936695
+23050388,secondary,Carretera de Sevilla a Los Rosales,37.4380254,-5.9642358
+23050389,secondary,Sin nombre,37.443197,-5.9599811
+23053958,motorway,Circunvalación de Sevilla,37.3864574,-5.9409797
+23053959,motorway,Circunvalación de Sevilla,37.3853069,-5.9411645
+23057025,trunk,Ronda Norte de Sevilla,37.4137595,-6.007774
+23057028,trunk,Ronda Norte de Sevilla,37.4153144,-6.0074064
+23057034,trunk,Ronda Norte de Sevilla,37.4138054,-6.0079945
+23057044,trunk,Ronda Norte de Sevilla,37.4178443,-6.0068177
+23057056,trunk,Ronda Norte de Sevilla,37.423248,-6.0031683
+23057059,trunk,Ronda Supernorte de Sevilla,37.4246918,-6.000067
+23057067,trunk,Ronda Norte de Sevilla,37.4263189,-5.9969686
+23057088,trunk,Ronda Norte de Sevilla,37.4310059,-5.9852188
+23057091,trunk,Ronda Norte de Sevilla,37.4339593,-5.9663359
+23057092,trunk,Ronda Norte de Sevilla,37.4291369,-5.9632416
+23057154,trunk,Ronda Norte de Sevilla,37.416333,-5.9277389
+23057155,trunk,Ronda Norte de Sevilla,37.4158839,-5.9296245
+23057175,trunk,Ronda Norte de Sevilla,37.4166213,-5.9257699
+23057181,trunk,Ronda Norte de Sevilla,37.4162608,-5.9243939
+23057183,trunk,Ronda Norte de Sevilla,37.4163058,-5.9224103
+23059424,primary,Autovía de Sevilla a Utrera,37.3600093,-5.9568416
+23067338,motorway,A-376 Autovía Sevilla - Utrera,37.3305699,-5.9119222
+23074686,primary,Paseo de las Delicias,37.3759865,-5.9919079
+23074687,primary,Avenida de Jerez,37.3323884,-5.9687054
+23080061,motorway,Sin nombre,37.341374,-5.9790271
+23080109,motorway,A-4 Sevilla - Cádiz,37.3372577,-5.9845882
+23080113,motorway_link,Sin nombre,37.338548,-5.9836702
+23080124,motorway_link,Sin nombre,37.337971,-5.9839761
+23080147,motorway_link,Sin nombre,37.3395757,-5.9829689
+23080148,motorway_link,Sin nombre,37.3413075,-5.9814605
+23080151,motorway,Sin nombre,37.3413314,-5.981618
+23080152,motorway,Autovía del Sur,37.340363,-5.9825504
+23108117,secondary,Sin nombre,37.3569384,-6.0271272
+23108121,secondary,Sin nombre,37.3584448,-6.0279367
+23108126,secondary,Sin nombre,37.3570258,-6.0269543
+23108145,secondary,Sin nombre,37.3519031,-6.0264148
+23108149,secondary,Sin nombre,37.3481659,-6.0261264
+23108156,secondary,Carretera de Sevilla a La Puebla del Río,37.3534002,-6.0262638
+23108181,secondary,Carretera de Sevilla a La Puebla del Río,37.3431304,-6.0253942
+23116139,secondary,"Vía Borde de ""El Pino""",37.3732501,-5.9219275
+23116140,secondary,"Vía Borde de ""El Pino""",37.3711648,-5.9282643
+23116145,secondary,Sin nombre,37.3698387,-5.9323384
+23116147,secondary,Sin nombre,37.3694754,-5.9337498
+23116148,secondary,"Vía Borde de ""El Pino""",37.3687631,-5.9378528
+23116149,secondary,Sin nombre,37.3683471,-5.9408762
+23116150,secondary,Sin nombre,37.36823,-5.9416803
+23116157,secondary,Sin nombre,37.3673266,-5.9444388
+23116158,motorway_link,Sin nombre,37.3657697,-5.9459567
+23116164,motorway_link,Sin nombre,37.3661765,-5.9449426
+23117243,trunk,Autovía de Sevilla a Almería por Granada,37.3862347,-5.9343833
+23117244,trunk,Autovía de Sevilla a Almería por Granada,37.38636,-5.9378206
+23120487,motorway_link,Sin nombre,37.3850184,-5.9406693
+23120506,trunk_link,Sin nombre,37.3857563,-5.9369972
+23120514,trunk_link,Sin nombre,37.3858741,-5.9353551
+23120602,trunk_link,Sin nombre,37.3864705,-5.9355322
+23120605,trunk_link,Sin nombre,37.3863047,-5.9350027
+23120608,trunk_link,Sin nombre,37.3859051,-5.9368454
+23120610,trunk_link,Sin nombre,37.3863542,-5.9367159
+23121485,motorway_link,Sin nombre,37.3878471,-5.9415556
+23121496,trunk_link,Sin nombre,37.3869641,-5.9355676
+23121499,trunk_link,Sin nombre,37.3867997,-5.9369799
+23121503,trunk_link,Sin nombre,37.3867305,-5.9387967
+23121513,motorway_link,Sin nombre,37.3867444,-5.9417304
+23121515,motorway_link,Sin nombre,37.3862103,-5.9417813
+23125107,trunk_link,Sin nombre,37.3862596,-5.9398846
+23125109,trunk_link,Sin nombre,37.386111,-5.9391193
+23125110,trunk_link,Sin nombre,37.3859717,-5.9387235
+23125111,trunk_link,Sin nombre,37.3865854,-5.9391537
+23125112,trunk_link,Sin nombre,37.3864711,-5.9397887
+23125113,trunk_link,Sin nombre,37.3866752,-5.9377145
+23125114,trunk_link,Sin nombre,37.3865165,-5.9373975
+23125116,trunk_link,Sin nombre,37.3857151,-5.935683
+23125123,trunk_link,Sin nombre,37.3860746,-5.9360582
+23125124,trunk_link,Sin nombre,37.385955,-5.9368735
+23125126,trunk,Autovía de Sevilla a Almería por Granada,37.3861028,-5.9343901
+23125127,trunk,Autovía de Sevilla a Almería por Granada,37.3860627,-5.9329161
+23125130,trunk,Sin nombre,37.3869776,-5.9359218
+23125131,trunk_link,Sin nombre,37.386889,-5.9357073
+23125445,motorway,Circunvalación de Sevilla,37.3995898,-5.9452983
+23125446,motorway,Circunvalación de Sevilla,37.3954225,-5.9439811
+23125447,motorway,Circunvalación de Sevilla,37.4010007,-5.9460093
+23125449,motorway,Circunvalación de Sevilla,37.38765,-5.9410587
+23125489,motorway,Circunvalación de Sevilla,37.3864741,-5.9407648
+23125491,motorway,Circunvalación de Sevilla,37.382969,-5.9419343
+23125492,motorway,Circunvalación de Sevilla,37.3825602,-5.9420794
+23125493,motorway,Circunvalación de Sevilla,37.383561,-5.9415495
+23125495,motorway,Circunvalación de Sevilla,37.3829154,-5.9417813
+23125504,motorway,Circunvalación de Sevilla,37.3672042,-5.9447577
+23125505,motorway,Circunvalación de Sevilla,37.3592586,-5.9551226
+23125512,primary_link,Sin nombre,37.3596555,-5.95364
+23125514,motorway_link,Sin nombre,37.3603468,-5.9552134
+23125531,primary,Avenida de la Paz,37.3611199,-5.9591385
+23125535,primary_link,Sin nombre,37.3589602,-5.9567816
+23125542,primary_link,Sin nombre,37.3581006,-5.9530237
+23125736,primary_link,Sin nombre,37.3576214,-5.9557376
+23125747,motorway_link,Sin nombre,37.3589024,-5.9573656
+23125756,motorway,Circunvalación de Sevilla,37.3576832,-5.956749
+23125799,primary,Avenida de Jerez,37.338816,-5.9710849
+23125803,primary,Avenida de Jerez,37.340059,-5.9716099
+23125817,primary,Avenida de Jerez,37.3368873,-5.9701701
+23125818,primary,Avenida de Jerez,37.3363144,-5.9701088
+23125822,motorway_link,Sin nombre,37.3419516,-5.9695334
+23125823,motorway_link,Sin nombre,37.3390117,-5.9708667
+23125836,motorway_link,Sin nombre,37.3415559,-5.9705182
+23125840,motorway_link,Sin nombre,37.3416903,-5.9716848
+23125845,motorway_link,Sin nombre,37.341188,-5.9712891
+23125852,motorway_link,Sin nombre,37.3406351,-5.9722316
+23125854,motorway_link,Sin nombre,37.3427806,-5.9692317
+23125862,motorway_link,Sin nombre,37.3412768,-5.9726407
+23125866,motorway_link,Sin nombre,37.3390783,-5.9722686
+23125868,motorway_link,Sin nombre,37.3395964,-5.9734743
+23125869,motorway_link,Sin nombre,37.3401788,-5.9739854
+23125878,motorway_link,Sin nombre,37.3398152,-5.9750509
+23125898,motorway_link,Sin nombre,37.3414661,-5.9743109
+23125974,motorway_link,Sin nombre,37.3427697,-5.985952
+23125982,motorway_link,Sin nombre,37.3399295,-5.9834295
+23125983,motorway_link,Sin nombre,37.340982,-5.9832097
+23125995,motorway_link,Sin nombre,37.3403299,-5.9833093
+23126003,motorway_link,Sin nombre,37.3411879,-5.9812141
+23126033,motorway_link,Sin nombre,37.3425744,-5.983258
+23126040,motorway_link,Sin nombre,37.3422221,-5.9837441
+23126049,secondary,Sin nombre,37.3428008,-5.9839931
+23126051,motorway_link,Sin nombre,37.3427986,-5.9830248
+23126056,secondary,Sin nombre,37.3407416,-5.9854072
+23126090,motorway_link,Sin nombre,37.3584679,-6.0033001
+23126098,secondary,Sin nombre,37.3604791,-6.0025813
+23126104,motorway_link,Sin nombre,37.3599729,-6.003087
+23126106,motorway_link,Sin nombre,37.3584681,-6.0055604
+23126107,motorway_link,Sin nombre,37.3585332,-6.0044777
+23126109,motorway_link,Sin nombre,37.3593652,-6.0044423
+23126497,primary,Carretera del Muro de Defensa,37.3864238,-6.0140044
+23126527,primary,Avenida Juan Pablo II,37.3693939,-6.0085634
+23126545,primary,Puente de las Delicias,37.3676695,-5.9911614
+23126546,primary,Avenida Juan Pablo II,37.3678211,-5.9969409
+23126688,primary,Avenida Blas Infante,37.3732961,-6.0113
+23126727,primary,Sin nombre,37.3774822,-6.0143218
+23126729,primary,Calle Rubén Darío,37.3767706,-6.0136332
+23126739,primary,Avenida Blas Infante,37.3729194,-6.0135777
+23126743,primary,Avenida Blas Infante,37.3731644,-6.011199
+23126784,trunk,Carretera Gijón a Puerto de Sevilla,37.3758241,-6.0150492
+23126793,motorway_link,Sin nombre,37.3711854,-6.0153252
+23126853,motorway_link,Sin nombre,37.3736959,-6.0162381
+23135997,primary,Calle San Juan de Ribera,37.4033423,-5.9874895
+23136009,secondary,Avenida Doctor Fedriani,37.4129114,-5.9837569
+23136038,primary,Glorieta Berrocal,37.4157013,-5.974644
+23136042,primary,Sin nombre,37.4153905,-5.9740744
+23136043,primary,Glorieta del Árbol,37.4104364,-5.9717471
+23136059,primary,Avenida Alcalde Manuel de Valle,37.4095298,-5.9712851
+23136064,primary,Sin nombre,37.404905,-5.9689248
+23136069,primary,Avenida Alcalde Manuel de Valle,37.4045402,-5.9688263
+23136084,primary,Avenida Alcalde Manuel de Valle,37.4069106,-5.9695674
+23136096,primary,Avenida Alcalde Manuel de Valle,37.4108929,-5.971716
+23187858,motorway,A-4 Sevilla - Cádiz,37.3265273,-5.9848892
+23188220,motorway,Circunvalación de Sevilla,37.3506664,-5.9620797
+23188221,motorway,Circunvalación de Sevilla,37.3403876,-5.974265
+23188232,motorway,Circunvalación de Sevilla,37.3424311,-5.9849748
+23188233,motorway,Circunvalación de Sevilla,37.3402983,-5.9763175
+23188417,motorway_link,Sin nombre,37.3859474,-6.0244823
+23188431,motorway,Sin nombre,37.3880954,-6.0247426
+23188432,motorway,Sin nombre,37.3883095,-6.0239596
+23188435,motorway,Autovía del Quinto Centenario,37.3904205,-6.0269735
+23188439,motorway,Circunvalación de Sevilla,37.3874095,-6.027072
+23188444,motorway,Circunvalación de Sevilla,37.3882676,-6.0274904
+23188447,motorway,Circunvalación de Sevilla,37.3900183,-6.0246844
+23188448,motorway,Circunvalación de Sevilla,37.3913899,-6.0251238
+23188464,motorway_link,Sin nombre,37.3887398,-6.0262376
+23188606,motorway_link,Sin nombre,37.3879354,-6.0284267
+23188617,motorway_link,Sin nombre,37.3904023,-6.0255351
+23188649,motorway_link,Sin nombre,37.3910817,-6.0244583
+23188688,motorway_link,Sin nombre,37.3918411,-6.0263585
+23188705,motorway,Circunvalación de Sevilla,37.3752884,-6.0271725
+23188706,motorway,Circunvalación de Sevilla,37.3848993,-6.0255193
+23250027,motorway_link,Sin nombre,37.3419823,-5.9708608
+23250036,primary,Avenida de Jerez,37.339963,-5.9717716
+23250039,primary,Avenida de Jerez,37.3413113,-5.9725952
+23646760,primary,Calle La Florida,37.3882851,-5.9841519
+23646765,secondary,Calle Luis Montoto,37.3881016,-5.9822102
+23646768,secondary,Calle Santa Juana Jugan,37.3900194,-5.9778931
+24296350,primary,Calle Matemáticos Rey Pastor y Castro,37.4053446,-5.9992592
+24296351,primary,Sin nombre,37.4064701,-6.0098135
+24296357,secondary,Calle José de Gálvez,37.4087011,-5.9961811
+24296358,secondary,Calle José de Gálvez,37.4056389,-5.9986296
+24297096,primary,Plaza de Cuba,37.3800322,-5.997757
+24297098,primary,Avenida República Argentina,37.3796591,-5.9985183
+24297107,primary,Sin nombre,37.3715292,-6.0038007
+25348030,motorway_link,Sin nombre,37.3715653,-6.0282269
+25348031,motorway_link,Sin nombre,37.3724874,-6.0268684
+25348032,motorway_link,Sin nombre,37.3723929,-6.0275057
+25348034,secondary_link,Sin nombre,37.3744421,-6.0272789
+25348035,secondary_link,Sin nombre,37.374601,-6.0275223
+26648222,secondary,Sin nombre,37.3746215,-6.0278039
+26648223,secondary,Avenida del Manchón,37.3738193,-6.0303001
+26648226,motorway_link,Sin nombre,37.3711228,-6.0292541
+26648228,motorway_link,Sin nombre,37.3719711,-6.0280411
+26652531,trunk,Autovía de Sevilla a Almería por Granada,37.3854327,-5.9141183
+26652532,trunk,Autovía de Sevilla a Almería por Granada,37.3857256,-5.916061
+26652533,trunk,Autovía de Sevilla a Almería por Granada,37.3853298,-5.9141753
+26652535,trunk,Autovía de Sevilla a Almería por Granada,37.3847463,-5.9124136
+26652550,primary,Avenida de la Areonáutica,37.3874018,-5.9201491
+26652553,primary,Avenida de las Ciencias,37.4036165,-5.9282556
+26652568,primary,Avenida de las Ciencias,37.3902563,-5.9198777
+26652569,primary,Calle Dulce del Moral,37.3871201,-5.9211919
+26832317,primary,Puente de los Remedios,37.3750938,-5.9928314
+26832342,primary,Puente de los Remedios,37.3753556,-5.9921631
+26832343,primary,Puente de los Remedios,37.3753141,-5.9918438
+26832353,primary,Puente de los Remedeos,37.3754379,-5.991908
+27150556,secondary,Avenida de la Buhaira,37.387833,-5.9778272
+27551753,primary,Calle Arjona,37.3899033,-6.0025646
+27640373,primary,Calle Luis de Morales,37.3848794,-5.9726899
+27640374,primary,Avenida San Francisco Javier,37.3813298,-5.9738202
+27645114,primary,Avenida de Kansas City,37.3886271,-5.9734897
+27645115,primary,Calle Luis de Morales,37.3851518,-5.9728375
+27729562,primary,Glorieta Sergio Rodríguez Prat,37.3874793,-5.9594484
+27729597,primary,Calle Luis Montoto,37.38731,-5.9724743
+27729604,primary,Avenida José María Javierre,37.3880989,-5.9587098
+27729692,primary,Avenida Alcalde Luis Uruñuela,37.4055222,-5.9325985
+27729725,primary,Calle Clemente Hidalgo,37.3860106,-5.9596552
+27729734,primary,Glorieta del Bizco Amate,37.3732369,-5.9644736
+27757019,primary,Puente de San Telmo,37.3812712,-5.9953563
+27757020,primary,Puente de San Telmo,37.3801943,-5.997388
+27757108,primary,Plaza Alcalde Alfredo Sánchez Monteseirín,37.3906762,-6.0105714
+27879591,primary,Ronda de Pío XII,37.4055098,-5.9753422
+27879609,primary,Calle Sor Francisca Dorotea,37.4073495,-5.9797026
+27879623,primary,Calle Doctor Leal Castaño,37.4072841,-5.9834556
+27879646,primary,Calle José Díaz,37.4090329,-5.9908485
+27879647,primary,Calle José Díaz,37.4089345,-5.9909213
+27879698,primary,Calle Doctor Marañón,37.4074076,-5.9854322
+27879702,secondary,Calle Almadén de la Plata,37.4003754,-5.9783742
+27879720,secondary,Calle Francisco de Ariño,37.3987694,-5.9766871
+27880152,primary,Avenida Alcalde Manuel del Valle,37.3976031,-5.9668851
+27880187,primary,Calle José Pérez Ocaña,37.4024508,-5.9696325
+27880415,trunk,Carretera Gijón a Puerto de Sevilla,37.3809346,-6.0143035
+27880421,trunk,Carretera Gijón a Puerto de Sevilla,37.3871879,-6.0136481
+27880441,trunk_link,Sin nombre,37.3891402,-6.0171757
+27880553,primary_link,Sin nombre,37.3917292,-6.0132553
+27880555,primary_link,Sin nombre,37.3918643,-6.0136198
+27880560,primary_link,Sin nombre,37.3897721,-6.0130118
+27880591,trunk,Ronda Norte de Sevilla,37.4122484,-6.0081569
+27880600,motorway_link,Sin nombre,37.4134836,-6.0079019
+27880612,primary,Avenida Carlos III,37.4107167,-6.008671
+27880655,trunk_link,Carretera Gijón a Puerto de Sevilla,37.3896133,-6.0142975
+27880660,primary_link,Sin nombre,37.3895422,-6.0129669
+28026299,secondary,Calle Baltasar de Alcazar,37.4026027,-5.9652659
+28035708,secondary,Sin nombre,37.4027248,-5.9648163
+28035742,secondary,Sin nombre,37.4028289,-5.9641277
+28035767,secondary,Sin nombre,37.4027483,-5.9635032
+28035776,secondary,Carretera de Carmona,37.402797,-5.962297
+28035777,secondary,Carretera de Carmona,37.4028428,-5.9610742
+28035813,secondary,Sin nombre,37.4030642,-5.9641927
+28035821,secondary,Sin nombre,37.4028943,-5.9634376
+28035890,secondary_link,Sin nombre,37.4030758,-5.9644625
+28036928,primary,Avenida Kansas City,37.4046508,-5.9566824
+28037600,primary,Calle Éfeso,37.3958389,-5.9649696
+28089087,secondary,Calle Carretera de Carmona,37.4029856,-5.965039
+28089431,secondary,Glorieta Rafael Torres,37.3936827,-5.9818035
+28089532,primary,Avenida Alcalde Manuel del Valle,37.3981887,-5.9676316
+28089535,primary,Avenida Alcalde Manuel del Valle,37.3988013,-5.968423
+28089580,primary,Avenida Alcalde Manuel del Valle,37.3973295,-5.966495
+28089583,primary,Avenida Alcalde Manuel del Valle,37.3972514,-5.9666069
+28089585,primary,Calle Éfeso,37.3967209,-5.9658743
+28089588,primary,Calle Éfeso,37.3966221,-5.9660076
+28110345,primary,Calle Parlamento de Andalucía,37.4030767,-5.98858
+28110350,primary,Calle Muñoz León,37.4030748,-5.9878903
+28111362,motorway_link,Sin nombre,37.4212211,-5.9111082
+28117922,primary_link,Sin nombre,37.3814073,-5.9652734
+28118141,primary,Calle Carlos Marx,37.3811937,-5.9524058
+28118163,primary,Plaza 1 de Mayo,37.3807025,-5.9540016
+28118271,primary,Calle Amor,37.3848952,-5.9441023
+28327344,secondary,Calle Carretera de Carmona,37.4028297,-5.969562
+28327480,primary,Avenida Alcalde Manuel de Valle,37.4154682,-5.9738702
+28327507,primary,Calle María Auxiliadora,37.3970868,-5.9816151
+28338758,primary,Calle José Díaz,37.408853,-5.9902104
+28338767,primary,Avenida Concejal Alberto Jiménez-Becerril,37.4093204,-5.9912566
+28338769,primary,Calle José Díaz,37.4091849,-5.9914423
+28338795,primary,Avenida Concejal Alberto Jiménez-Becerril,37.4107349,-5.9902072
+28338835,primary,Avenida Alcalde Manuel de Valle,37.4026089,-5.9691518
+28338862,primary,Glorieta Operación Clavel,37.3971244,-5.9659932
+28354664,secondary,Sin nombre,37.3802405,-5.9830238
+28354837,primary,Paseo de las Delicias,37.3738184,-5.9905678
+28354839,primary,Paseo de las Delicias,37.3747254,-5.9910774
+28355087,primary,Puente de las Delicias,37.3676632,-5.9943763
+28355189,primary,Túnel Calle Cardenal Bueno Monreal,37.3682369,-5.984665
+28355582,secondary,Avenida de Ucrania,37.3440277,-5.9834073
+28355599,secondary,Avenida de Ucrania,37.34411,-5.9836913
+28355609,secondary,Avenida de Grecia,37.3485898,-5.9837999
+28355610,secondary,Glorieta Bebés Robados,37.3550597,-5.982725
+28355627,secondary,Glorieta Bebés Robados,37.35508,-5.982412
+28355659,primary,Glorieta Doctor Muñoz Cariñanos,37.3558618,-5.9800645
+28355680,secondary,Calle Iguazú,37.3556505,-5.9809873
+28355681,secondary,Calle Iguazú,37.3553491,-5.9819499
+28370480,primary,Ronda de Capuchinos,37.4000809,-5.9843961
+28370590,primary,Calle María Auxiliadora,37.3940663,-5.9837135
+28370897,primary,Avenida de Menéndez Pelayo,37.3857091,-5.9860429
+28372057,secondary,Avenida de Alemania,37.346369,-5.9762195
+28372058,secondary,Avenida de Alemania,37.3451899,-5.982714
+28372345,secondary,Avenida de Las Razas,37.3687968,-5.9893773
+28372383,primary,Puente de las Delicias,37.3675436,-5.9898076
+28372610,secondary,Calle José Delgado Brackenbury,37.3617318,-6.0014955
+28372620,secondary,Sin nombre,37.3630154,-6.000782
+28372645,secondary,Calle José Delgado Brackenbury,37.361851,-6.0018072
+28372661,secondary,Calle José Delgado Brackenbury,37.3652713,-5.9989252
+28372760,secondary,Calle Antonio Bienvenida,37.3713123,-5.9974387
+28372796,primary,Calle Alfonso de Orleans y Borbón,37.3701123,-6.0037848
+28382654,secondary,Avenida Moliní,37.3692968,-5.9889105
+28382658,secondary,Avenida de la Guardia Civil,37.369404,-5.9864474
+28382742,primary,Calle Poeta Manuel Benítez Carrasco,37.3683798,-5.9705343
+28382794,secondary,Calle Cardenal Ilundáin,37.3652469,-5.9795236
+28382841,primary,Autovía de Sevilla a Utrera,37.3586971,-5.9538573
+28382849,primary_link,Sin nombre,37.3608409,-5.95503
+28382850,primary_link,Sin nombre,37.3601401,-5.9565688
+28382876,primary,Calle José Saramago,37.3743809,-5.9757866
+28382898,primary,Calle Avión Cuatro Vientos,37.3775244,-5.9772137
+28382998,primary_link,Sin nombre,37.3693847,-5.9781766
+28383004,primary,Avenida Ramón Carande,37.371031,-5.9782667
+28383005,primary,Avenida Ramón Carande,37.3697763,-5.9780035
+28383006,primary,Avenida Ramón Carande,37.3696647,-5.9781289
+28383010,primary_link,Sin nombre,37.3692694,-5.978243
+28528181,secondary,Avenida Doctor Fedriani,37.4175579,-5.9830706
+28528192,secondary,Calle Medina y Galnares,37.4332679,-5.9797754
+28528214,secondary,Calle Medina y Galnares,37.4312774,-5.9803259
+28528809,secondary,Carretera de La Algaba,37.4293125,-5.9880784
+28603449,primary,Sin nombre,37.3689651,-6.0040608
+28603608,primary,Avenida Alfredo Kraus,37.3727152,-6.0066862
+28603644,primary,Avenida Presidente Adolfo Suárez,37.3714365,-5.9973762
+28603713,primary,Calle Virgen de la Oliva,37.371882,-6.0036346
+28603869,primary,Avenida Blas Infante,37.3758905,-6.0059283
+28603886,primary,Sin nombre,37.3761065,-6.0053993
+28603900,primary,Calle López de Gomara,37.3796131,-6.0084604
+28604053,primary,Glorieta Carlos Cano,37.3742368,-6.0093048
+28604138,primary,Sin nombre,37.3743493,-6.0089634
+28604148,primary,Avenida Presidente Adolfo Suárez,37.3730372,-5.9958921
+28604213,primary,Ronda de Triana,37.3814565,-6.0094392
+28604269,primary,Ronda de Triana,37.382529,-6.0102754
+28604304,primary,Calle Virgen del Patrocinio,37.3895756,-6.0102726
+28604333,primary,Calle Virgen del Patrocinio,37.3896516,-6.0103666
+28604416,secondary,Calle Génova,37.3802527,-5.9983097
+28604425,secondary,Calle Pagés del Corro,37.3820965,-6.002469
+28604676,primary,Sin nombre,37.4065618,-6.009115
+28604983,primary,Glorieta de las Cigarreras,37.3748671,-5.9940487
+28605010,primary,Sin nombre,37.374972,-5.9938315
+28605012,primary,Sin nombre,37.374852,-5.9938836
+28605023,secondary,Glorieta de las Cigarreras,37.3747648,-5.9943925
+28605074,secondary,Calle Juan Sebastián Elcano,37.3781442,-5.9966323
+28605132,secondary_link,Sin nombre,37.367674,-5.9968771
+28605142,secondary,Calle José Delgado Brackenbury,37.3673072,-5.997889
+28605154,primary_link,Sin nombre,37.3678901,-5.9968529
+28605167,secondary,Glorieta Avión Saeta,37.3677826,-5.997433
+28605183,secondary,Calle Antonio Bienvenida,37.3694837,-5.9972067
+28605225,secondary_link,Sin nombre,37.3679027,-5.9979632
+28605229,primary_link,Sin nombre,37.3677261,-5.9979799
+28681279,secondary,Sin nombre,37.4348981,-5.9660966
+28681284,secondary,Sin nombre,37.4345419,-5.9662005
+28681286,secondary,Sin nombre,37.4342259,-5.9661533
+28681288,secondary,Sin nombre,37.4342763,-5.9662578
+29110020,trunk,Carretera Gijón a Puerto de Sevilla,37.3892965,-6.0180027
+29110021,trunk,Carretera Gijón a Puerto de Sevilla,37.3892387,-6.0196531
+29110022,trunk,Carretera Gijón a Puerto de Sevilla,37.3891209,-6.0186326
+29110029,trunk,Carretera Gijón a Puerto de Sevilla,37.389461,-6.0153728
+29110031,primary,Avenida Expo´92,37.3902389,-6.0077472
+29110037,trunk,Glorieta José Moya Sanabria,37.389646,-6.0130998
+30181971,primary,Ronda del Tamarguillo,37.3732387,-5.9647509
+30181992,primary,Glorieta Mar Cambrollé,37.3695682,-5.9691134
+30183957,secondary,Avenida de la Ciudad Jardin,37.3810096,-5.9659258
+30184005,primary,Calle José Saramago,37.3738814,-5.9745997
+30199563,primary,Sin nombre,37.3613044,-5.958978
+30199577,primary,Glorieta Víctimas de Terrorismo,37.3726553,-5.973628
+30245182,primary,Calle Torcuato Luca de Tena,37.3603105,-5.9817426
+30248017,secondary,Calle Ifni,37.3539643,-5.983245
+30326489,primary,Calle Torneo,37.3916595,-6.0032998
+30672266,secondary,Calle Tharsis,37.3993777,-5.9714265
+30917600,motorway,Circunvalación de Sevilla,37.4072005,-5.948671
+31236760,primary,Calle Gonzalo Jiménez de Quesada,37.3903677,-6.0081771
+31286612,secondary,Calle Clara de Jesús Montero,37.3869918,-6.0078138
+31291816,secondary,Calle Pagés del Corro,37.3799689,-5.9993925
+31292649,primary,Calle Santa Fe,37.3741636,-6.004067
+31321090,secondary,Calle José María Moreno Galván,37.3847765,-5.9838911
+31321098,secondary,Calle José María Moreno Galván,37.3874882,-5.9827766
+31321183,primary,Avenida de Eduardo Dato,37.3844127,-5.9821205
+31321238,primary,Calle Demetrio de los Ríos,37.3848576,-5.9842297
+31437837,primary,Sin nombre,37.4336353,-5.9746683
+31437851,motorway,Circunvalación de Sevilla,37.3714375,-6.0241163
+31544881,trunk_link,Sin nombre,37.4144676,-6.032144
+31564907,secondary,Calle Carretera de Carmona,37.3979688,-5.9804924
+31564908,secondary,Calle Carretera de Carmona,37.4009568,-5.9753599
+31564909,secondary,Calle Carretera de Carmona,37.399329,-5.9782398
+31720195,secondary,Calle Carretera de Carmona,37.4028222,-5.9631769
+31720196,secondary,Calle Carretera de Carmona,37.4029683,-5.9648625
+31827221,motorway,Circunvalación de Sevilla,37.4135431,-6.0106616
+31827223,motorway,Circunvalación de Sevilla,37.4136343,-6.0184358
+31827306,motorway_link,Sin nombre,37.414751,-6.0304721
+31828134,motorway,Circunvalación de Sevilla,37.413855,-6.0259443
+31828139,motorway,Circunvalación de Sevilla,37.4137939,-6.0211406
+31828146,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4136234,-5.9929336
+31828385,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4134644,-5.9905227
+32349883,secondary_link,Sin nombre,37.4036054,-5.9281362
+32351957,primary,Calle Poeta Manuel Benítez Carrasco,37.3636195,-5.9736836
+32639246,motorway_link,Sin nombre,37.4143888,-6.0070233
+34754116,primary,Glorieta los del Río,37.3570053,-5.9786951
+34760155,secondary,Avenida de la Cruz del Campo,37.3847085,-5.9653769
+34857924,secondary,Avenida Montequinto,37.3344769,-5.9357251
+34857927,secondary,Avenida Montequinto,37.335492,-5.9354284
+34896230,secondary,Condes de Ybarra,37.3299464,-5.9377712
+35085241,secondary,Avenida Hermanos de la Cruz Blanca,37.3315371,-5.9203565
+35138635,primary,Avenida de San Lázaro,37.4073588,-5.98261
+35781519,secondary,Glorieta de Méjico,37.3693271,-5.9893541
+35783367,primary,Calle Doctor Ordoñez de la Barrera,37.3785292,-5.9797394
+36245141,primary,Glorieta Solidaridad y Vida,37.4073969,-5.9789401
+36276104,secondary,Calle Ingeniero de la Cierva,37.3704922,-5.9516339
+36276119,primary_link,Plaza de Ruperto Chapí,37.3765554,-5.9610295
+36356418,primary,Avenida de la Paz,37.3618299,-5.9600277
+36356441,secondary,Sin nombre,37.3552563,-5.9703779
+36379275,primary_link,Sin nombre,37.4352655,-5.9739916
+36379280,primary,Glorieta Astrofísica,37.4204465,-5.9767946
+36379286,primary,Calle Parque Sierra de Castril,37.4182137,-5.9757234
+36731255,primary,Avenida Ramón Carande,37.3723854,-5.978497
+36731277,primary,Sin nombre,37.3767436,-5.979534
+36738324,secondary,Calle Alfonso Lasso de Vega,37.3665331,-5.9724368
+36740360,primary,Carretera de Su Eminencia,37.3564385,-5.9792633
+36743851,primary,Sin nombre,37.3865173,-5.9431046
+36743870,primary,Avenida Montes Sierra,37.3957672,-5.9494711
+36930029,trunk_link,Sin nombre,37.3867819,-5.9358975
+37450945,primary,Sin nombre,37.3512138,-5.9768534
+37526924,primary,Calle Recaredo,37.3917064,-5.9840695
+37590215,secondary,Sin nombre,37.4139247,-5.9310178
+37850943,secondary_link,Sin nombre,37.3557662,-5.990138
+37850944,secondary_link,Sin nombre,37.355771,-5.9897192
+38622294,secondary,Calle Arroyo,37.3984887,-5.9737301
+39658617,primary_link,Avenida Ramón y Cajal,37.3736145,-5.9646669
+39659759,primary,Carretera de Su Eminencia,37.3605226,-5.9596229
+39660008,primary,Glorieta Doctor Juan Bermudo de la Rosa,37.3630372,-5.9741122
+39671962,secondary,Sin nombre,37.3758162,-5.9447534
+39685537,motorway_link,Sin nombre,37.3774892,-5.9440579
+39723098,trunk,Autovía de Sevilla a Almería por Granada,37.3842753,-5.91068
+39723099,trunk,Autovía de Sevilla a Almería por Granada,37.3848449,-5.9123677
+39723100,trunk,Autovía de Sevilla a Almería por Granada,37.3841826,-5.9107209
+39723101,trunk,Autovía de Sevilla a Almería por Granada,37.3780968,-5.896714
+39723105,secondary_link,Sin nombre,37.3796624,-5.9003709
+39723107,secondary,Sin nombre,37.3782756,-5.9024404
+39723108,secondary,"Vía Borde de ""El Pino""",37.3770667,-5.906154
+39723111,secondary_link,Sin nombre,37.3794886,-5.9002205
+39723574,motorway_link,Sin nombre,37.4180677,-5.918577
+39723579,motorway,Autovía del Sur,37.4139973,-5.931056
+39723580,motorway,Autovía del Sur,37.4131713,-5.9330543
+39723581,motorway,Autovía del Sur,37.4138805,-5.9309795
+39723582,motorway,Autovía del Sur,37.4147366,-5.9288757
+39723583,secondary,Sin nombre,37.4141964,-5.9306411
+39723584,secondary,Sin nombre,37.4146033,-5.9306951
+39723586,trunk,Ronda Norte de Sevilla,37.4174224,-5.9382126
+39723587,motorway_link,Sin nombre,37.4124074,-5.9350903
+39723589,secondary,Sin nombre,37.4136352,-5.9313645
+39723590,secondary,Sin nombre,37.4133801,-5.9312049
+39723592,primary,Glorieta Palacio de Congresos,37.4050655,-5.9346887
+39723593,secondary,Sin nombre,37.4060479,-5.9351714
+39723594,secondary,Sin nombre,37.4059973,-5.9352947
+39723598,trunk,Ronda Norte de Sevilla,37.4350655,-5.9694446
+39723599,trunk_link,Sin nombre,37.4292356,-5.988684
+39723600,trunk_link,Sin nombre,37.4295872,-5.9877183
+39723676,trunk,Ronda Supernorte de Sevilla,37.4248963,-6.0002797
+39723679,trunk,Ronda Norte de Sevilla,37.4217913,-6.004861
+39723681,secondary_link,Sin nombre,37.4134476,-6.0037514
+39723682,secondary_link,Sin nombre,37.4144589,-6.0058701
+39962256,primary,Sin nombre,37.3870397,-5.9543741
+39990191,motorway_link,Sin nombre,37.3820563,-5.9425468
+39990562,secondary_link,Calle Ingeniero de la Cierva,37.3757926,-5.9445728
+39990565,motorway_link,Sin nombre,37.3781893,-5.9433924
+39990752,primary,Calle Carlos Marx,37.381075,-5.9523886
+39990753,secondary,Sin nombre,37.3817206,-5.9510417
+40409869,secondary,Avenida de la Cruz del Campo,37.3847128,-5.9654879
+40440041,primary,Calle Poeta Manuel Benítez Carrasco,37.3668952,-5.9710605
+40440042,primary,Glorieta Miguel Ángel Blanco,37.3669685,-5.9713635
+40440043,secondary,Calle Alfonso Lasso de Vega,37.3667295,-5.9725168
+40695356,motorway,Sin nombre,37.4073708,-5.948193
+40695357,motorway,Sin nombre,37.406198,-5.9485888
+40695358,motorway_link,Sin nombre,37.4074307,-5.9490878
+40695359,motorway_link,Sin nombre,37.4078735,-5.9492287
+40695360,motorway_link,Sin nombre,37.4081498,-5.9479955
+40695361,motorway,Circunvalación de Sevilla,37.4064523,-5.9487354
+40695363,motorway,Circunvalación de Sevilla,37.4075163,-5.9491195
+40695364,motorway,Circunvalación de Sevilla,37.4070981,-5.9489821
+40695367,motorway_link,Sin nombre,37.3964829,-5.9444064
+40695368,motorway_link,Sin nombre,37.3984617,-5.944871
+40695369,motorway_link,Sin nombre,37.4015587,-5.9467919
+40696777,primary,Glorieta Rafael Gordillo,37.3997136,-5.9623699
+40734487,primary,Calle Torcuato Luca de Tena,37.3621771,-5.976446
+40734488,primary,Calle Torcuato Luca de Tena,37.3626888,-5.974899
+40734491,primary,Calle Torcuato Luca de Tena,37.3622572,-5.9763246
+40734492,primary,Calle Torcuato Luca de Tena,37.3627384,-5.9749257
+40734493,secondary,Sin nombre,37.3657398,-5.9771549
+40734494,secondary,Calle Alfonso Lasso de Vega,37.3659875,-5.9759114
+40734495,secondary,Sin nombre,37.3658176,-5.9771837
+40734496,secondary,Calle Cardenal Ilundáin,37.3654727,-5.9787209
+40891474,secondary,Calle Doctor Miguel Ríos Sarmiento,37.3906919,-5.9208069
+40910826,motorway_link,Sin nombre,37.4092599,-5.9430881
+40963314,motorway_link,Sin nombre,37.4001308,-5.9442927
+40963315,motorway_link,Sin nombre,37.4013929,-5.945206
+40981009,motorway_link,Sin nombre,37.3898376,-5.9417851
+41740796,primary,Avenida Ramón y Cajal,37.375945,-5.9708555
+43648192,primary,Ronda del Tamarguillo,37.3699015,-5.9688516
+43648193,primary,Ronda del Tamarguillo,37.3697669,-5.9686971
+43648194,primary,Ronda del Tamarguillo,37.3710948,-5.9672456
+43648195,primary,Ronda del Tamarguillo,37.3731851,-5.9646844
+43768267,trunk_link,Sin nombre,37.4167988,-5.9281729
+43768272,trunk_link,Sin nombre,37.4153761,-5.9312774
+43770789,motorway_link,Sin nombre,37.4258655,-5.9026702
+43770812,motorway_link,Sin nombre,37.4260048,-5.9002378
+43770915,motorway_link,Sin nombre,37.4262273,-5.900678
+43796141,trunk_link,Sin nombre,37.3840195,-5.909793
+43796168,trunk_link,Sin nombre,37.382181,-5.9045715
+44060299,trunk_link,Sin nombre,37.3860961,-5.9388729
+44855972,primary,Glorieta Plus Ultra,37.3568602,-5.9805385
+45081684,primary_link,Avenida Ramón y Cajal,37.3735525,-5.9648072
+45103446,primary,Sin nombre,37.3760241,-5.9754431
+45110568,primary_link,Sin nombre,37.3777962,-5.9748811
+45172175,primary,Sin nombre,37.378065,-5.9793726
+45572006,primary,Ronda del Tamarguillo,37.3736303,-5.9641779
+45572008,primary,Ronda del Tamarguillo,37.373693,-5.9642745
+45572009,primary_link,Sin nombre,37.377303,-5.9605652
+45572046,primary,Calle Clemente Hidalgo,37.385187,-5.9597287
+45744236,primary_link,Avenida de Hytasa,37.3732677,-5.9641737
+45744237,primary_link,Avenida de Hytasa,37.3732125,-5.9642637
+45744238,primary,Avenida de Hytasa,37.3729388,-5.9637423
+46156629,primary,Carretera de Su Eminencia,37.3603194,-5.9595678
+46156631,primary,Carretera Su Eminencia,37.3617329,-5.9586973
+46654064,primary,Glorieta de los Ferroviarios,37.4216734,-5.9828595
+46654165,secondary,Calle de José Galán Merino,37.420675,-5.9873093
+46654166,secondary,Calle de José Galán Merino,37.4179971,-5.9876134
+46654167,secondary,Calle Medina y Galnares,37.4232145,-5.9823645
+46654169,primary,Avenida San Jerónimo,37.4197336,-5.984307
+48500462,primary,A-376 Autovía Sevilla - Utrera,37.3537438,-5.9445731
+48500463,primary,A-376 Autovía Sevilla - Utrera,37.3537441,-5.9448812
+48500464,primary,Sin nombre,37.3533658,-5.9429409
+48500465,primary,Avenida de las Universidades,37.3418896,-5.9497969
+48500466,primary,A-376 Autovía Sevilla - Utrera,37.3446196,-5.9328949
+48500467,primary,A-376 Autovía Sevilla - Utrera,37.3467142,-5.9361125
+48500468,primary,Calle Rectora Rosario Valpuesta Fernández,37.3477665,-5.9471876
+48500469,primary,Sin nombre,37.3524144,-5.9436405
+48500470,primary_link,Sin nombre,37.3524066,-5.9428321
+48500471,primary,Sin nombre,37.3454926,-5.9492453
+48500472,primary,Sin nombre,37.3518998,-5.9438531
+48500473,primary,Sin nombre,37.3521106,-5.9437147
+48500474,primary,Sin nombre,37.3521162,-5.9438431
+48500476,primary,A-376 Autovía Sevilla - Utrera,37.3491685,-5.9391615
+48500477,primary,A-376 Autovía Sevilla - Utrera,37.3489242,-5.9389393
+48500478,primary,A-376 Autovía Sevilla - Utrera,37.3491177,-5.9392891
+48500479,primary_link,A-376 Autovía Sevilla - Utrera,37.3487278,-5.9389204
+48500480,primary,A-376 Autovía Sevilla - Utrera,37.3513428,-5.9415925
+48500482,primary,A-376 Autovía Sevilla - Utrera,37.3529263,-5.9433721
+48500483,primary,Sin nombre,37.353093,-5.9428756
+48500484,primary,Sin nombre,37.3531331,-5.9429918
+48500485,primary,A-376 Autovía Sevilla - Utrera,37.3511204,-5.9413738
+48500486,primary,Avenida de la Paz,37.3606295,-5.9580202
+48500487,primary,A-376 Autovía Sevilla - Utrera,37.3558908,-5.9490462
+48500488,primary,A-376 Autovía Sevilla - Utrera,37.356105,-5.9494923
+48500489,primary,A-376 Autovía Sevilla - Utrera,37.3560011,-5.9492757
+48500490,primary,A-376 Autovía Sevilla - Utrera,37.3558209,-5.9490884
+48500491,primary,A-376 Autovía Sevilla - Utrera,37.3560301,-5.9495284
+48500492,primary,A-376 Autovía Sevilla - Utrera,37.3559268,-5.9493143
+48500493,primary,A-376 Autovía Sevilla - Utrera,37.3582647,-5.9535774
+48500494,primary,A-376 Autovía Sevilla - Utrera,37.3566838,-5.9508821
+48500495,primary,Autovía de Sevilla a Utrera,37.3583316,-5.9533799
+48500496,primary,A-376 Autovía Sevilla - Utrera,37.3565734,-5.9504791
+48597943,secondary,Avenida Hermanos de la Cruz Blanca,37.3317971,-5.9204654
+48597946,motorway_link,A-376 Autovía Sevilla - Utrera,37.3364179,-5.9216675
+48597947,motorway_link,A-376 Autovía Sevilla - Utrera,37.3359611,-5.9201589
+48597948,motorway_link,A-376 Autovía Sevilla - Utrera,37.3349949,-5.9206425
+48597949,motorway_link,A-376 Autovía Sevilla - Utrera,37.3346134,-5.9192732
+48597950,motorway_link,A-376 Autovía Sevilla - Utrera,37.3342496,-5.9185034
+48597951,secondary,A-376 Autovía Sevilla - Utrera,37.334481,-5.9201034
+48597952,secondary,Sin nombre,37.3353984,-5.9195969
+48597953,secondary,Sin nombre,37.3360896,-5.9196756
+48629919,primary,Calle Tecnología,37.4223028,-5.9774246
+48662507,primary,Glorieta Berrocal,37.4158594,-5.9747271
+48662508,primary,Glorieta Berrocal,37.4160717,-5.9737377
+48662509,primary,Glorieta Berrocal,37.4163121,-5.9739473
+48799235,primary_link,Sin nombre,37.3583238,-5.9532828
+48799236,motorway_link,Sin nombre,37.3598399,-5.9531994
+49399553,primary,Avenida San Jerónimo,37.4139002,-5.9879477
+49664466,primary,Avenida José Laguillo,37.393783,-5.9827129
+49664467,primary,Avenida José Laguillo,37.3908066,-5.9765109
+50001920,secondary,Calle Juan Antonio Cavestany,37.3898332,-5.9803843
+50001921,secondary,Calle Juan Antonio Cavestany,37.3917915,-5.9783051
+50001925,secondary,Calle José María Moreno Galván,37.3874651,-5.9827277
+51999731,primary,Avenida de las Universidades,37.3418917,-5.9499714
+53380843,primary,Calle Torcuato Luca de Tena,37.3611594,-5.9794556
+53380857,primary,Calle Torcuato Luca de Tena,37.36084,-5.980329
+53380859,primary,Calle Torcuato Luca de Tena,37.36084,-5.980329
+53380861,primary,Calle Torcuato Luca de Tena,37.362422,-5.9756504
+53380862,primary,Calle Torcuato Luca de Tena,37.362476,-5.9756657
+53627964,primary_link,Sin nombre,37.3536198,-5.9435686
+53627966,secondary,Condes de Ybarra,37.329934,-5.9375459
+53627968,secondary,Sin nombre,37.3320035,-5.9358353
+53627969,primary_link,Sin nombre,37.3515441,-5.9435775
+53627974,primary_link,Sin nombre,37.3519846,-5.9416526
+53627980,primary_link,Sin nombre,37.3549341,-5.9464613
+53826243,secondary,Plaza de Chapina,37.3892223,-6.0078334
+53827956,primary,Calle José Laguillo,37.3914305,-5.9778382
+53827960,secondary,Calle Samaniego,37.3953334,-5.9736366
+54617127,secondary_link,Sin nombre,37.3698117,-5.985615
+54617128,secondary,Avenida de la Guardia Civil,37.3694814,-5.9864159
+54617130,secondary_link,Sin nombre,37.3695857,-5.9883702
+54617132,secondary,Avenida Moliní,37.3694068,-5.9883684
+54617134,primary,Puente de las Delicias,37.3676246,-5.9893066
+54617143,primary_link,Sin nombre,37.3690565,-5.987341
+54617145,secondary,Sin nombre,37.3693669,-5.985694
+55137625,secondary_link,Sin nombre,37.4141375,-5.9936963
+55137627,secondary,Avenida Álvaro Alonso Barba,37.4122572,-5.9941065
+55137634,secondary,Avenida Álvaro Alonso Barba,37.4115541,-5.994274
+55137644,secondary_link,Sin nombre,37.4137262,-5.994058
+55137648,secondary,Glorieta Beatriz Manchón,37.4118844,-5.9941805
+55137650,secondary_link,Sin nombre,37.412624,-5.9937697
+55137652,secondary_link,Sin nombre,37.412132,-5.9939303
+55137654,secondary_link,Sin nombre,37.4123339,-5.9939827
+55137655,secondary_link,Sin nombre,37.4144907,-5.9938041
+55137657,secondary,Glorieta General Riego,37.4149103,-5.9939662
+55137659,secondary,Avenida Álvaro Alonso Barba,37.4145576,-5.9939263
+55189247,secondary,Sin nombre,37.4272845,-5.9866224
+55461510,primary,Avenida Flota de Indias,37.3715034,-5.998972
+55461511,primary,Calle Alfonso de Orleans y Borbón,37.3701221,-6.0040421
+55461512,primary,Sin nombre,37.3742378,-6.0088805
+55495072,primary,Avenida de Jerez,37.3426801,-5.9732043
+55495073,primary,Avenida de Jerez,37.3545895,-5.9791416
+55495076,secondary,Avenida de Italia,37.3501677,-5.9867424
+55495083,secondary,Avenida de Las Razas,37.3558905,-5.98986
+55495085,primary,Glorieta Plus Ultra,37.3560755,-5.979812
+55495098,motorway_link,Sin nombre,37.3386288,-5.9712326
+55501386,secondary,Sin nombre,37.3424562,-5.9843656
+55501387,secondary,Sin nombre,37.3423545,-5.984169
+55501388,secondary,Sin nombre,37.3413695,-5.9848491
+55501389,secondary,Sin nombre,37.3414556,-5.9850334
+55501391,secondary,Sin nombre,37.3420495,-5.9845517
+55501399,motorway_link,Sin nombre,37.3402995,-5.9707479
+55501400,motorway_link,Sin nombre,37.341763,-5.9725618
+55787634,motorway_link,Sin nombre,37.3691349,-6.0136846
+55787636,secondary,Calle Ramón y Cajal,37.366272,-6.0257543
+55787640,motorway,Circunvalación de Sevilla,37.369244,-6.0145944
+55787644,motorway_link,Sin nombre,37.3687453,-6.0143488
+55787646,motorway_link,Sin nombre,37.3737883,-6.0156411
+55787647,motorway,Circunvalación de Sevilla,37.3727139,-6.0163181
+55787648,motorway,Circunvalación de Sevilla,37.3718107,-6.0155419
+55787649,motorway,Circunvalación de Sevilla,37.371819,-6.0162363
+55787650,motorway_link,Sin nombre,37.3706227,-6.0132075
+55789764,primary,Carretera Su Eminencia,37.3669546,-5.9545101
+55789765,secondary,Calle 8 de Marzo,37.3683639,-5.9534171
+55789799,primary,Glorieta Cuzco,37.3676087,-5.9541228
+55848466,secondary,Calle Ingeniero de la Cierva,37.3756094,-5.9449008
+55848485,motorway_link,Sin nombre,37.3812962,-5.9429427
+55848486,motorway_link,Sin nombre,37.3808739,-5.9423428
+55848488,secondary,Calle Estrecho de Magallanes,37.3768912,-5.9436236
+55848495,motorway_link,Sin nombre,37.3804499,-5.942578
+55848500,motorway_link,Sin nombre,37.3824939,-5.9428025
+55848501,motorway_link,Sin nombre,37.3829219,-5.9424081
+55848502,motorway_link,Sin nombre,37.383042,-5.9426903
+55848503,motorway_link,Sin nombre,37.3830813,-5.9424293
+55854583,secondary,Sin nombre,37.3697631,-5.932327
+55854584,secondary,"Vía Borde de ""El Pino""",37.3742251,-5.9169498
+55854585,secondary,Sin nombre,37.3675967,-5.9437839
+55854586,secondary,Sin nombre,37.366988,-5.9441058
+55854587,secondary,"Vía Borde de ""El Pino""",37.3685897,-5.9377895
+55854588,secondary,Sin nombre,37.3680362,-5.9422778
+55854589,secondary,Sin nombre,37.3681026,-5.9423061
+55854590,secondary,Sin nombre,37.3678721,-5.9430106
+55854591,secondary,Sin nombre,37.3681548,-5.9416683
+55854592,secondary,Sin nombre,37.3682668,-5.940876
+55854593,secondary,Sin nombre,37.3690598,-5.9349159
+55854594,secondary,Sin nombre,37.3693267,-5.9337032
+55854597,secondary,"Vía Borde de ""El Pino""",37.371026,-5.9281789
+55854598,secondary,Sin nombre,37.3723612,-5.924326
+55854599,secondary,"Vía Borde de ""El Pino""",37.3730093,-5.9218103
+55854600,secondary,Sin nombre,37.3738612,-5.9194071
+55854601,secondary,Sin nombre,37.3788165,-5.9013988
+55854607,secondary,Sin nombre,37.3782126,-5.9023999
+56048724,trunk_link,Sin nombre,37.3857977,-5.915991
+56048750,trunk_link,Sin nombre,37.3839155,-5.9101403
+56452434,motorway,Circunvalación de Sevilla,37.3714091,-6.0264387
+56452435,motorway_link,Sin nombre,37.3713935,-6.0246457
+56452436,motorway_link,Sin nombre,37.3708466,-6.0264515
+56452437,motorway,Circunvalación de Sevilla,37.372532,-6.0273158
+57038763,primary,Carretera Su Eminencia,37.3616337,-5.958509
+57716594,primary,Avenida de Andalucía,37.3865569,-5.9426542
+57716601,primary,Calle Amor,37.3862965,-5.9436747
+57716602,primary,Avenida de Andalucía,37.3863818,-5.9415172
+57716603,primary,Calle Amor,37.3861064,-5.9434998
+57716605,primary_link,Sin nombre,37.3868762,-5.9465233
+57716606,primary_link,Sin nombre,37.3869868,-5.9484877
+57722442,trunk,Ronda Norte de Sevilla,37.4312657,-5.9854613
+57722444,motorway,Acceso Norte a Sevilla,37.4520275,-5.969975
+57722445,primary,Avenida Biología,37.4292469,-5.9773958
+57722446,primary,Avenida Biología,37.4319933,-5.9759125
+57722450,secondary,Avenida Doctor Fedriani,37.4174573,-5.9832781
+57722451,primary,Avenida Matemáticas,37.4245586,-5.9804873
+57722452,primary,Avenida Matemáticas,37.4247855,-5.9806788
+57722453,primary,Calle Tecnología,37.4252873,-5.9782755
+57722454,primary,Glorieta Estadística,37.4275699,-5.9784998
+57722455,primary,Calle Parque Sierra de Castril,37.4183374,-5.9754682
+57722469,trunk,Ronda Norte de Sevilla,37.4361468,-5.972475
+57722470,primary,Avenida San Jerónimo,37.4347616,-5.9738993
+57722471,primary,Sin nombre,37.4336972,-5.9748093
+57722472,trunk,Ronda Norte de Sevilla,37.4348859,-5.9696885
+57722475,motorway_link,Sin nombre,37.4380334,-5.972632
+57722476,motorway_link,Sin nombre,37.4379222,-5.9720547
+57727115,primary,Ronda Urbana Norte,37.4176194,-5.9625526
+57727120,primary,Ronda Urbana Norte,37.4165477,-5.9578868
+57727131,primary,Ronda Urbana Norte,37.4170855,-5.9595276
+57727132,primary,Ronda Urbana Norte,37.4172001,-5.9594684
+57732268,primary,Ronda Urbana Norte,37.4158144,-5.9552503
+57732269,primary,Ronda Urbana Norte,37.4153155,-5.9540848
+57732272,primary,Ronda Urbana Norte,37.413633,-5.9502773
+57732279,primary,Glorieta Fuerte de Navidad,37.4060237,-5.9546431
+57732280,secondary,Carretera de Carmona,37.4032743,-5.9584656
+57732281,secondary,Sin nombre,37.403007,-5.9584241
+57732282,secondary,Sin nombre,37.4029851,-5.9600459
+57732283,secondary,Carretera de Carmona,37.4028655,-5.9594836
+57732316,primary,Ronda Urbana Norte,37.4154178,-5.9540309
+57935988,primary,Avenida Ramón Carande,37.3744942,-5.9789196
+57935994,primary,Calle Doctor Pedro de Castro,37.3773508,-5.9816747
+57935996,primary,Sin nombre,37.3765238,-5.9794093
+57935997,primary,Sin nombre,37.3766684,-5.9793646
+57935998,primary,Avenida Ramón Carande,37.3768415,-5.9792803
+57935999,primary,Avenida de Diego Martínez Barrio,37.3754558,-5.9758624
+57936000,primary,Avenida San Francisco Javier,37.3773344,-5.9748648
+57938823,primary,Avenida de Diego Martínez Barrio,37.3734252,-5.9762205
+58796468,primary_link,Sin nombre,37.3587257,-5.9542946
+58796473,primary_link,Sin nombre,37.358202,-5.9536434
+58796474,primary_link,Sin nombre,37.3576597,-5.9527842
+58800421,primary,Sin nombre,37.3937613,-5.9525207
+58989892,primary,Calle Telegrafistas,37.4159443,-5.9730499
+58989916,primary,Avenida Alcalde Manuel de Valle,37.4067353,-5.9698577
+58989921,primary,Avenida Alcalde Manuel de Valle,37.4096923,-5.970949
+58989928,primary,Avenida Alcalde Manuel de Valle,37.4139523,-5.9732705
+58993468,secondary,Sin nombre,37.388722,-5.9836042
+58993469,primary,Calle Luis Montoto,37.3885648,-5.9834348
+58993470,primary,Avenida Menéndez Pelayo,37.3876674,-5.9850383
+58993471,primary,Calle Amador de Los Ríos,37.3893765,-5.9826454
+59085715,secondary,Glorieta Rugby San Jerónimo,37.4245143,-5.9822161
+59085722,secondary,Calle Medina y Galnares,37.4264215,-5.981687
+59085732,secondary,Calle Medina y Galnares,37.4232216,-5.9826032
+59471047,motorway,Autovía del Sur,37.4294043,-5.8936526
+59471057,motorway_link,Sin nombre,37.4267745,-5.8993519
+59529524,secondary,Avenida de la Buhaira,37.3858022,-5.9786013
+59987162,trunk_link,Sin nombre,37.3857344,-5.9180639
+59990684,primary,Sin nombre,37.3867863,-5.9223278
+59990687,primary,Sin nombre,37.3861045,-5.9234134
+59990690,primary,Sin nombre,37.3856907,-5.9243996
+59990696,primary,Sin nombre,37.3863958,-5.9231855
+59990698,primary_link,Sin nombre,37.3863728,-5.9228587
+59990699,trunk_link,Sin nombre,37.3861083,-5.9218361
+59990700,primary,Sin nombre,37.386833,-5.9212187
+59990701,primary,Sin nombre,37.3867275,-5.9223094
+59990703,primary,Sin nombre,37.3857794,-5.9237674
+60045918,secondary,Avenida El Greco,37.3888111,-5.9660053
+60045934,secondary,Sin nombre,37.3898753,-5.9664462
+60140832,secondary,"Vía Borde de ""El Pino""",37.3754228,-5.9122949
+60140834,secondary,"Vía Borde de ""El Pino""",37.3770015,-5.9061233
+60769715,primary,Calle Enramadilla,37.3791377,-5.9813265
+61278252,secondary,Carretera de Carmona,37.4023801,-5.9598461
+61278261,primary_link,Sin nombre,37.4020045,-5.9597117
+61278262,primary,Avenida Kansas City,37.3906236,-5.9739424
+61278272,secondary,Avenida El Greco,37.3930144,-5.9707289
+61278274,primary_link,Sin nombre,37.3986708,-5.9638861
+61278275,primary,Sin nombre,37.3931762,-5.9706885
+61278279,secondary,Avenida El Greco,37.3929837,-5.9707745
+61278284,secondary,Avenida El Greco,37.3922055,-5.9697553
+61323604,secondary,Avenida de Europa,37.3347882,-5.930188
+61323609,secondary,Sin nombre,37.3358643,-5.9326374
+61883718,motorway,Sin nombre,37.3606737,-6.0294849
+61883720,motorway,Sin nombre,37.3592902,-6.0287397
+61883722,motorway,Sin nombre,37.3606329,-6.0295914
+61912576,primary,Glorieta Sergio Rodríguez Prat,37.3873896,-5.9587903
+61912577,primary,Avenida Kansas City,37.4014782,-5.9604697
+61912578,primary,Avenida Kansas City,37.3948773,-5.9688969
+61912580,secondary,Calle Carretera de Carmona,37.4028795,-5.9638656
+61912585,primary,Avenida de Andalucía,37.3875238,-5.9633601
+61912589,primary,Avenida Kansas City,37.3998651,-5.9624844
+61912590,primary,Glorieta Rafael Gordillo,37.400189,-5.9623883
+61912592,primary,Avenida Kansas City,37.3999368,-5.9625622
+61912597,primary,Avenida de la Areonáutica,37.3893266,-5.9203045
+61912601,primary,Avenida de las Ciencias,37.3902563,-5.9199886
+61912607,secondary,Calle Carretera de Carmona,37.4028434,-5.9634305
+61912614,secondary,Sin nombre,37.4029058,-5.9635843
+61912616,secondary,Sin nombre,37.4133506,-5.9313831
+61912625,primary,Avenida de las Ciencias,37.3902648,-5.9202293
+61982196,secondary,Sin nombre,37.4146482,-5.930479
+64440179,secondary,Sin nombre,37.3526797,-5.9839544
+64440183,secondary,Sin nombre,37.3529425,-5.9838885
+64440185,secondary,Calle Ifni,37.3540361,-5.9833873
+64440191,secondary,Sin nombre,37.3526955,-5.9840104
+65629597,secondary,Sin nombre,37.3515738,-5.9776251
+65629598,secondary,Avenida de Finlandia,37.3435884,-5.9785899
+65629608,secondary,Sin nombre,37.3514214,-5.9777403
+65629610,primary,Sin nombre,37.3440325,-5.9744316
+65629617,secondary,Avenida de Finlandia,37.3442725,-5.9752547
+65629670,secondary,Avenida de Grecia,37.3515186,-5.9842058
+65629675,secondary,Sin nombre,37.350003,-5.9874524
+65629682,secondary,Avenida de Finlandia,37.3435628,-5.9799025
+65629705,secondary,Avenida de Finlandia,37.344089,-5.9752561
+66496251,primary,Avenida de Jerez,37.3488156,-5.9764093
+66496255,primary,Avenida de Jerez,37.3522362,-5.9775816
+66496257,primary_link,Sin nombre,37.3514712,-5.9774291
+66496259,primary,Avenida de Jerez,37.3513208,-5.977193
+66496262,primary,Avenida de Jerez,37.351363,-5.977066
+67072514,primary,Calle Sor Francisca Dorotea,37.4073475,-5.9804945
+67072530,secondary,Avenida Doctor Fedriani,37.4086328,-5.9850816
+67072538,primary,Calle José Díaz,37.4083346,-5.9887123
+67072554,primary,Calle Manuel Villalobos,37.407172,-5.9828196
+67072555,secondary,Avenida Doctor Fedriani,37.4108281,-5.9841536
+67075444,primary,Calle San Juan de Ribera,37.4038712,-5.9874821
+67075447,primary,Avenida Doctor Fedriani,37.4056061,-5.9863006
+67162261,secondary,Calle Arroyo,37.3938388,-5.9821751
+67162264,secondary,Calle Samaniego,37.3959955,-5.9743766
+67162281,secondary,Calle Tharsis,37.3991254,-5.971858
+67332791,primary,Calle Torneo,37.3939125,-6.0034316
+67332829,primary,Avenida del Cristo de la Expiración,37.3905302,-6.002992
+67661824,primary_link,Sin nombre,37.3947035,-6.0030971
+69181203,primary,Avenida San Jerónimo,37.4195479,-5.9841866
+69251738,secondary,Avenida Pablo Iglesias,37.3953261,-5.9737602
+69975864,primary,Calle Torneo,37.3991427,-5.9995633
+69975866,primary,Calle Torneo,37.3931067,-6.0036373
+69975869,primary,Plaza Duquesa Cayetana de Alba,37.4038193,-5.9953291
+69975872,primary_link,Sin nombre,37.4035446,-5.9956527
+69978178,primary,Avenida de El Cid,37.3799906,-5.9887677
+69978179,primary,Plaza Don Juan de Austria,37.3812823,-5.9884405
+69978180,primary,Plaza Don Juan de Austria,37.3809866,-5.9883681
+69978182,primary,Calle Arjona,37.3887133,-6.0022408
+69986854,primary,Calle Torneo,37.4031681,-5.9958285
+69986859,primary,Plaza Duquesa Cayetana de Alba,37.4034908,-5.995354
+69986942,primary,Calle Torneo,37.3975636,-6.0010649
+69986967,primary,Paseo de las Delicias,37.3823112,-5.995893
+69986998,primary,Plaza Don Juan de Austria,37.381188,-5.9886656
+69987005,primary,Plaza Don Juan de Austria,37.3810095,-5.988548
+70843024,motorway_link,Sin nombre,37.3747635,-6.0150266
+70912706,primary,Avenida Carlos III,37.3918787,-6.01334
+70912711,primary,Avenida Carlos III,37.3895568,-6.0136379
+70912714,primary,Avenida Carlos III,37.3895639,-6.013763
+70912719,trunk,Carretera Gijón a Puerto de Sevilla,37.3865933,-6.014083
+70971059,primary,Calle Matemáticos Rey Pastor y Castro,37.4055312,-6.0031872
+70971069,primary,Calle Marie Curie,37.4058665,-6.0060785
+70971075,primary,Calle Marie Curie,37.4061963,-6.0060431
+70971079,primary,Sin nombre,37.4071088,-6.0091845
+70971084,primary,Calle Matemáticos Rey Pastor y Castro,37.4053399,-6.0019958
+70971096,primary,Calle Matemáticos Rey Pastor y Castro,37.4055089,-6.0026934
+72473670,motorway,Autovía Ruta de la Plata,37.4212572,-6.0294011
+72473690,motorway,Autovía Ruta de la Plata,37.4252643,-6.0298312
+72473763,motorway,Autovía Ruta de la Plata,37.4253074,-6.0296176
+72545420,motorway_link,Sin nombre,37.3739516,-6.0274043
+72606405,motorway_link,Sin nombre,37.4116867,-5.936172
+72606447,motorway_link,Sin nombre,37.4083345,-5.9486009
+72612422,secondary_link,Sin nombre,37.3745051,-6.0275532
+72612428,secondary_link,Sin nombre,37.374387,-6.0272984
+72612432,secondary_link,Sin nombre,37.3742223,-6.0270085
+72875452,primary,Sin nombre,37.3870383,-5.9499783
+72880898,secondary,Avenida de la Ciudad Jardin,37.3791442,-5.9660696
+73036994,primary,Calle Poeta Manuel Benítez Carrasco,37.3665036,-5.9714776
+73036998,secondary,Sin nombre,37.3551234,-5.9703478
+73037017,primary,Avenida de la Paz,37.3611626,-5.9590961
+73037025,primary_link,Sin nombre,37.3671569,-5.9659676
+73037038,primary,Sin nombre,37.365269,-5.9641366
+73037041,secondary,Sin nombre,37.3550349,-5.9701226
+73037051,primary,Sin nombre,37.3670244,-5.9662399
+73037067,primary,Calle Poeta Manuel Benítez Carrasco,37.3663985,-5.9714041
+73037083,primary,Sin nombre,37.3552174,-5.9697198
+73037085,primary,Carretera de Su Eminencia,37.3555349,-5.9722017
+73037087,primary,Sin nombre,37.3553325,-5.9691275
+73037092,secondary,Sin nombre,37.3550848,-5.9702166
+73037095,primary,Avenida de la Paz,37.3604636,-5.9579584
+73037129,primary,Carretera de Su Eminencia,37.35569,-5.9729962
+73232406,primary,Sin nombre,37.3895183,-6.0136357
+73232408,primary,Avenida Expo´92,37.3897198,-6.011592
+73241940,primary,Avenida de Portugal,37.3788158,-5.9872913
+73241942,primary,Avenida de Portugal,37.3782229,-5.9853825
+73241960,primary,Calle Doctor Pedro de Castro,37.377376,-5.982108
+73241980,primary,Avenida de Ramón y Cajal,37.3771666,-5.9750818
+73922425,primary_link,Sin nombre,37.3482208,-5.9379631
+74536731,trunk,Carretera de la Esclusa,37.3546163,-6.0023568
+74536801,trunk,Carretera de la Esclusa,37.3575577,-6.0023513
+74686092,primary,Calle Virgen del Patrocinio,37.3893693,-6.0103459
+74686648,secondary,Calle Alvarado,37.3882289,-6.0077894
+74721571,secondary,Avenida de Europa,37.3328518,-5.9262927
+74721590,secondary,Avenida de Europa,37.3304924,-5.9228952
+74721595,secondary,Glorieta Tacito,37.336903,-5.9354373
+74721598,secondary,Sin nombre,37.3315128,-5.9241386
+74721605,secondary,Sin nombre,37.3336481,-5.9277183
+74721608,secondary,Avenida de Europa,37.3363544,-5.9339547
+74721609,motorway_link,Sin nombre,37.3438686,-5.9321947
+75107810,secondary,Calle 8 de Marzo,37.3696543,-5.9524171
+75110942,secondary,Avenida de la Ciudad Jardin,37.3761227,-5.9668465
+75110947,secondary,Calle Ingeniero de la Cierva,37.3725162,-5.9490144
+75110949,primary,Avenida Ramón y Cajal,37.3750309,-5.9677045
+75110950,primary_link,Avenida Ramón y Cajal,37.3750166,-5.9677045
+75110954,secondary,Avenida de la Ciudad Jardin,37.3761261,-5.9668958
+75110955,primary,Avenida Ramón y Cajal,37.3745189,-5.9664877
+75183667,secondary,Sin nombre,37.4294331,-5.9316471
+75183729,secondary,Sin nombre,37.4299275,-5.9320655
+75380431,motorway_link,Sin nombre,37.3659425,-6.0301054
+75687662,primary,Avenida Alcalde Luis Uruñuela,37.403981,-5.9284946
+76220645,primary,Glorieta Sergio Rodríguez Prat,37.3875774,-5.9591087
+77481336,secondary,Sin nombre,37.3797571,-6.0269679
+77482056,secondary,Sin nombre,37.3832408,-6.026395
+77482091,secondary,La Pañoleta-San Juan de Aznalfarache,37.3838443,-6.0260967
+77491819,motorway_link,Sin nombre,37.3764521,-6.0264346
+77491866,motorway_link,Sin nombre,37.3746692,-6.0264648
+77491986,motorway_link,Sin nombre,37.3746688,-6.0263932
+77492002,motorway_link,Sin nombre,37.3752317,-6.026302
+77492225,motorway_link,Sin nombre,37.3767405,-6.0269848
+77492243,secondary,Avenida del Manchón,37.3743839,-6.0289936
+77492486,secondary,La Pañoleta-San Juan de Aznalfarache,37.3753802,-6.0276629
+77549339,secondary,Sin nombre,37.3617155,-6.0275369
+78051506,primary,Sin nombre,37.415568,-5.9765408
+78051507,primary,Sin nombre,37.4153504,-5.9757367
+78051511,primary,Sin nombre,37.4147378,-5.9780983
+78051519,primary,Sin nombre,37.4147457,-5.9788685
+78054833,trunk,Ronda Norte de Sevilla,37.435722,-5.9732514
+78054845,trunk,Ronda Norte de Sevilla,37.4360325,-5.973957
+78054850,trunk,Ronda Norte de Sevilla,37.436404,-5.9731862
+79289861,secondary,Calle Cardenal Ilundáin,37.3651844,-5.9797506
+79409355,primary,Ronda del Tamarguillo,37.379936,-5.9603749
+79517235,primary,Avenida de Andalucía,37.3872121,-5.9566079
+79606508,secondary,Avenida de Las Erillas,37.3691355,-6.0266587
+79606553,secondary,Sin nombre,37.3693904,-6.0267218
+79606790,secondary,Avenida de Las Erillas,37.3699972,-6.0268309
+79606792,secondary,Avenida de Las Erillas,37.3714378,-6.0276412
+79607020,motorway_link,Sin nombre,37.3705787,-6.0268181
+79607040,motorway_link,Sin nombre,37.3705357,-6.0270177
+79619938,trunk,Carretera de la Esclusa,37.3319693,-6.0054454
+79620287,trunk,Sin nombre,37.332133,-6.0055942
+79652057,secondary,Sin nombre,37.3368166,-5.990069
+79652077,secondary,Sin nombre,37.3325418,-5.9872156
+79652119,secondary,Sin nombre,37.3328487,-5.9879112
+79652143,secondary,Sin nombre,37.3368124,-5.9903312
+79652223,secondary,Sin nombre,37.3299913,-5.9865617
+79685020,primary_link,Sin nombre,37.3352271,-5.9696519
+80562136,motorway_link,Sin nombre,37.3418455,-5.9284874
+80562150,primary_link,Sin nombre,37.3431993,-5.9304271
+80562160,motorway_link,Sin nombre,37.3402519,-5.9269238
+81667205,primary,Avenida de Jerez,37.3350082,-5.96964
+81667210,primary,Avenida de Jerez,37.3332136,-5.9690176
+81667213,primary,Avenida de Jerez,37.335038,-5.9695253
+81667219,primary_link,Sin nombre,37.3350172,-5.9694571
+81735349,primary,Avenida Juan Pablo II,37.3677448,-5.9974344
+81735351,motorway_link,Sin nombre,37.374912,-6.0143873
+81735356,motorway_link,Sin nombre,37.3714583,-6.0136774
+81735359,primary,Avenida Juan Pablo II,37.3677175,-5.9965015
+81735371,motorway,Circunvalación de Sevilla,37.3716776,-6.0170599
+81735377,primary,Avenida Juan Pablo II,37.3689753,-6.0053189
+81735379,motorway_link,Sin nombre,37.3702345,-6.0136503
+82961387,primary,Avenida de las Ciencias,37.3931739,-5.9213105
+82961713,primary,Avenida de las Ciencias,37.3926501,-5.9206773
+83121285,secondary,Avenida Manuel Siurot,37.3692379,-5.9855529
+87090726,secondary,Sin nombre,37.3319837,-5.9867587
+87172976,motorway,Autovía Ruta de la Plata,37.4198393,-6.0299805
+87172978,motorway,Circunvalación de Sevilla,37.4137702,-6.0291886
+87173399,motorway_link,Sin nombre,37.3397976,-5.9809391
+87173401,motorway_link,Sin nombre,37.3385386,-5.9836244
+91315418,primary_link,Sin nombre,37.3576021,-5.9516725
+91315426,primary_link,Sin nombre,37.3571734,-5.9526069
+91315433,primary_link,Sin nombre,37.3566835,-5.9517823
+91315440,primary_link,Sin nombre,37.3569154,-5.9507256
+91315442,primary,Calle Rectora Rosario Valpuesta Fernández,37.3487364,-5.9465721
+92837613,motorway_link,Sin nombre,37.3881548,-6.0248488
+97031700,secondary,Calle Doctor Miguel Rios Sarmiento,37.4018756,-5.9333913
+97031707,secondary,Calle Doctor Miguel Rios Sarmiento,37.4011972,-5.9328991
+98742914,secondary,Calle Doctor Miguel Rios Sarmiento,37.4000822,-5.9321043
+98742917,secondary,Calle Doctor Miguel Rios Sarmiento,37.3998213,-5.9318643
+98742921,secondary,Calle Doctor Miguel Rios Sarmiento,37.3968731,-5.9297443
+98742924,secondary,Calle Doctor Miguel Rios Sarmiento,37.3981019,-5.9306745
+98742926,secondary,Calle Doctor Miguel Rios Sarmiento,37.399342,-5.9315208
+98742929,secondary,Calle Doctor Miguel Rios Sarmiento,37.3995855,-5.9316454
+98742934,secondary,Calle Doctor Miguel Rios Sarmiento,37.3995778,-5.9317396
+98742939,secondary,Calle Doctor Miguel Rios Sarmiento,37.3964065,-5.9294079
+98742944,secondary,Calle Doctor Miguel Rios Sarmiento,37.3966287,-5.929618
+98742947,secondary,Calle Doctor Miguel Rios Sarmiento,37.396651,-5.9295342
+98742948,secondary,Calle Doctor Miguel Ríos Sarmiento,37.3905429,-5.9209767
+98901309,primary,Avenida Alcalde Luis Uruñuela,37.4040416,-5.9283416
+98901310,primary,Avenida de las Ciencias,37.4038646,-5.9282093
+98901311,primary,Avenida de las Ciencias,37.4015401,-5.9267788
+98991760,primary,Carretera de Su Eminencia,37.3555482,-5.9717609
+98991762,primary,Carretera de Su Eminencia,37.3553974,-5.9710382
+98991764,primary,Carretera de Su Eminencia,37.3553472,-5.9697042
+99028633,primary,Avenida de las Ciencias,37.4027914,-5.9274074
+99368475,primary,Avenida Alcalde Luis Uruñuela,37.4029071,-5.9409915
+99368477,primary,Avenida Alcalde Luis Uruñuela,37.4045272,-5.9360896
+99368480,secondary,Sin nombre,37.4049215,-5.9357597
+99368489,secondary,Calle Doctor Miguel Ríos Sarmiento,37.3912259,-5.9235136
+99368495,primary,Avenida Alcalde Luis Uruñuela,37.4048782,-5.9308064
+99368499,primary,Avenida Alcalde Luis Uruñuela,37.4050431,-5.9347468
+99368500,primary,Avenida Alcalde Luis Uruñuela,37.4049092,-5.9346887
+99368512,secondary,Sin nombre,37.4054455,-5.9338401
+102882389,secondary,Sin nombre,37.3841276,-6.0263659
+103693006,motorway_link,Sin nombre,37.3618429,-6.0304512
+106360143,secondary,Avenida de Europa,37.334895,-5.9301505
+106360145,secondary,Avenida de Europa,37.3324207,-5.9253544
+106360148,secondary,Avenida de Europa,37.3364822,-5.9339248
+106935497,primary_link,Avenida de Eduardo Dato,37.3816528,-5.9664108
+106935498,primary_link,Avenida de Eduardo Dato,37.3814977,-5.966412
+110576974,primary,Sin nombre,37.4165414,-5.9700549
+112400444,motorway_link,Sin nombre,37.4128982,-6.0075322
+112735279,primary,Sin nombre,37.4166639,-5.9704886
+113628353,primary,Puente de San Telmo,37.3807432,-5.9963787
+113721876,secondary,Sin nombre,37.427311,-5.9867962
+113880131,secondary,Calle José María Moreno Galván,37.3850472,-5.9838864
+113880132,secondary,Calle José María Moreno Galván,37.3860988,-5.9834106
+113880133,secondary,Calle Juan de Mata Carrianzo,37.384707,-5.9840571
+113880678,secondary,Calle Juan de Mata Carrianzo,37.3845005,-5.983989
+113880679,secondary,Calle Juan de Mata Carriazo,37.3820043,-5.9835276
+116343004,primary,Calle Telegrafistas,37.4162422,-5.971479
+116343005,primary,Calle Parque de Grazalema,37.4162902,-5.9733264
+116804620,secondary,Sin nombre,37.3394269,-5.988581
+116804621,secondary,Sin nombre,37.3396556,-5.9872039
+116804622,secondary,Sin nombre,37.339404,-5.9901329
+116804777,secondary,Sin nombre,37.3324248,-5.9873391
+116804778,secondary,Sin nombre,37.3329552,-5.9879301
+116804854,secondary,Sin nombre,37.3341437,-5.9899597
+116804897,secondary,Sin nombre,37.3335725,-5.9889436
+116804898,secondary,Sin nombre,37.3334234,-5.9890859
+116818966,secondary,Sin nombre,37.3300383,-5.986373
+117618842,secondary,Avenida de Palmas Altas,37.3461605,-5.9901655
+117621841,primary,Avenida de El Cid,37.379753,-5.9892813
+117621847,primary,Glorieta de San Diego,37.3790924,-5.9892461
+117621850,primary,Avenida de Portugal,37.3786176,-5.9869236
+117621852,primary,Avenida de María Luisa,37.3789799,-5.9896041
+117622846,primary,Calle Palos de la Frontera,37.3796901,-5.9909885
+117622847,primary,Sin nombre,37.3778042,-5.9928521
+118586697,primary,Calle Enramadilla,37.37818,-5.9781601
+118912558,secondary,Calle Carretera de Carmona,37.4022278,-5.9712435
+119297895,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4133911,-5.9984005
+119297896,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.413567,-6.0042944
+120351354,primary,Ronda Urbana Norte,37.4159073,-5.9742271
+120351355,primary,Ronda Urbana Norte,37.4159846,-5.9742568
+120351356,primary,Ronda Urbana Norte,37.4163558,-5.9716407
+120351357,primary,Ronda Urbana Norte,37.4151492,-5.9772447
+120608119,secondary,Calle Luis Montoto,37.3887611,-5.9834248
+120694371,primary,Avenida Ramón Carande,37.3769463,-5.9793823
+121671513,motorway_link,Sin nombre,37.3406615,-5.9820935
+121671514,motorway,A-4 Sevilla - Cádiz,37.3366236,-5.9845431
+121671520,motorway_link,Sin nombre,37.3416598,-5.9803784
+121677945,motorway,Circunvalación de Sevilla,37.3724055,-6.024316
+121677947,motorway,Circunvalación de Sevilla,37.3727638,-6.0155688
+121677951,motorway,Circunvalación de Sevilla,37.3584884,-6.0043032
+121677953,motorway,Circunvalación de Sevilla,37.3793766,-6.0262657
+121677963,motorway_link,Sin nombre,37.374957,-6.0267837
+122193817,secondary,Avenida de la Buhaira,37.3822774,-5.9795793
+123316120,primary,Avenida de las Universidades,37.3285123,-5.9459295
+123316121,primary,Avenida de las Universidades,37.3361036,-5.9497989
+123316122,primary,Avenida de las Universidades,37.3286507,-5.945677
+123316123,primary,Avenida de las Universidades,37.3359701,-5.949896
+124717912,primary,Avenida Alcalde Manuel de Valle,37.4108202,-5.971825
+126352410,secondary_link,Sin nombre,37.4131185,-6.0055643
+126352411,motorway,Circunvalación de Sevilla,37.4135194,-6.0079011
+126352412,motorway,Circunvalación de Sevilla,37.4136379,-6.0088053
+127045078,secondary,Sin nombre,37.3558213,-6.0264064
+127353237,primary,Sin nombre,37.3872825,-6.0011271
+128374497,primary,Calle Tecnología,37.4219953,-5.977532
+128374498,primary,Calle Tecnología,37.4255939,-5.9782306
+129058524,primary,Sin nombre,37.3609021,-5.9582784
+129752914,motorway,Circunvalación de Sevilla,37.3452109,-5.9886888
+130420382,primary,Calle Cardenal Bueno Monreal,37.3675866,-5.9889028
+130420752,primary_link,Calle Cardenal Bueno Monreal,37.3675459,-5.9881414
+130420753,primary,Calle Cardenal Bueno Monreal,37.3675416,-5.9889373
+130524181,primary,Calle Cardenal Bueno Monreal,37.3683305,-5.9838749
+130524388,secondary,Avenida de Las Razas,37.360158,-5.9897762
+130542672,primary,Sin nombre,37.3749959,-5.9940434
+130542673,secondary,Pierre de Coubertin,37.3756343,-5.9952888
+130542675,secondary,Calle Virgen de Luján,37.3747337,-5.9950654
+130542677,secondary,Glorieta de las Cigarreras,37.3748579,-5.9944164
+131595435,trunk_link,Sin nombre,37.3859403,-5.9391922
+131595855,trunk_link,Sin nombre,37.3866761,-5.9381993
+131595856,motorway_link,Sin nombre,37.3854192,-5.9409456
+131595857,trunk_link,Sin nombre,37.3868275,-5.9392258
+131596022,motorway_link,Sin nombre,37.3876298,-5.9405925
+131882369,motorway_link,Sin nombre,37.3878096,-6.0268061
+131882633,motorway,Autovía del Quinto Centenario,37.3899404,-6.030248
+132214837,primary,Avenida José María Javierre,37.3901689,-5.9592269
+132432142,motorway_link,Sin nombre,37.4182151,-5.9175751
+132432143,trunk,Ronda Norte de Sevilla,37.4169599,-5.9241754
+132760401,primary,Calle Clemente Hidalgo,37.3853025,-5.9596022
+135516567,primary,Avenida de la Palmera,37.3678744,-5.9869732
+135737406,primary,Calle Cardenal Bueno Monreal,37.3698773,-5.9777958
+135737407,primary,Calle Cardenal Bueno Monreal,37.3710002,-5.9772928
+136169721,motorway_link,Sin nombre,37.3379754,-5.9839987
+136399244,secondary,"Vía Borde de ""El Pino""",37.374452,-5.9170181
+136399245,secondary,Sin nombre,37.3748373,-5.9145915
+136399246,secondary,"Vía Borde de ""El Pino""",37.3752894,-5.9122549
+136399247,secondary,Sin nombre,37.3758876,-5.909934
+137264603,primary,Avenida José María Javierre,37.3901128,-5.9585514
+137264871,primary,Sin nombre,37.3903157,-5.9589732
+137264873,primary,Sin nombre,37.3903491,-5.9585082
+137265084,primary,Calle Clemente Hidalgo,37.3853815,-5.9593758
+137265179,primary,Calle Clemente Hidalgo,37.3849701,-5.9597243
+138298697,secondary,Sin nombre,37.3403773,-5.9857191
+138713292,secondary,Sin nombre,37.3665431,-6.0258299
+140178975,secondary_link,Sin nombre,37.3808941,-6.026501
+140178990,secondary_link,Sin nombre,37.3822647,-6.0263134
+141362708,motorway,Autovía del Sur,37.4282736,-5.8965054
+141362710,primary,Avenida Kansas City,37.3964648,-5.9666475
+141388231,primary,Glorieta Julián Besteiros,37.3918237,-5.9781864
+141388233,motorway,Autovía del Sur,37.4197935,-5.9165098
+142501835,primary,Calle Luis Montoto,37.3875428,-5.9666352
+142501837,primary,Calle Luis Montoto,37.387347,-5.9716896
+142502375,secondary,Avenida El Greco,37.3903536,-5.9673807
+142502376,secondary,Avenida El Greco,37.3913843,-5.968724
+142578487,trunk,Autovía de Sevilla a Almería por Granada,37.3859638,-5.9277003
+142578496,trunk,Autovía de Sevilla a Almería por Granada,37.3857386,-5.9190426
+142578498,primary,Sin nombre,37.3859058,-5.9241652
+142579635,primary,Sin nombre,37.386804,-5.9203744
+142579637,primary,Sin nombre,37.3871864,-5.9200033
+142579639,trunk,Autovía de Sevilla a Almería por Granada,37.3860224,-5.9262882
+142579641,trunk_link,Sin nombre,37.3862908,-5.9246868
+142580165,primary,Avenida de la Areonáutica,37.3874905,-5.920554
+142580167,primary,Avenida de la Areonáutica,37.388726,-5.9201108
+144724766,primary,Gran Plaza,37.381726,-5.9655607
+144724769,primary,Gran Plaza,37.3817865,-5.9660092
+144724771,primary,Calle Enramadilla,37.3795245,-5.9818244
+145943305,secondary,Avenida de Las Razas,37.3558875,-5.989984
+145943310,secondary,Avenida de Las Razas,37.3601623,-5.9896909
+145949698,motorway,Sin nombre,37.3891811,-6.0293196
+150175614,secondary,Calle Doctor Miguel Rios Sarmiento,37.4034001,-5.9344183
+150175615,secondary,Calle Doctor Miguel Rios Sarmiento,37.4034468,-5.9343372
+150175616,secondary,Calle Doctor Miguel Rios Sarmiento,37.4027858,-5.9340532
+150175617,secondary,Calle Doctor Miguel Rios Sarmiento,37.4041205,-5.934546
+150175619,secondary,Calle Doctor Miguel Rios Sarmiento,37.4040959,-5.9347582
+157153623,motorway,Sin nombre,37.3886301,-6.0229766
+157153624,trunk,Carretera Gijón a Puerto de Sevilla,37.3889438,-6.0211806
+157153625,motorway,Autovía del Quinto Centenario,37.3896706,-6.0237142
+157502404,primary,Glorieta Berrocal,37.4157333,-5.9739774
+157502423,primary,Glorieta Berrocal,37.4161946,-5.9745424
+157504763,primary,Ronda de Pío XII,37.4058442,-5.9759644
+157504764,primary,Glorieta Solidaridad y Vida,37.4075363,-5.9789748
+157533781,motorway_link,Sin nombre,37.3399075,-5.9267681
+157533782,motorway_link,Sin nombre,37.3398066,-5.9266256
+159005016,primary,Avenida Flota de Indias,37.3713468,-6.0020785
+159005017,primary,Avenida Alfredo Kraus,37.3728283,-6.0065624
+159005018,primary,Sin nombre,37.3715523,-6.0038007
+159005019,primary,Sin nombre,37.3714388,-6.0038271
+159101589,primary_link,Sin nombre,37.3520084,-5.9433485
+160118790,primary,Avenida del Cristo de la Expiración,37.3907187,-6.0035871
+160175937,secondary_link,Sin nombre,37.3515046,-6.0266084
+160725687,trunk,Carretera Gijón a Puerto de Sevilla,37.3726154,-6.014491
+160725691,motorway_link,Sin nombre,37.3706464,-6.0153872
+160725692,trunk,Carretera Gijón a Puerto de Sevilla,37.3768456,-6.0145659
+160725695,motorway_link,Sin nombre,37.3690177,-6.0147162
+167218974,trunk_link,Sin nombre,37.3812826,-5.9027866
+167219623,primary_link,Sin nombre,37.3861919,-5.9229408
+167219627,trunk_link,Sin nombre,37.3865223,-5.9219413
+169116482,motorway_link,A-376 Autovía Sevilla - Utrera,37.3342542,-5.9199933
+170811632,secondary,Avenida de Las Erillas,37.3732076,-6.0280579
+172020430,motorway,A-376 Autovía Sevilla - Utrera,37.3279789,-5.9107852
+172129502,motorway,Circunvalación de Sevilla,37.3566658,-6.0023143
+172129503,motorway,Circunvalación de Sevilla,37.3567732,-6.0022832
+172129504,motorway,Circunvalación de Sevilla,37.3539139,-5.9990143
+173076714,primary,Avenida José Laguillo,37.3928599,-5.9806621
+177343971,secondary,Sin nombre,37.4170647,-5.9288409
+177343973,secondary,Sin nombre,37.4159674,-5.9295962
+182183037,secondary,Avenida Manuel Siurot,37.3622492,-5.9821364
+183213745,primary_link,Avenida Ramón Carande,37.3784966,-5.9788461
+183213746,primary,Avenida Ramón Carande,37.3779527,-5.9789604
+183213749,primary,Calle Doctor Ordoñez de la Barrera,37.3774322,-5.9800903
+183454727,primary,Calle Virgen de la Oliva,37.3727495,-6.0035753
+183454732,primary,Calle Virgen de la Oliva,37.3719038,-6.0037886
+183744455,primary,Avenida Alcalde Luis Uruñuela,37.4029764,-5.9407503
+183744457,primary,Avenida Alcalde Luis Uruñuela,37.3993902,-5.9456049
+183975081,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4135026,-5.998432
+183975082,motorway,A-4 Sevilla - Cádiz,37.3270941,-5.9852263
+183975089,motorway,Circunvalación de Sevilla,37.3452405,-5.988651
+183975091,motorway,Circunvalación de Sevilla,37.4002142,-6.0282013
+183975092,motorway,Circunvalación de Sevilla,37.3714533,-6.0206285
+183975093,motorway,Circunvalación de Sevilla,37.3653757,-6.0126382
+183975094,motorway,Circunvalación de Sevilla,37.4136692,-6.0113922
+183975101,motorway_link,Sin nombre,37.359044,-6.0057873
+183975102,motorway_link,Sin nombre,37.3593159,-6.0066115
+183975103,motorway_link,Sin nombre,37.3594825,-6.0032641
+183975108,motorway_link,Sin nombre,37.3590434,-6.0037301
+184792457,primary,Avenida de las Ciencias,37.3996986,-5.9254455
+184792458,primary,Avenida de las Ciencias,37.3980438,-5.9242665
+184884736,primary,Avenida de las Ciencias,37.3981453,-5.9240686
+185034451,primary,Autovía de Sevilla a Utrera,37.3595476,-5.9557043
+185034452,primary,Avenida de la Paz,37.3597561,-5.9556411
+185798305,trunk_link,Sin nombre,37.3871293,-5.9357185
+186184933,primary,Avenida Montes Sierra,37.3982911,-5.9467066
+187102707,primary,Avenida de las Ciencias,37.3902648,-5.9203584
+188749470,motorway,Sin nombre,37.3593415,-6.0286354
+188749471,secondary,Sin nombre,37.3583728,-6.0280322
+189749339,primary,Sin nombre,37.4036872,-5.9956398
+190063820,secondary,Sin nombre,37.3898041,-5.9667215
+190112359,primary_link,Sin nombre,37.3562394,-5.9750605
+190113001,primary,Calle Demetrio de los Ríos,37.3854611,-5.9856389
+190769101,motorway_link,Sin nombre,37.36727,-6.0142601
+191127166,secondary_link,Sin nombre,37.3739396,-6.00401
+191127167,secondary,Sin nombre,37.3741156,-6.0041578
+191201972,primary,Calle Rubén Darío,37.3751083,-6.0106469
+191201974,primary,Calle Rubén Darío,37.3762685,-6.0124576
+191815086,secondary,Sin nombre,37.3677809,-5.9429982
+192972962,secondary,Avenida Doctor Fedriani,37.4108701,-5.9842796
+193493143,motorway_link,Sin nombre,37.408635,-5.9471786
+193493144,motorway,Autovía del Sur,37.413046,-5.9330042
+193493145,motorway,Autovía del Sur,37.4148543,-5.9289534
+193493146,motorway,Autovía del Sur,37.4179573,-5.9199896
+193493147,motorway,Autovía del Sur,37.4099992,-5.9412498
+193493148,primary,Avenida Kansas City,37.4067859,-5.9531246
+193493149,motorway_link,Sin nombre,37.407497,-5.9496685
+193493150,motorway,Sin nombre,37.4087677,-5.9461132
+193493151,primary_link,Sin nombre,37.405747,-5.9549285
+193495820,motorway_link,Sin nombre,37.4077174,-5.9507266
+193546108,motorway,Circunvalación de Sevilla,37.4082687,-5.949051
+193546109,motorway,Circunvalación de Sevilla,37.3996298,-5.9451331
+193546110,motorway_link,Sin nombre,37.4069815,-5.9497139
+193803703,trunk,Carretera Gijón a Puerto de Sevilla,37.3794291,-6.0145156
+193803704,primary,Carretera del Muro de Defensa,37.3870471,-6.0138384
+194599618,motorway,Sin nombre,37.4085126,-5.9471374
+194647694,primary,Ronda Urbana Norte,37.41696,-5.9678429
+194647695,primary,Ronda Urbana Norte,37.4164198,-5.9717226
+194647696,primary,Ronda Urbana Norte,37.4152151,-5.9767394
+194647697,primary,Ronda Urbana Norte,37.4145863,-5.9788691
+194647698,primary,Ronda Urbana Norte,37.4140005,-5.9816261
+194702019,motorway,Circunvalación de Sevilla,37.3670045,-5.9455134
+194702022,motorway,Circunvalación de Sevilla,37.3736339,-5.9437627
+194702023,motorway,Circunvalación de Sevilla,37.3794996,-5.943006
+194702024,motorway,Circunvalación de Sevilla,37.379789,-5.9430724
+194705056,motorway,Circunvalación de Sevilla,37.3737463,-6.0276502
+194706190,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.41328,-5.9947668
+194889324,motorway,A-376 Autovía Sevilla - Utrera,37.3391252,-5.9256711
+194889326,motorway,A-376 Autovía Sevilla - Utrera,37.3424653,-5.9297235
+194889328,primary,A-376 Autovía Sevilla - Utrera,37.3485973,-5.9385968
+194904830,trunk,Autovía de Sevilla a Almería por Granada,37.3862343,-5.9378123
+194904831,primary,Avenida de Andalucía,37.3865032,-5.9415242
+194907232,trunk,Autovía de Sevilla a Almería por Granada,37.3816599,-5.9032716
+195033589,motorway_link,Sin nombre,37.4269295,-5.9008781
+195550358,primary,Avenida de Jerez,37.3307956,-5.96836
+195567978,primary,Paseo de las Delicias,37.379874,-5.9942316
+195567979,primary,Paseo de las Delicias,37.379874,-5.9942316
+195567980,primary,Paseo de las Delicias,37.3786305,-5.9934676
+195571118,primary,Sin nombre,37.351,-5.9771031
+195571120,primary,Avenida de Jerez,37.3452872,-5.9747937
+195571130,secondary,Avenida de Alemania,37.3459794,-5.9788102
+195571133,primary,Sin nombre,37.3514762,-5.9769239
+195571137,secondary,Avenida de la Borbolla,37.3786364,-5.9835204
+195571831,primary,Sin nombre,37.3511191,-5.9774051
+195571832,primary,Sin nombre,37.3516254,-5.9771366
+195571836,secondary,Avenida de Alemania,37.346179,-5.9761739
+195571837,primary,Avenida de Jerez,37.3432792,-5.9738203
+195574111,primary,Sin nombre,37.3518227,-5.9440411
+195574113,primary,Sin nombre,37.3516505,-5.9437124
+195574862,primary,Calle Rectora Rosario Valpuesta Fernández,37.3507308,-5.9446982
+196355955,motorway_link,Sin nombre,37.3921724,-5.9431306
+196355956,motorway_link,Sin nombre,37.3950713,-5.9443006
+196358552,motorway,Circunvalación de Sevilla,37.3925818,-5.942996
+196358553,motorway,Circunvalación de Sevilla,37.3850456,-5.9410676
+196358555,trunk_link,Sin nombre,37.3858546,-5.937934
+196358556,trunk_link,Sin nombre,37.3858512,-5.9372173
+196358557,trunk_link,Sin nombre,37.3856391,-5.9357114
+196522319,motorway,Circunvalación de Sevilla,37.4039346,-5.9475184
+196522320,motorway_link,Sin nombre,37.3997103,-5.9461005
+196522321,motorway,Circunvalación de Sevilla,37.4011201,-5.9462445
+196522323,motorway_link,Sin nombre,37.4072245,-5.9505493
+197857277,secondary,Calle Virgen de Luján,37.3745847,-6.0020926
+198048197,secondary,Sin nombre,37.378787,-5.9016605
+198048198,secondary_link,Sin nombre,37.3795701,-5.8997225
+198048199,trunk_link,Sin nombre,37.3836444,-5.909626
+200669135,primary,Calle Poeta Manuel Benítez Carrasco,37.3666054,-5.9712753
+205499468,primary,Avenida de Jerez,37.3388992,-5.9709463
+205499469,primary,Avenida de Jerez,37.3422522,-5.9731692
+205499472,motorway_link,Sin nombre,37.3400529,-5.9728911
+205499473,motorway_link,Sin nombre,37.3379129,-5.9707375
+205499474,motorway_link,Sin nombre,37.342292,-5.970523
+205499477,motorway_link,Sin nombre,37.3403683,-5.9730835
+205499479,motorway_link,Sin nombre,37.3423941,-5.9729228
+205499481,motorway_link,Sin nombre,37.343253,-5.9680349
+205499483,motorway_link,Sin nombre,37.3419916,-5.9719218
+205499484,motorway_link,Sin nombre,37.3412493,-5.9720714
+206536973,secondary,Sin nombre,37.4316435,-5.9359358
+206536974,secondary,Sin nombre,37.4443295,-5.9369053
+206536975,secondary,Sin nombre,37.4443337,-5.9369578
+206536976,secondary,Sin nombre,37.4446523,-5.9368507
+206536977,secondary,Sin nombre,37.4493997,-5.9369626
+206536978,secondary,Sin nombre,37.4332132,-5.9370956
+206536979,secondary,Sin nombre,37.4332132,-5.9370956
+206536980,secondary,Carretera Madreperla,37.448461,-5.9366101
+206536981,secondary,Carretera de Brenes,37.4394095,-5.938275
+206536982,secondary_link,Sin nombre,37.4327386,-5.9369062
+206536985,secondary,Sin nombre,37.4444905,-5.9368945
+206536986,secondary_link,Sin nombre,37.4331241,-5.9372547
+206536987,secondary_link,Sin nombre,37.4333795,-5.9371766
+206536988,secondary_link,Sin nombre,37.4328345,-5.9372031
+207283319,primary,Glorieta Los del Río,37.3567786,-5.9786063
+207307419,secondary,Calle Luis Montoto,37.3878792,-5.9815662
+207315523,primary,Autovía de Sevilla a Utrera,37.3596166,-5.9553295
+207315524,primary,A-376 Autovía Sevilla - Utrera,37.3587554,-5.9542626
+207315525,motorway_link,Sin nombre,37.3584821,-5.9552866
+207315526,primary_link,Sin nombre,37.3591943,-5.9545018
+207315527,motorway_link,Sin nombre,37.3611665,-5.9525868
+207315528,motorway_link,Sin nombre,37.3570382,-5.9576542
+207315529,motorway_link,Sin nombre,37.3584938,-5.9559339
+207315530,primary_link,Sin nombre,37.3567211,-5.9511065
+207328853,motorway,Circunvalación de Sevilla,37.3583665,-6.0043242
+207328854,motorway,Circunvalación de Sevilla,37.3602514,-6.0065903
+207328855,motorway,Circunvalación de Sevilla,37.3573705,-6.0031377
+207328856,motorway,Circunvalación de Sevilla,37.3663901,-6.0136879
+207328857,motorway,Circunvalación de Sevilla,37.3409114,-5.9796741
+207328858,motorway_link,Sin nombre,37.3411124,-5.9814529
+207328859,motorway_link,Sin nombre,37.341443,-5.9837485
+207522011,primary,Avenida de la Paz,37.3609438,-5.9586816
+207522012,primary,Avenida de la Paz,37.3601368,-5.9567109
+207626769,motorway,Circunvalación de Sevilla,37.3714127,-6.0145852
+208421636,primary,Avenida Montes Sierra,37.3989198,-5.9460763
+208421637,primary,Avenida Montes Sierra,37.3906957,-5.9582987
+208421638,motorway,Circunvalación de Sevilla,37.3973747,-5.9448085
+208421639,motorway,Circunvalación de Sevilla,37.3986538,-5.9449841
+208421641,primary,Avenida Montes Sierra,37.3906974,-5.9579958
+208421649,primary,Calle Ada,37.3925415,-5.9611074
+208421654,primary_link,Sin nombre,37.3903885,-5.9593266
+208421656,primary,Sin nombre,37.3901982,-5.9584753
+211012791,motorway,Sin nombre,37.3384193,-5.9840575
+211012792,motorway,A-4 Sevilla - Cádiz,37.3361427,-5.9850534
+211012793,motorway,A-4 Sevilla - Cádiz,37.3314625,-5.9858471
+211012794,motorway,A-4 Sevilla - Cádiz,37.3339464,-5.9854589
+211012795,motorway,Circunvalación de Sevilla,37.3599242,-5.9545904
+211012796,motorway,Circunvalación de Sevilla,37.3635734,-5.949073
+211012797,motorway,Circunvalación de Sevilla,37.3606997,-5.9535524
+211012798,motorway,Circunvalación de Sevilla,37.346273,-5.9653406
+211012799,motorway,Circunvalación de Sevilla,37.3417973,-5.970854
+212055133,secondary,La Pañoleta-San Juan de Aznalfarache,37.3781891,-6.0268573
+214245810,secondary,La Pañoleta-San Juan de Aznalfarache,37.3818731,-6.0262901
+214245812,secondary,Sin nombre,37.3793603,-6.026815
+217651938,primary,Paseo de las Delicias,37.3754934,-5.9914976
+217651946,primary,Paseo de las Delicias,37.3760271,-5.991856
+217651947,primary,Paseo de las Delicias,37.3754471,-5.9916107
+217651953,primary,Paseo de las Delicias,37.3747198,-5.9911386
+217671787,secondary,Sin nombre,37.3919646,-5.9779908
+217671788,secondary,Sin nombre,37.3919907,-5.9780293
+217671789,secondary,Calle Juan Antonio Cavestany,37.391442,-5.9787262
+219120561,primary_link,Calle Cardenal Bueno Monreal,37.3683742,-5.9842653
+221875387,primary,Túnel Tamarguillo,37.3871872,-5.9593055
+221875388,primary,Túnel Tamarguillo,37.3871767,-5.959221
+221875399,primary,Calle Clemente Hidalgo,37.385314,-5.9596401
+221875400,primary,Avenida José María Javierre,37.3896209,-5.9587894
+221875401,primary,Avenida José María Javierre,37.389771,-5.958902
+222105712,secondary,Avenida de la Borbolla,37.3794865,-5.9832246
+222105713,secondary,Sin nombre,37.3801305,-5.9830737
+222105714,secondary,Sin nombre,37.3797547,-5.9830126
+222219279,primary,Avenida de María Luisa,37.3790493,-5.9896817
+222873270,primary,Glorieta Doña María de las Mercedes de Borbón y Orleans,37.3799427,-5.9831103
+223043135,primary,Avenida de Menéndez Pelayo,37.3854432,-5.9861938
+224779526,primary,Calle Luis Montoto,37.3874394,-5.9699784
+227117703,secondary,La Pañoleta-San Juan de Aznalfarache,37.381527,-6.0263549
+227117704,secondary,Sin nombre,37.379413,-6.0266922
+227920933,secondary,Plaza de Andalucía,37.3635129,-6.0250885
+231562529,secondary,Calle Ramón y Cajal,37.364886,-6.02533
+231562536,secondary,Calle Ramón y Cajal,37.3662995,-6.0256752
+231562538,secondary,Avenida de Las Erillas,37.3666663,-6.0260584
+231562539,secondary,Avenida de Las Erillas,37.3667496,-6.0260271
+231901486,primary,Calle Cardenal Bueno Monreal,37.3721377,-5.976748
+236178542,secondary,Carretera de La Algaba,37.4278515,-5.9870557
+236186036,secondary_link,Sin nombre,37.3902201,-6.0082191
+236186053,secondary_link,Sin nombre,37.3899368,-6.0081885
+236912683,primary,Calle Cruz del Sur,37.3858209,-5.9590228
+236912684,primary,Calle Clemente Hidalgo,37.3842501,-5.9598183
+236912685,primary,Calle Cruz del Sur,37.3865619,-5.958932
+236912686,primary,Calle Clemente Hidalgo,37.3830523,-5.9599737
+236913290,primary,Calle Clemente Hidalgo,37.3820378,-5.9601061
+237277454,primary,Avenida Menéndez Pelayo,37.3851801,-5.9863428
+237277455,primary,Avenida de Menéndez Pelayo,37.3827022,-5.9876083
+237277456,primary,Avenida de Menéndez Pelayo,37.3849239,-5.9864743
+237277457,primary,Avenida de Menéndez Pelayo,37.3821854,-5.9879007
+237277458,primary,Avenida Menéndez Pelayo,37.3844763,-5.9867031
+237277459,primary,Avenida de Menéndez Pelayo,37.3840034,-5.9869453
+237519742,primary,Avenida José Laguillo,37.3935014,-5.9820752
+237519743,primary,Calle María Auxiliadora,37.3946088,-5.9833794
+238190564,secondary,Avenida Doctor Fedriani,37.4128825,-5.9834426
+238190565,secondary,Avenida Doctor Fedriani,37.4086155,-5.9849531
+238190567,primary,Avenida de Llanes,37.4053456,-5.9750366
+238190572,primary,Glorieta Plus Ultra,37.3559952,-5.9800312
+238190573,primary,Avenida de la Palmera,37.358206,-5.9812056
+238190574,primary,Glorieta Plus Ultra,37.3565678,-5.9800695
+238190575,primary,Ronda de Capuchinos,37.3979594,-5.981536
+238190576,primary,Ronda de Capuchinos,37.3989356,-5.9822549
+238191806,secondary,Avenida Doctor Fedriani,37.4122366,-5.9836907
+238191811,primary,Avenida Doctor Fedriani,37.4059932,-5.9862874
+238191814,primary,Calle Doctor Marañón,37.4077622,-5.9869654
+238191817,primary,Calle Muñoz León,37.4024936,-5.9867746
+238191820,primary,Avenida de la Palmera,37.3577893,-5.9809585
+238191822,primary,Avenida de la Palmera,37.3630992,-5.9840969
+238193470,primary,Avenida Biología,37.4308243,-5.9765267
+238193475,primary,Avenida Biología,37.429186,-5.9777052
+238193486,primary,Avenida San Jerónimo,37.4160986,-5.9868343
+238193488,secondary,Avenida de Alemania,37.345873,-5.979509
+238193491,secondary,Avenida de Alemania,37.3454719,-5.9821767
+238193503,primary,Calle Arjona,37.3886253,-6.0022224
+238193522,primary,Avenida San Jerónimo,37.4160265,-5.9865836
+238193527,primary,Calle Marqués de Paradas,37.3896602,-6.0010351
+238193529,secondary,Calle Marqués de Paradas,37.3920989,-6.0018801
+238193543,primary,Calle de José Galán Merino,37.4139848,-5.988369
+238193545,primary,Avenida de la Palmera,37.3657529,-5.9856919
+238193549,primary,Plaza La Legion,37.3906429,-6.0027997
+238193551,secondary,Glorieta Bebés Robados,37.3552546,-5.9824335
+238327266,primary,Avenida Expo´92,37.3899,-6.0094807
+238327267,primary,Avenida Expo´92,37.3898863,-6.0116685
+238327268,primary,Avenida de Andalucía,37.3865941,-5.9434454
+238327269,primary,Avenida de Andalucía,37.3870898,-5.9521167
+238327270,primary,Avenida de Andalucía,37.3867991,-5.9471032
+238327271,primary,Calle Amor,37.3817803,-5.9508228
+238327273,primary,Calle Inca Garcilaso,37.3901365,-6.0105255
+238327274,primary,Sin nombre,37.3867942,-5.9504379
+238580263,primary,Avenida Alcalde Manuel de Valle,37.403971,-5.9688368
+238580264,primary,Avenida Alcalde Manuel de Valle,37.4045498,-5.968683
+238580265,primary,Avenida Alcalde Manuel de Valle,37.4034049,-5.9689794
+238580266,secondary,Calle Carretera de Carmona,37.4030733,-5.9680156
+238758031,primary,Avenida Expo´92,37.3902408,-6.0087805
+238758033,primary,Calle Gonzalo Jiménez de Quesada,37.3907722,-6.0101958
+238758034,primary,Avenida de la Palmera,37.3594698,-5.9819515
+238758815,primary,Calle María Auxiliadora,37.3934024,-5.9839081
+238758818,secondary,Calle Medina y Galnares,37.4296606,-5.98083
+238829158,secondary,Avenida Doctor Fedriani,37.4122611,-5.983828
+238829166,primary,Calle José Díaz,37.4087016,-5.989545
+238829668,primary,Avenida Alcalde Manuel de Valle,37.4088206,-5.9705073
+238830420,primary,Ronda Urbana Norte,37.4175061,-5.9625742
+238830421,primary,Ronda Urbana Norte,37.4166612,-5.9578298
+238830422,primary,Ronda Urbana Norte,37.4160691,-5.9564099
+238830423,primary,Ronda Urbana Norte,37.4170216,-5.968097
+238831817,primary,Avenida Alcalde Manuel del Valle,37.3997239,-5.9691424
+238831818,primary,Avenida Alcalde Manuel del Valle,37.401201,-5.9693456
+238831820,secondary,Calle Baltasar de Alcázar,37.4011977,-5.967599
+238832251,primary,Avenida Menéndez Pelayo,37.3886761,-5.9846634
+238833202,secondary,Avenida de la Buhaira,37.3788337,-5.9798632
+238833204,primary,Calle Enramadilla,37.3790775,-5.9804077
+238833962,primary,Avenida de Andalucía,37.3870818,-5.9541302
+238833963,primary,Avenida de Andalucía,37.3873568,-5.9569418
+238833966,primary,Calle Federico Mayo Gayarre,37.380955,-5.9586714
+238835793,motorway,Autovía del Sur,37.4104328,-5.939833
+238835805,motorway_link,Sin nombre,37.4090356,-5.9453386
+238866110,primary,Paseo de las Delicias,37.3769503,-5.9924587
+238866112,primary,Paseo de las Delicias,37.3774716,-5.9927642
+238866118,primary,Paseo de las Delicias,37.3773476,-5.9926566
+239075744,primary,Avenida de la Paz,37.3682225,-5.9677615
+239075747,primary,Avenida de la Paz,37.3661013,-5.9651976
+239075749,primary,Avenida de la Paz,37.3697587,-5.9696211
+239075751,secondary,Avenida de la Borbolla,37.3711624,-5.9854446
+239077121,secondary,Avenida Manuel Siurot,37.3660149,-5.9842241
+239077125,primary,Avenida de Diego Martínez Barrio,37.3720107,-5.9769255
+239077127,secondary,Calle Alfonso Lasso de Vega,37.3663248,-5.9743196
+239077129,primary_link,Calle Cardenal Bueno Monreal,37.3682521,-5.9841289
+239077130,primary_link,Calle Cardenal Bueno Monreal,37.3680323,-5.986165
+239077924,secondary,Calle Juan Antonio Cavestany,37.3897326,-5.980679
+239205801,secondary,Avenida de Italia,37.3510399,-5.9810784
+239205802,secondary,Avenida de Italia,37.3513574,-5.9790087
+239205804,primary,Calle Cardenal Bueno Monreal,37.3690875,-5.9799251
+239205805,primary,Calle Cardenal Bueno Monreal,37.369833,-5.9777288
+239205808,secondary,Calle Iguazú,37.3552801,-5.9819173
+239206342,primary,A-376 Autovía Sevilla - Utrera,37.3555095,-5.9482439
+239209575,primary,Avenida República Argentina,37.3769551,-6.0037982
+239209581,primary,Paseo de las Delicias,37.3813153,-5.9951687
+239209582,primary,Plaza San Martín de Porres,37.3804008,-6.0091756
+239209969,primary,Avenida Juan Pablo II,37.3682548,-6.000962
+239209971,secondary,Calle Juan Sebastián Elcano,37.3755358,-5.9960105
+239209972,secondary,Calle José Delgado Brackenbury,37.3651331,-5.9993861
+239210559,primary,Calle Marqués de Paradas,37.3904864,-6.0013369
+239210560,primary,Ronda de Triana,37.3865531,-6.011092
+239210561,primary,Ronda de Triana,37.3890006,-6.0104575
+239210564,primary,Ronda de Triana,37.3814456,-6.0095754
+239210565,primary,Plaza San Martín de Porres,37.380777,-6.0093679
+239213371,trunk,Autovía de Sevilla a Almería por Granada,37.3861292,-5.9308288
+239663350,primary,Calle Amador de Los Ríos,37.3915203,-5.9825131
+239663352,primary,Calle María Auxiliadora,37.393821,-5.9838003
+243458260,secondary,Calle Antonio Machado,37.3625697,-6.0263021
+243526201,trunk,Carretera Gijón a Puerto de Sevilla,37.3891076,-6.0196689
+243526202,trunk,Carretera Gijón a Puerto de Sevilla,37.3892726,-6.0212094
+245694435,secondary,Avenida de la Ciudad Jardin,37.3791524,-5.9661632
+245694448,primary,Calle Marqués de Pickman,37.381422,-5.9647721
+245694452,primary_link,Sin nombre,37.3815149,-5.965246
+247062143,primary_link,Sin nombre,37.3637333,-5.9847699
+249631438,primary,Sin nombre,37.3528867,-5.943199
+249995065,secondary,Avenida de la Buhaira,37.3802152,-5.9798047
+249995066,secondary,Avenida de la Buhaira,37.3797191,-5.9797343
+250111297,primary_link,Sin nombre,37.4351665,-5.9733917
+250111298,primary_link,Sin nombre,37.4339719,-5.9747069
+250111300,primary_link,Sin nombre,37.4331183,-5.9749173
+250112425,trunk_link,Sin nombre,37.4348328,-5.9672012
+252084523,primary,Avenida de las Ciencias,37.3991332,-5.9250421
+253802126,primary,Calle Luis Montoto,37.3873777,-5.9711387
+256821982,secondary_link,Sin nombre,37.3478287,-6.0262735
+256821983,secondary_link,Sin nombre,37.3440661,-6.0256109
+256828070,secondary_link,Sin nombre,37.3339494,-6.0256079
+257737866,secondary,Avenida de Dinamarca,37.3487327,-5.9863808
+257743550,motorway,Circunvalación de Sevilla,37.3927906,-6.0254829
+257743551,motorway,Circunvalación de Sevilla,37.3889387,-6.0274869
+257743552,motorway_link,Sin nombre,37.3880473,-6.025008
+257784929,secondary,Avenida de Las Erillas,37.374279,-6.0279247
+257784931,motorway_link,Sin nombre,37.3725816,-6.0138632
+257784933,motorway_link,Sin nombre,37.3737823,-6.0141269
+257784934,secondary,Avenida de Las Erillas,37.3742862,-6.0277871
+257962623,primary,Avenida República Argentina,37.3761446,-6.0052611
+257962624,primary,Avenida República Argentina,37.3762109,-6.0053245
+260077617,secondary,Calle Cardenal Ilundáin,37.3637273,-5.9837166
+260077618,secondary,Calle Cardenal Ilundáin,37.3654662,-5.9785372
+260089838,motorway_link,Sin nombre,37.3903563,-6.0270169
+260089839,motorway_link,Sin nombre,37.3901507,-6.0283767
+261349620,secondary,Sin nombre,37.3714947,-5.9974332
+261491871,secondary,Calle San Laureano,37.3932235,-6.0029591
+261491872,primary,Avenida del Cristo de la Expiración,37.3908304,-6.0028764
+261492088,secondary,Calle Torneo,37.394766,-6.002897
+263317040,primary,Avenida de las Universidades,37.3375364,-5.9501896
+263317041,primary,Avenida de las Universidades,37.337439,-5.950311
+263455908,trunk,Carretera Gijón a Puerto de Sevilla,37.3733235,-6.0155267
+264291312,primary,Calle Rubén Darío,37.3761331,-6.0117741
+265400939,primary,Avenida Juan Pablo II,37.3677807,-5.9979949
+265723207,primary,Avenida del Cristo de la Expiración,37.3905833,-6.0035035
+273443369,primary,Calle Cardenal Bueno Monreal,37.3683636,-5.9838825
+273443370,primary_link,Calle Cardenal Bueno Monreal,37.3678767,-5.9861026
+273443371,primary_link,Calle Cardenal Bueno Monreal,37.3677242,-5.9880675
+273443372,primary,Calle Cardenal Bueno Monreal,37.3685474,-5.9822543
+278058873,secondary,Avenida Manuel Siurot,37.3692349,-5.985473
+278058874,secondary,Avenida Manuel Siurot,37.3685375,-5.9854531
+278058875,secondary,Avenida de la Borbolla,37.3699807,-5.9854581
+278058876,secondary,Avenida de la Borbolla,37.3699776,-5.985392
+278190172,secondary,Avenida de la Guardia Civil,37.3695884,-5.9854781
+278197973,secondary,Carretera de Carmona,37.4028524,-5.9603379
+279957308,primary,Avenida José María Javierre,37.3887288,-5.9592962
+280721541,primary,Avenida de Jerez,37.3531213,-5.9781065
+280721542,primary,Avenida de Jerez,37.3531104,-5.9782393
+280721543,primary,Avenida de Jerez,37.3522193,-5.977717
+280721544,primary,Avenida de Jerez,37.3546276,-5.9789883
+283341693,primary,Glorieta de Isla Mágica,37.4053792,-5.9986748
+283341694,primary,Glorieta de Isla Mágica,37.4054682,-5.9988091
+283341696,secondary,Rotonda Luis de Lezama,37.4088583,-5.9959022
+283642563,trunk_link,Sin nombre,37.3867691,-5.9382545
+283642565,motorway_link,Sin nombre,37.3831158,-5.9425578
+283642567,motorway_link,Sin nombre,37.3859344,-5.9413274
+283656927,primary,Calle Amor,37.3849713,-5.9439892
+284964626,primary,Avenida de Andalucía,37.3864324,-5.9426651
+284964627,primary,Avenida de Andalucía,37.3866474,-5.9466832
+285531471,secondary,Avenida Álvaro Alonso Barba,37.412253,-5.9942309
+285531473,secondary,Avenida Álvaro Alonso Barba,37.4089656,-5.9957376
+285531474,secondary,Avenida Álvaro Alonso Barba,37.4115518,-5.9941361
+285531475,secondary,Avenida Álvaro Alonso Barba,37.4090248,-5.9958152
+285531476,secondary,Avenida Álvaro Alonso Barba,37.4134222,-5.9940761
+285531477,secondary,Avenida Álvaro Alonso Barba,37.4102137,-5.994955
+285531478,secondary,Calle José de Gálvez,37.4086541,-5.996086
+285531479,secondary,Calle José de Gálvez,37.4072237,-5.9973986
+285531480,secondary,Calle José de Gálvez,37.4056774,-5.9987553
+285531483,primary,Calle Matemáticos Rey Pastor y Castro,37.4053706,-6.0019877
+285531484,primary,Calle Matemáticos Rey Pastor y Castro,37.4052441,-5.9992272
+285531485,primary,Calle Matemáticos Rey Pastor y Castro,37.4051958,-6.0005901
+285587762,primary,Glorieta de los Marineros Voluntarios,37.3752624,-5.9916077
+285587763,primary,Glorieta de los Marineros Voluntarios,37.3757997,-5.9916028
+285587766,primary,Sin nombre,37.3758314,-6.0055752
+285587769,primary,Glorieta de San Diego,37.3793988,-5.9892405
+285587771,primary,Plaza Don Juan de Austria,37.3810989,-5.9883007
+285587773,primary,Plaza San Martín de Porres,37.3808526,-6.0091392
+285587777,secondary,Sin nombre,37.3737474,-6.0038875
+285587780,primary,Calle Santa Fe,37.3748753,-6.004646
+292432770,primary,Avenida Ramón y Cajal,37.375233,-5.9684078
+292438650,secondary,Calle Doctor Miguel Rios Sarmiento,37.3945634,-5.9281336
+293005690,primary,Avenida de la Palmera,37.3587049,-5.9815004
+293005693,primary,Avenida de la Palmera,37.360839,-5.9827594
+293005699,primary,Avenida de la Palmera,37.3637278,-5.9844725
+293005702,primary,Avenida de la Palmera,37.3645371,-5.98496
+293005705,primary,Avenida de la Palmera,37.3670437,-5.9864708
+293005707,primary,Avenida de la Palmera,37.3677614,-5.9869054
+293005708,secondary,Avenida Manuel Siurot,37.3681883,-5.985371
+293007363,secondary,Avenida de Las Razas,37.3675821,-5.9894312
+293007366,secondary,Avenida de Las Razas,37.3670608,-5.9894568
+293094650,secondary,Calle Doctor Miguel Rios Sarmiento,37.4008177,-5.932629
+293094655,secondary,Calle Doctor Miguel Rios Sarmiento,37.400984,-5.9327452
+293098208,secondary,Calle Doctor Miguel Rios Sarmiento,37.3942852,-5.9279343
+293098209,secondary,Calle Doctor Miguel Rios Sarmiento,37.3954731,-5.9287902
+293098211,secondary,Calle Doctor Miguel Rios Sarmiento,37.39322,-5.9271412
+293098212,secondary,Calle Doctor Miguel Rios Sarmiento,37.3921641,-5.9262824
+293098213,secondary,Calle Doctor Miguel Rios Sarmiento,37.3919071,-5.9259642
+293100268,primary,Avenida de las Ciencias,37.4036533,-5.9280399
+293100269,primary,Avenida de las Ciencias,37.4003341,-5.9259036
+293100272,primary,Avenida de las Ciencias,37.4003762,-5.9256735
+293100274,primary,Avenida de las Ciencias,37.3966265,-5.9232539
+293100277,primary,Avenida de las Ciencias,37.3967185,-5.9230369
+293714099,primary,Ronda del Tamarguillo,37.3767977,-5.9611287
+293714100,primary,Ronda del Tamarguillo,37.3765734,-5.9613495
+293714101,primary_link,Plaza de Ruperto Chapí,37.3768671,-5.9602555
+293714102,primary,Ronda del Tamarguillo,37.3770237,-5.9609521
+293714103,primary,Ronda del Tamarguillo,37.3751127,-5.9627966
+297421766,primary,Calle López de Gomara,37.3770082,-6.0063729
+297806874,primary,Plaza Duquesa Cayetana de Alba,37.4033274,-5.9955916
+297806875,primary,Sin nombre,37.403472,-5.9958903
+297806876,secondary,Rotonda Luis de Lezama,37.4087614,-5.9960457
+297806877,secondary,Rotonda Luis de Lezama,37.4088475,-5.9961461
+298745560,secondary,Avenida de Las Razas,37.3545939,-5.9900293
+298745561,secondary_link,Sin nombre,37.3532832,-5.9898081
+298745562,secondary,Avenida de Las Razas,37.3449087,-5.986745
+298745563,secondary_link,Sin nombre,37.3533194,-5.9902445
+298745564,secondary,Avenida de Las Razas,37.3505772,-5.9900814
+298745565,secondary,Glorieta Palma Altas,37.3468508,-5.9896566
+298745566,secondary,Avenida de Las Razas,37.3506324,-5.9898003
+298745567,secondary,Avenida de Las Razas,37.3545911,-5.9899013
+298745568,secondary,Avenida de Las Razas,37.3446345,-5.9870422
+308124413,primary,Calle Luis Montoto,37.3875487,-5.9653341
+309766098,primary,Puente de las Delicias,37.3675339,-5.9893446
+310425662,primary,Avenida de Menéndez Pelayo,37.3870918,-5.9853134
+311528357,primary_link,Sin nombre,37.3515059,-5.9432914
+311528358,primary_link,Sin nombre,37.3516252,-5.9435063
+311528359,primary_link,Sin nombre,37.3538995,-5.9447175
+311528361,primary_link,Sin nombre,37.350864,-5.9417617
+311743572,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4131685,-5.9940943
+311743573,secondary_link,Sin nombre,37.413081,-5.9941001
+311743575,secondary_link,Sin nombre,37.4123966,-5.9933129
+311743577,secondary_link,Sin nombre,37.4132234,-5.9947686
+311743578,secondary_link,Sin nombre,37.412466,-6.0072135
+311743579,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4135365,-5.9945565
+311743580,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4134301,-6.0007676
+311743582,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4132437,-5.9902286
+311743583,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4134826,-5.9965541
+311743584,secondary_link,Sin nombre,37.4142047,-5.9928339
+311743585,motorway,Circunvalación de Sevilla,37.4135886,-6.0061327
+311743586,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.413121,-5.9929661
+311743587,secondary_link,Sin nombre,37.4132159,-5.9916623
+311743588,secondary_link,Sin nombre,37.413574,-5.9945555
+311743589,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4134779,-5.9888913
+311743590,motorway,Circunvalación de Sevilla,37.4135015,-6.0061353
+311743592,secondary_link,Sin nombre,37.4135962,-6.0042935
+311743593,secondary_link,Sin nombre,37.4135006,-5.9915426
+311743594,motorway,Circunvalación de Sevilla,37.4136199,-6.0078257
+311743595,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.413239,-5.9916684
+311743596,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4136199,-5.9940653
+312206995,primary,A-376 Autovía Sevilla - Utrera,37.3445103,-5.9330094
+312207001,primary_link,Sin nombre,37.3452815,-5.9337359
+312970343,primary_link,Sin nombre,37.3515163,-5.9431085
+312970345,primary_link,Sin nombre,37.3518148,-5.9427929
+312970347,primary,Sin nombre,37.3533494,-5.9425481
+312982842,primary,Avenida Ramón Carande,37.3781683,-5.9788751
+312982843,primary,Calle Doctor Ordoñez de la Barrera,37.378327,-5.9797303
+312982844,primary,Glorieta Cuzco,37.3674727,-5.9542329
+312982848,primary,Plaza Don Juan de Austria,37.3812152,-5.9882725
+312982849,primary,Glorieta Doña María de las Mercedes de Borbón y Orleans,37.3796435,-5.9832914
+312982850,primary,Glorieta Doña María de las Mercedes de Borbón y Orleans,37.3795695,-5.9831834
+312982851,primary,Glorieta Doña María de las Mercedes de Borbón y Orleans,37.3799225,-5.9828278
+312982852,primary,Glorieta Doña María de las Mercedes de Borbón y Orleans,37.3797704,-5.983302
+312982853,primary,Glorieta Doña María de las Mercedes de Borbón y Orleans,37.3797031,-5.9827512
+312982854,primary,Sin nombre,37.3613561,-5.9592719
+312982855,primary,Sin nombre,37.3611783,-5.9587843
+312982856,primary_link,Sin nombre,37.360762,-5.9581633
+312982858,primary,Sin nombre,37.3609732,-5.958857
+313014279,secondary,Avenida El Greco,37.3878428,-5.9652727
+313014280,secondary,Avenida El Greco,37.3876978,-5.965267
+313014281,secondary,Avenida El Greco,37.3909779,-5.9682025
+313014282,primary,Avenida Luis de Morales,37.3870781,-5.9723397
+313014284,primary,Avenida de Eduardo Dato,37.3826732,-5.9722593
+317793721,primary,Autovía de Sevilla a Utrera,37.3580858,-5.9530434
+317793722,primary,A-376 Autovía Sevilla - Utrera,37.3579608,-5.9528615
+317793723,primary,A-376 Autovía Sevilla - Utrera,37.3574578,-5.9520887
+317836957,motorway,Circunvalación de Sevilla,37.3849066,-6.0261889
+318108394,secondary,Calle Doctor Miguel Rios Sarmiento,37.4028332,-5.9340237
+318108395,secondary,Calle Doctor Miguel Rios Sarmiento,37.4004869,-5.9323919
+318406087,motorway,Carretera de Sevilla a La Puebla del Río,37.3696797,-6.0310359
+318406088,trunk,Carretera Gijón a Puerto de Sevilla,37.374787,-6.014792
+318406089,trunk,Carretera Gijón a Puerto de Sevilla,37.3723836,-6.0155743
+318406106,motorway_link,Sin nombre,37.3761776,-6.0145571
+323851535,secondary_link,Sin nombre,37.371299,-5.9971413
+323851536,primary_link,Sin nombre,37.3713107,-5.9976689
+323855733,motorway_link,Sin nombre,37.3595009,-6.0033069
+323855737,motorway_link,Sin nombre,37.35987,-6.0028742
+328551902,primary,Avenida Concejal Alberto Jiménez-Becerril,37.4124762,-5.988846
+328816035,primary,Calle María Auxiliadora,37.3950641,-5.98304
+328816036,primary,Calle Recaredo,37.3906799,-5.9840916
+328816037,primary,Avenida Menéndez Pelayo,37.3880003,-5.9849188
+329159948,primary_link,Sin nombre,37.3758937,-5.9913095
+329159949,primary,Avenida de María Luisa,37.3764791,-5.9910977
+329159951,primary,Glorieta de los Marineros Voluntarios,37.375814,-5.9913992
+329159952,primary,Paseo de Cristóbal Colón,37.3843667,-5.9979541
+329159953,primary,Calle Torneo,37.3947148,-6.0031842
+330699506,primary,Avenida Kansas City,37.4055397,-5.9553688
+330962455,primary,Avenida Kansas City,37.3914747,-5.9732364
+330962456,primary,Avenida Kansas City,37.4029986,-5.9585667
+330962457,primary,Avenida Kansas City,37.4020256,-5.959986
+330962459,secondary,Calle Arroyo,37.3980495,-5.9749449
+330962461,secondary,Calle Carretera de Carmona,37.4029402,-5.9645629
+330962462,secondary,Calle Carretera de Carmona,37.4018907,-5.9724169
+330962465,primary,Calle Luis Montoto,37.3875479,-5.965105
+330962468,secondary,Calle Tharsis,37.3999197,-5.9698066
+330962469,secondary,Carretera de Carmona,37.4028483,-5.9589025
+330962470,primary,Glorieta Diputado Manuel Barrios,37.3898121,-5.9750558
+330962473,motorway,Circunvalación de Sevilla,37.3896784,-5.9420051
+330962474,primary,Glorieta Sergio Rodríguez Prat,37.3872497,-5.9591591
+330962478,primary,Glorieta Operación Clavel,37.3969523,-5.9658931
+330962480,primary,Sin nombre,37.3931278,-5.9706955
+330962481,primary_link,Sin nombre,37.391869,-5.9785475
+330962482,primary_link,Sin nombre,37.3919382,-5.9784791
+330962484,secondary,Sin nombre,37.4027955,-5.9649891
+330962487,primary,Sin nombre,37.3930465,-5.9707837
+330962489,primary,Sin nombre,37.3933594,-5.9710379
+330962492,secondary,Sin nombre,37.3900114,-5.9665798
+330962493,motorway_link,Sin nombre,37.3867816,-5.9408832
+330962494,primary,Sin nombre,37.3932892,-5.9711596
+331281685,primary,Glorieta de los Marineros Voluntarios,37.3754014,-5.991798
+331281690,primary,Puente de los Remedios,37.3751486,-5.9930587
+331281692,primary,Puente de la Barqueta,37.4044755,-5.9974063
+331281693,primary_link,Sin nombre,37.3880757,-5.9847444
+331354694,primary,Paseo de Cristóbal Colón,37.3859405,-5.9997085
+331357861,primary,Calle María Auxiliadora,37.396088,-5.9822969
+331391303,secondary,Avenida de Palmas Altas,37.3464865,-5.9899853
+331907571,secondary,Avenida de Las Razas,37.3682979,-5.9893975
+331907572,secondary,Avenida de Las Razas,37.3679209,-5.9894156
+331928583,primary,Avenida de Diego Martínez Barrio,37.3722355,-5.9769135
+332019207,primary,Calle Recaredo,37.389821,-5.9842893
+332028048,primary,Calle Luis Montoto,37.3873232,-5.9721765
+332101605,primary,Avenida de la Palmera,37.368384,-5.987281
+332101606,primary,Paseo de las Delicias,37.3690546,-5.9876859
+332101607,primary,Paseo de las Delicias,37.36934,-5.9878635
+332101608,primary,Paseo de las Delicias,37.3695994,-5.9880225
+332163726,primary,Glorieta del Árbol,37.4104144,-5.9715299
+332163727,primary,Sin nombre,37.4049627,-5.9686132
+332440722,primary,Avenida Blas Infante,37.3750821,-6.0074134
+332440723,primary,Avenida Blas Infante,37.3758206,-6.0058817
+332962502,primary,Avenida de Eduardo Dato,37.3820301,-5.968863
+332962503,primary,Avenida de Eduardo Dato,37.3818901,-5.9681201
+332962504,primary,Avenida de Eduardo Dato,37.3817683,-5.9674792
+332962505,primary,Avenida de Eduardo Dato,37.3816591,-5.9668944
+332962506,primary,Calle Marqués de Pickman,37.3813713,-5.964126
+332962507,primary,Calle Marqués de Pickman,37.3813878,-5.9643341
+333473642,secondary,Carretera de Carmona,37.4028478,-5.9588009
+333969545,primary,Avenida Alcalde Manuel de Valle,37.4120633,-5.9723499
+333969551,primary,Glorieta del Árbol,37.4107206,-5.9715624
+333969556,primary,Glorieta del Árbol,37.4106478,-5.9716795
+333969559,primary,Glorieta del Árbol,37.4105739,-5.971369
+334364828,primary,Avenida José Laguillo,37.39214,-5.979055
+334892161,primary,Avenida San Francisco Javier,37.3780097,-5.9746885
+334892162,primary,Avenida de Eduardo Dato,37.383576,-5.9770499
+334892163,primary,Avenida de Eduardo Dato,37.3830131,-5.9740633
+334892164,primary,Avenida de Eduardo Dato,37.3821505,-5.9695045
+334892165,secondary,Avenida de la Buhaira,37.3794247,-5.9798633
+334892178,primary,Calle Luis Montoto,37.3875127,-5.9684342
+334892181,secondary,Calle Luis Montoto,37.3872831,-5.9730917
+335221241,primary,Avenida Ramón y Cajal,37.375594,-5.9696411
+335221249,primary,Avenida de Eduardo Dato,37.3842918,-5.9810493
+335221273,secondary,Calle Juan Antonio Cavestany,37.3881761,-5.9824209
+335221276,secondary,Calle Luis Montoto,37.3874842,-5.9796201
+335221286,secondary,Calle Luis Montoto,37.3885512,-5.9829876
+336951724,secondary,Avenida de Italia,37.3506398,-5.9837363
+338374857,primary,Avenida de Hytasa,37.3692495,-5.9574205
+338374858,primary,Avenida de Hytasa,37.3716596,-5.9617462
+338940730,secondary,Calle Pagés del Corro,37.3848758,-6.0064796
+338940734,primary,Calle Rubén Darío,37.3768891,-6.0136687
+338940738,primary,Calle Rubén Darío,37.3764262,-6.0125635
+338944243,primary,Calle Arjona,37.3896088,-6.0025625
+339757000,primary,Glorieta Plus Ultra,37.3570308,-5.9803553
+339757002,primary,Carretera de Su Eminencia,37.3569483,-5.9795894
+346370489,primary_link,Sin nombre,37.3870871,-5.9721377
+356613144,primary,Calle Arjona,37.3906106,-6.0029214
+358391203,motorway,Circunvalación de Sevilla,37.3740473,-5.9438638
+358391204,motorway,Circunvalación de Sevilla,37.3838645,-5.9416132
+358391205,motorway,Circunvalación de Sevilla,37.3813581,-5.9425103
+358391206,motorway,Circunvalación de Sevilla,37.3879067,-5.9413405
+365959170,primary,Paseo de Cristóbal Colón,37.3830858,-5.996534
+365959210,primary,Paseo de Cristóbal Colón,37.3837862,-5.997302
+366175336,secondary,Calle Juan de Mata Carrianzo,37.3839007,-5.9840086
+366266897,motorway,Sin nombre,37.4360628,-5.9732914
+366360130,secondary,Avenida del Manchón,37.3738475,-6.0305808
+367829285,primary,Avenida Ramón Carande,37.377678,-5.9790685
+367860868,primary,Ronda del Tamarguillo,37.3721108,-5.9660304
+367860869,primary,Ronda del Tamarguillo,37.3726316,-5.9654086
+367860875,primary_link,Sin nombre,37.3725845,-5.973007
+367860876,primary_link,Sin nombre,37.3724761,-5.9730796
+367885089,secondary,Avenida de Las Erillas,37.3679892,-6.0264176
+367885090,secondary,Avenida de Las Erillas,37.366928,-6.0261983
+369282588,motorway_link,Sin nombre,37.4136436,-6.0078251
+370098052,motorway_link,Sin nombre,37.3902284,-6.0288818
+370210015,secondary,Avenida Manuel Siurot,37.3681048,-5.9853527
+370210017,primary,Avenida Ramón Carande,37.3745895,-5.9788881
+370210018,primary,Avenida Ramón y Cajal,37.3751422,-5.9680959
+370210019,secondary,Avenida de la Borbolla,37.3732229,-5.9853628
+370210020,primary,Avenida de la Paz,37.3695403,-5.9693549
+370210022,primary,Calle Enramadilla,37.3787092,-5.979103
+370315350,primary,Avenida de la Paz,37.3704171,-5.9704279
+370316233,primary,Avenida de la Paz,37.3670804,-5.966377
+370316234,primary,Calle Poeta Manuel Benítez Carrasco,37.3680905,-5.9701026
+370316236,primary,Calle Poeta Manuel Benítez Carrasco,37.364501,-5.972964
+370582421,primary,Sin nombre,37.3632539,-5.9617031
+370582425,primary_link,Sin nombre,37.3621518,-5.9598582
+370582428,primary_link,Sin nombre,37.3672337,-5.9660571
+370582431,primary_link,Sin nombre,37.3619884,-5.9599101
+370582432,primary_link,Sin nombre,37.3634565,-5.9615575
+370582433,primary_link,Sin nombre,37.3633716,-5.9614544
+371700344,primary,Calle Sor Francisca Dorotea,37.4074384,-5.9797772
+371700345,primary,Ronda de Pío XII,37.4073123,-5.9788637
+371700346,primary,Ronda de Pío XII,37.4073827,-5.9787907
+371705055,primary,Calle Doctor Leal Castaño,37.4073544,-5.9848192
+371705068,primary,Calle Muñoz León,37.4030315,-5.9877364
+371705070,primary,Calle Muñoz León,37.4011318,-5.9852843
+371745117,primary,Ronda de Pío XII,37.4067398,-5.9776545
+371862365,secondary,Calle Carretera de Carmona,37.4003368,-5.9765299
+371862366,primary,Calle Doctor Marañón,37.407416,-5.9854926
+372340133,secondary,Avenida de Dinamarca,37.3498593,-5.9874404
+372340134,secondary,Avenida de Dinamarca,37.3466195,-5.984383
+372340135,secondary,Calle Chipre,37.3446297,-5.9825852
+373489776,primary,Avenida Expo´92,37.3900677,-6.0082007
+373489785,primary,Calle Gonzalo Jiménez de Quesada,37.3906096,-6.0092682
+374057337,secondary,Avenida de Europa,37.3319371,-5.9246858
+374057338,secondary,Sin nombre,37.3299316,-5.9219878
+374401031,primary,Calle Parque de Grazalema,37.4165188,-5.9718687
+374967049,primary,Calle Sor Francisca Dorotea,37.4072975,-5.981585
+375766977,primary,Avenida de Llanes,37.4040421,-5.9726139
+375766978,primary,Avenida de Llanes,37.4048048,-5.974031
+375766981,secondary,Calle Carretera de Carmona,37.401433,-5.9740789
+378281315,primary_link,Plaza Alcalde Alfredo Sánchez Monteseirín,37.3902532,-6.0088158
+380095184,motorway,Autovía del Quinto Centenario,37.3900933,-6.0253531
+380098290,primary,Avenida Carlos III,37.3920267,-6.0134377
+380098292,primary,Avenida Carlos III,37.3946983,-6.0128105
+380098729,primary,Avenida Carlos III,37.3969874,-6.012189
+380099001,primary,Avenida Carlos III,37.4006109,-6.0113645
+380099002,primary,Avenida Carlos III,37.4069003,-6.0095231
+380099221,primary,Avenida Carlos III,37.4109238,-6.0084197
+380099223,primary,Avenida Carlos III,37.4047032,-6.0102582
+380100209,secondary,Sin nombre,37.4131339,-5.9835619
+380326836,primary,A-376 Autovía Sevilla - Utrera,37.3493585,-5.9395229
+380326838,primary,A-376 Autovía Sevilla - Utrera,37.3467277,-5.9359991
+380983356,motorway,Autovía del Quinto Centenario,37.3902467,-6.0279961
+380991038,primary,Avenida de Jerez,37.3414559,-5.9724498
+381178925,secondary,Carretera de La Rinconada,37.4342447,-5.9796097
+381192379,primary,Avenida Biología,37.4310628,-5.9763694
+381192382,primary,Avenida Biología,37.4320501,-5.9757296
+381192383,primary,Avenida Biología,37.4308335,-5.9766747
+382764725,primary,Glorieta Sergio Rodríguez Prat,37.3873891,-5.9594692
+384980594,secondary,Sin nombre,37.4029082,-5.9600091
+384980595,secondary,Sin nombre,37.4027826,-5.9603379
+384980597,primary,Sin nombre,37.38632,-5.9435339
+386312981,secondary,Calle Secoya,37.4104751,-5.9329703
+387205569,primary,Calle Federico Mayo Gayarre,37.3807272,-5.9556824
+387205571,secondary,Calle Ingeniero de la Cierva,37.375653,-5.9449329
+387205574,secondary,Calle Ingeniero de la Cierva,37.3761017,-5.9439878
+387205575,secondary,Calle Ingeniero de la Cierva,37.3758268,-5.9446004
+387205576,secondary,Calle Ingeniero de la Cierva,37.3759234,-5.9443563
+387588695,secondary,Calle Secoya,37.4082957,-5.9342138
+387588987,secondary,Calle Secoya,37.4071019,-5.934824
+388029053,primary,Calle Luis Montoto,37.3873128,-5.9724116
+389740898,secondary,Calle Carretera de Carmona,37.4031564,-5.9668741
+392818866,primary,Glorieta de los Marineros Voluntarios,37.3755032,-5.9911857
+392818867,primary,Glorieta de los Marineros Voluntarios,37.3757372,-5.9917147
+394936809,motorway_link,Sin nombre,37.3729157,-6.015721
+395025721,primary,Calle Torneo,37.4017914,-5.9972906
+395025723,primary,Avenida Concejal Alberto Jiménez-Becerril,37.4073335,-5.9927142
+395554555,secondary,Calle Virgen de Luján,37.3747452,-5.995759
+395554556,secondary,Calle Virgen de Luján,37.3747274,-5.9964628
+395554557,secondary,Calle Virgen de Luján,37.3747122,-5.9971533
+395554559,secondary,Calle Virgen de Luján,37.3746963,-5.997864
+395554560,secondary,Calle Virgen de Luján,37.3746784,-5.9985231
+395554563,secondary,Calle Virgen de Luján,37.3746553,-5.9994013
+395554565,secondary,Calle Virgen de Luján,37.3746271,-6.0004474
+395554568,secondary,Calle Virgen de Luján,37.3746029,-6.0013251
+395554570,secondary,Calle Virgen de Luján,37.3745756,-6.0025378
+395554571,secondary,Calle Virgen de Luján,37.3744605,-6.0029256
+395554572,secondary,Calle Virgen de Luján,37.3741665,-6.0035811
+396962116,primary,Glorieta de las Cigarreras,37.3746577,-5.9943925
+396962119,primary,Sin nombre,37.3749372,-5.9939786
+396962121,primary,Glorieta de las Cigarreras,37.3749406,-5.9944164
+396962122,primary,Avenida de María Luisa,37.3775356,-5.9905237
+396962123,primary,Avenida de María Luisa,37.378361,-5.9900753
+396962124,primary,Avenida de María Luisa,37.3787588,-5.9898592
+396962125,primary,Calle Palos de la Frontera,37.379384,-5.9898365
+397650886,primary,Calle Torneo,37.3948555,-6.0031004
+397946300,primary,Sin nombre,37.3556469,-5.9689872
+397946301,primary,Carretera de Su Eminencia,37.3557506,-5.9729879
+397946302,primary,Carretera de Su Eminencia,37.3559112,-5.9736939
+397946303,primary,Carretera de Su Eminencia,37.3580003,-5.9633445
+401680978,primary,Glorieta Plus Ultra,37.3574766,-5.9807072
+401680979,primary,Avenida de Jerez,37.3460795,-5.9752889
+401680982,primary,Avenida de Jerez,37.3464029,-5.9754835
+401680983,primary,Avenida de Jerez,37.3500399,-5.9766387
+401681805,primary,Avenida de Portugal,37.3780053,-5.9845411
+401681806,primary,Glorieta de San Diego,37.3792065,-5.9890435
+403277396,primary,Puente de San Telmo,37.3802354,-5.9974222
+403277399,primary,Sin nombre,37.3798205,-5.9980541
+403277402,primary,Sin nombre,37.3799012,-5.9981275
+403354378,primary,Puente de las Delicias,37.3677031,-5.992439
+403354379,primary,Puente de las Delicias,37.3675772,-5.9911648
+403354380,primary,Puente de las Delicias,37.367754,-5.9943722
+403354381,primary,Puente de las Delicias,37.3676115,-5.9924451
+403459527,secondary,Avenida de la Borbolla,37.3769344,-5.9843519
+403460762,primary,Avenida de Jerez,37.3463456,-5.9756364
+403460765,primary_link,Sin nombre,37.334821,-5.9696676
+403888823,secondary,Glorieta de Méjico,37.3694204,-5.9880206
+403888825,secondary,Glorieta de Méjico,37.3692576,-5.9875827
+403888828,secondary,Glorieta de Méjico,37.3693896,-5.987666
+403888829,secondary,Glorieta de Méjico,37.3692738,-5.9879263
+404596352,primary_link,Sin nombre,37.3350329,-5.9697957
+405655291,motorway,Sin nombre,37.3883675,-6.026781
+405655294,trunk,Glorieta José Moya Sanabria,37.3893956,-6.0141541
+405655295,trunk,Carretera Gijón a Puerto de Sevilla,37.3893224,-6.0153818
+405655296,trunk_link,Sin nombre,37.3892553,-6.0153577
+405655298,trunk,Glorieta José Moya Sanabria,37.3893952,-6.0132116
+405655299,trunk,Glorieta José Moya Sanabria,37.3893046,-6.0140887
+405655300,trunk,Glorieta José Moya Sanabria,37.3891983,-6.0136946
+405655301,trunk,Glorieta José Moya Sanabria,37.3897559,-6.0131414
+405655302,trunk,Glorieta José Moya Sanabria,37.3898497,-6.0132141
+405655303,trunk,Glorieta José Moya Sanabria,37.3899457,-6.0136581
+405655304,trunk,Glorieta José Moya Sanabria,37.3896618,-6.0141322
+406087197,motorway_link,Sin nombre,37.3402205,-5.9761691
+406087198,motorway_link,Sin nombre,37.340439,-5.9777639
+406948488,primary,Paseo de Cristóbal Colón,37.3826493,-5.9961459
+407903968,primary,Sin nombre,37.3900587,-5.9587186
+408712335,secondary,Avenida Hermanos de la Cruz Blanca,37.3338367,-5.9202242
+408712338,secondary,Sin nombre,37.3350417,-5.9197983
+408712339,secondary,A-376 Autovía Sevilla - Utrera,37.3344057,-5.9200614
+410901963,trunk,Ronda Norte de Sevilla,37.4290975,-5.962002
+410901964,trunk,Ronda Norte de Sevilla,37.4181337,-5.9386248
+415822712,primary,Avenida Kansas City,37.3920973,-5.9721769
+415822721,primary,Avenida Kansas City,37.3930685,-5.971221
+415822733,primary,Sin nombre,37.3930218,-5.9711076
+415822735,primary,Sin nombre,37.3929813,-5.970987
+419454868,motorway_link,Sin nombre,37.3414676,-5.98177
+419454870,motorway_link,Sin nombre,37.337979,-5.9840174
+419454874,motorway_link,Sin nombre,37.3418606,-5.9820605
+419454876,motorway_link,Sin nombre,37.3395782,-5.9830167
+419454880,motorway_link,Sin nombre,37.3385561,-5.9837096
+419454883,motorway_link,Sin nombre,37.3406626,-5.9821478
+419454886,motorway_link,Sin nombre,37.3416614,-5.9803803
+419454889,motorway_link,Sin nombre,37.341313,-5.9815134
+421001287,primary,Avenida Carlos III,37.405983,-6.009912
+421001288,primary,Avenida Carlos III,37.4076923,-6.0094478
+421001289,primary,Sin nombre,37.4058981,-6.0098493
+421001290,primary,Sin nombre,37.4060889,-6.0093369
+422036397,secondary,Avenida de la Borbolla,37.3794365,-5.9830185
+423381117,primary_link,Sin nombre,37.3951169,-6.0030895
+426442316,secondary,Sin nombre,37.3818958,-5.9506401
+426442320,primary,Sin nombre,37.3817478,-5.9508174
+426442323,primary,Calle Amor,37.3818361,-5.9508589
+426442326,primary,Sin nombre,37.3819602,-5.9507429
+426635399,primary,Sin nombre,37.3688156,-6.0043444
+426635400,primary,Avenida Juan Pablo II,37.3687472,-6.0040814
+426635401,primary,Sin nombre,37.3686704,-6.0041446
+426671809,secondary,Calle Ingeniero de la Cierva,37.3749946,-5.9457692
+427558606,primary,Glorieta Doctor Muñoz Cariñanos,37.3559757,-5.9796529
+427558607,primary,Glorieta Doctor Muñoz Cariñanos,37.3558122,-5.9797892
+427558608,primary,Glorieta Doctor Muñoz Cariñanos,37.3562585,-5.9800539
+427558756,primary,Sin nombre,37.3632122,-5.9617619
+427558757,primary,Sin nombre,37.365223,-5.9641987
+427558758,primary,Sin nombre,37.3668496,-5.9663209
+427558759,primary,Glorieta Mar Cambrollé,37.3693845,-5.9693996
+427989531,secondary,Carretera de La Rinconada,37.4350445,-5.9794824
+427989532,secondary,Carretera de La Rinconada,37.4363242,-5.9792622
+427989533,secondary,Carretera de La Rinconada,37.4363242,-5.9792622
+428004005,primary,Ronda Urbana Norte,37.4129715,-5.9498875
+428004006,primary,Ronda Urbana Norte,37.412958,-5.9500222
+428004007,motorway,Sin nombre,37.4097603,-5.9493754
+428004008,motorway,Sin nombre,37.4105053,-5.9496458
+428004904,primary,Avenida Kansas City,37.4057941,-5.9550521
+428004905,primary,Avenida Kansas City,37.3984384,-5.9644662
+428004906,primary,Avenida Kansas City,37.3983439,-5.9643541
+428004907,primary,Avenida Kansas City,37.4061644,-5.9547291
+428004908,primary,Avenida Kansas City,37.4060824,-5.9546467
+428004909,primary,Avenida Kansas City,37.4068554,-5.9532806
+428004910,primary,Glorieta Fuerte de Navidad,37.4062222,-5.954738
+428004911,primary,Glorieta Operación Clavel,37.3970348,-5.9659061
+428004912,primary,Glorieta Operación Clavel,37.3968298,-5.9664487
+428024504,primary,Ronda Urbana Norte,37.415712,-5.9552967
+428024505,primary,Ronda Urbana Norte,37.4161764,-5.9563621
+428277353,secondary,Calle Samaniego,37.3933874,-5.9711385
+428538528,primary,Ronda Urbana Norte,37.4141888,-5.9507044
+428538530,primary,Ronda Urbana Norte,37.4144456,-5.951424
+428538533,primary,Ronda Urbana Norte,37.4144289,-5.9510178
+428538539,primary,Ronda Urbana Norte,37.41426,-5.9506077
+428772663,primary,Ronda Urbana Norte,37.4174323,-5.9656133
+428772669,primary,Ronda Urbana Norte,37.4173276,-5.9655905
+441631548,primary,Carretera de Su Eminencia,37.3558809,-5.9737037
+444016328,primary,Carretera de Su Eminencia,37.3554473,-5.9697235
+444016329,primary,Carretera de Su Eminencia,37.3556899,-5.9680211
+444016330,primary,Carretera de Su Eminencia,37.3557412,-5.9680247
+444016331,primary,Sin nombre,37.3554399,-5.9691921
+444273625,secondary,Calle Luis Montoto,37.3882891,-5.9827816
+444274685,primary,Calle Amador de Los Ríos,37.3930533,-5.9820091
+444286270,primary,Avenida de Jerez,37.3379453,-5.9706977
+444330611,secondary,Calle Arroyo,37.3959986,-5.9788715
+445550114,primary_link,Sin nombre,37.3563502,-5.9749064
+446860669,primary,Avenida Ramón y Cajal,37.3768594,-5.9740049
+446860670,primary,Calle Cardenal Bueno Monreal,37.3686348,-5.9824054
+447598474,primary,Avenida Ramón y Cajal,37.3738886,-5.9652493
+447598475,primary,Avenida Ramón y Cajal,37.3753614,-5.9688398
+447598476,primary,Avenida Ramón y Cajal,37.376351,-5.9722544
+448768998,secondary,Calle Cardenal Ilundáin,37.3642803,-5.9822499
+448768999,primary,Avenida de la Palmera,37.3616688,-5.9832488
+449441702,secondary,Calle Alfonso Lasso de Vega,37.3660644,-5.9759393
+449705941,secondary,La Pañoleta-San Juan de Aznalfarache,37.3859769,-6.0271408
+449705944,secondary_link,Sin nombre,37.3813529,-6.0264659
+449705945,secondary_link,Sin nombre,37.3816923,-6.0264103
+450283683,secondary,La Pañoleta-San Juan de Aznalfarache,37.3884397,-6.0290908
+450283684,secondary,La Pañoleta-San Juan de Aznalfarache,37.3877734,-6.0284179
+450283685,secondary,La Pañoleta-San Juan de Aznalfarache,37.388832,-6.0300322
+450283686,secondary,La Pañoleta-San Juan de Aznalfarache,37.3802786,-6.0267033
+450283699,secondary,La Pañoleta-San Juan de Aznalfarache,37.3762425,-6.0273781
+450283700,secondary,La Pañoleta-San Juan de Aznalfarache,37.3756054,-6.027446
+450283701,secondary,La Pañoleta-San Juan de Aznalfarache,37.3768266,-6.0271708
+451636761,motorway_link,Sin nombre,37.3885959,-6.0229555
+451641899,secondary_link,Sin nombre,37.3742498,-6.026887
+452879654,secondary,Plaza de Chapina,37.39,-6.0079584
+453809108,secondary_link,Sin nombre,37.4133386,-5.9961189
+453809109,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4133674,-5.996118
+453809110,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4133748,-5.997542
+453809113,secondary_link,Sin nombre,37.4130459,-5.992323
+456248426,trunk,Ronda Norte de Sevilla,37.4176031,-5.920375
+456251329,trunk,Ronda Norte de Sevilla,37.4165987,-5.9268624
+456251330,trunk,Ronda Norte de Sevilla,37.4173878,-5.9196697
+456654195,secondary,Sin nombre,37.4174047,-5.9286088
+456654196,trunk_link,Sin nombre,37.4175782,-5.9282313
+456654201,trunk_link,Sin nombre,37.4148683,-5.9305043
+456654202,trunk_link,Sin nombre,37.415192,-5.9304244
+456654203,trunk,Ronda Norte de Sevilla,37.4160112,-5.9289308
+459560906,primary,Avenida José María Javierre,37.3886424,-5.9590401
+459560907,primary,Avenida José María Javierre,37.3883989,-5.9589943
+459560908,primary,Calle Clemente Hidalgo,37.3860854,-5.9595013
+459560909,primary,Calle Clemente Hidalgo,37.3860682,-5.959421
+460902384,primary,Avenida Kansas City,37.390023,-5.9745965
+461867206,primary,Sin nombre,37.3933077,-5.9707526
+461867328,primary,Avenida Expo´92,37.3901037,-6.0101208
+462932146,primary,Sin nombre,37.3872934,-5.9541186
+462932148,primary,Sin nombre,37.3871611,-5.95442
+462932149,primary,Avenida de Andalucía,37.3872068,-5.9541186
+462932150,primary,Sin nombre,37.3871275,-5.9538325
+462932151,primary,Avenida de Andalucía,37.3869557,-5.9521408
+463590625,primary,Calle Inca Garcilaso,37.3899439,-6.0104469
+466158408,primary,Paseo de las Delicias,37.3813797,-5.9952157
+466158409,primary,Paseo de las Delicias,37.3808722,-5.9948589
+467051712,motorway,Acceso Norte a Sevilla,37.4529976,-5.9697838
+470015890,secondary,Sin nombre,37.3411423,-5.9877104
+470380207,secondary,Sin nombre,37.3399746,-5.9864838
+470380208,secondary,Sin nombre,37.3402448,-5.9860034
+474640489,primary,Paseo de las Delicias,37.3803784,-5.9945294
+474640490,primary,Paseo de las Delicias,37.3765179,-5.9921958
+474640491,primary,Paseo de las Delicias,37.3733679,-5.9902955
+474640492,primary,Paseo de las Delicias,37.3730006,-5.9900695
+474640493,primary,Paseo de las Delicias,37.3726472,-5.9898539
+474640494,primary,Paseo de las Delicias,37.3718801,-5.9893892
+474640495,primary,Paseo de las Delicias,37.371056,-5.9888896
+474640496,primary,Paseo de las Delicias,37.3704019,-5.9884986
+474640497,primary,Paseo de las Delicias,37.3697966,-5.9881372
+486567258,motorway_link,Sin nombre,37.4005717,-5.9464165
+489423333,primary,Sin nombre,37.3935033,-5.9523854
+494999659,primary,Calle Demetrio de los Ríos,37.3852089,-5.9850605
+494999660,primary,Avenida de Eduardo Dato,37.3846139,-5.9833402
+498064545,primary,Puente de las Delicias,37.3676357,-5.9898029
+502681150,primary,Sin nombre,37.389653,-6.0135295
+505332840,primary,Avenida Kansas City,37.3934309,-5.9704523
+507205634,motorway,Circunvalación de Sevilla,37.3880305,-6.0249953
+507205635,motorway_link,Sin nombre,37.3892856,-6.0246264
+507205636,motorway,Circunvalación de Sevilla,37.3935762,-6.0254341
+507205638,motorway_link,Sin nombre,37.390026,-6.0247499
+507205639,motorway_link,Sin nombre,37.391695,-6.0251931
+508274046,primary,Avenida de Menéndez Pelayo,37.3852336,-5.9863134
+508282776,secondary,Calle José María Moreno Galván,37.3850848,-5.9838017
+508284946,primary,Avenida de Eduardo Dato,37.3845008,-5.9827437
+508284948,secondary,Calle Juan de Mata Carrianzo,37.3844687,-5.9840862
+508362482,primary,Avenida de Menéndez Pelayo,37.3858694,-5.9859565
+508362483,primary,Avenida de Menéndez Pelayo,37.3862706,-5.9857364
+510585239,primary,Avenida de Menéndez Pelayo,37.3833173,-5.9872966
+510585240,primary,Avenida de Menéndez Pelayo,37.3835868,-5.9871586
+510585241,primary,Avenida de Menéndez Pelayo,37.383009,-5.987452
+543015159,primary,Ronda de Triana,37.3880303,-6.0107403
+543015161,primary,Ronda de Triana,37.385445,-6.0112568
+543015164,primary,Ronda de Triana,37.3848988,-6.0112345
+543015169,primary,Ronda de Triana,37.3842562,-6.0111476
+543015181,primary,Ronda de Triana,37.3835644,-6.0109693
+543680231,secondary,Carretera de Sevilla a La Puebla del Río,37.3338891,-6.0261744
+543680232,secondary,Carretera de Sevilla a La Puebla del Río,37.3432011,-6.0252118
+543680239,secondary_link,Sin nombre,37.3302756,-6.0272036
+543680244,secondary_link,Sin nombre,37.3354741,-6.024552
+543767398,primary,Calle Torcuato Luca de Tena,37.361328,-5.9789821
+543767399,primary,Calle Torcuato Luca de Tena,37.3619386,-5.9772605
+543767400,primary,Calle Torcuato Luca de Tena,37.361639,-5.9781066
+543767402,secondary,Calle Cardenal Ilundáin,37.364885,-5.9806078
+555569688,trunk,Ronda Norte de Sevilla,37.4202581,-6.0062084
+555569689,trunk,Ronda Norte de Sevilla,37.4216795,-6.0047028
+555569690,trunk,Ronda Norte de Sevilla,37.4203052,-6.0063232
+555569691,trunk,Ronda Norte de Sevilla,37.417866,-6.0069686
+561004975,primary,Avenida de la Paz,37.371641,-5.971903
+561004976,primary,Avenida de la Paz,37.369365,-5.969146
+561004977,primary,Avenida de la Paz,37.366919,-5.9661835
+561004978,primary,Avenida de la Paz,37.3652478,-5.9641649
+561004979,primary,Avenida de la Paz,37.3642356,-5.9629438
+561004980,primary,Avenida de la Paz,37.3632308,-5.9617352
+561004981,primary,Sin nombre,37.3609531,-5.9592421
+561004982,primary,Glorieta Víctimas de Terrorismo,37.3729808,-5.9733759
+561004985,primary,Glorieta Víctimas de Terrorismo,37.3728796,-5.9737031
+571485964,secondary,Calle Antonio Bienvenida,37.3709486,-5.9974274
+571485965,secondary,Calle Antonio Bienvenida,37.3700065,-5.9973854
+571485966,secondary,Calle Antonio Bienvenida,37.3710637,-5.9972991
+571485967,secondary,Calle Antonio Bienvenida,37.3709527,-5.9972958
+573151585,secondary,Avenida de Las Razas,37.3650966,-5.9895381
+576102546,secondary,Glorieta Donantes de Vida,37.3440721,-5.9759854
+576102547,secondary,Glorieta Eslovaquia,37.3432766,-5.9812636
+577366803,motorway_link,Sin nombre,37.4137779,-6.0304972
+577373939,secondary,Avenida del Manchón,37.3742869,-6.0287133
+577395112,motorway_link,Sin nombre,37.3906916,-6.0274427
+577398505,motorway,Circunvalación de Sevilla,37.3897838,-6.027286
+577406383,motorway_link,Sin nombre,37.3753794,-6.0262207
+577406384,motorway,Circunvalación de Sevilla,37.3736775,-6.0268019
+577406385,motorway_link,Sin nombre,37.3725937,-6.0268421
+577414291,motorway_link,Sin nombre,37.3703282,-6.0157859
+577415036,secondary,Avenida de Las Erillas,37.3714108,-6.0275758
+577415037,motorway_link,Sin nombre,37.3704602,-6.026973
+577415038,motorway_link,Sin nombre,37.3704953,-6.0268001
+577415039,motorway_link,Sin nombre,37.3707759,-6.0263898
+577415040,secondary,Sin nombre,37.3704872,-6.0270383
+577415041,secondary,Avenida de Las Erillas,37.369939,-6.0268947
+577415042,motorway_link,Sin nombre,37.3707273,-6.0269343
+577881816,secondary,Avenida de Alemania,37.3458311,-5.9784769
+577881817,secondary,Avenida de Alemania,37.3456815,-5.9794624
+578671513,secondary,Avenida de Alemania,37.3460354,-5.9771462
+579982282,secondary,Avenida de Alemania,37.3456054,-5.979968
+579982283,secondary,Avenida de Alemania,37.3455684,-5.9802118
+579982284,secondary,Avenida de Alemania,37.34545,-5.9809892
+579982285,secondary,Avenida de Alemania,37.3455129,-5.9805762
+579982291,secondary,Avenida de Alemania,37.3454095,-5.9812582
+579982292,secondary,Avenida de Alemania,37.3453083,-5.9819375
+579982298,secondary,Avenida de Alemania,37.3452558,-5.9822899
+579982301,secondary,Avenida de Alemania,37.345141,-5.9828999
+579982303,secondary,Avenida de Alemania,37.346043,-5.9783792
+579982304,secondary,Avenida de Alemania,37.3460658,-5.97823
+579982305,secondary,Avenida de Alemania,37.3460905,-5.9780672
+579982306,secondary,Avenida de Alemania,37.3461361,-5.9777677
+579982307,secondary,Avenida de Alemania,37.346107,-5.9779592
+579982308,secondary,Avenida de Alemania,37.3461655,-5.977575
+579982309,secondary,Avenida de Alemania,37.3462157,-5.9772372
+579982310,secondary,Avenida de Alemania,37.3462909,-5.9767236
+579982319,primary,Avenida de Jerez,37.3467091,-5.9756679
+579982323,primary,Glorieta de Letonia,37.3466226,-5.975451
+579982326,secondary,Avenida de Dinamarca,37.3454779,-5.9833215
+579982328,secondary,Glorieta de Chequia,37.3452155,-5.9831515
+580526919,secondary,Avenida de Alemania,37.3455963,-5.9813183
+580526920,secondary,Avenida de Alemania,37.3457111,-5.9805614
+580526922,secondary,Avenida de Alemania,37.345423,-5.9811673
+580526923,secondary,Avenida de Alemania,37.3453599,-5.9815907
+580526924,secondary,Calle Chipre,37.3435206,-5.9815474
+580526925,secondary,Calle Chipre,37.3441541,-5.9821487
+580552055,secondary,Calle Chipre,37.3434355,-5.9814549
+580552056,secondary,Calle Chipre,37.3438389,-5.9818498
+582021180,motorway,Sin nombre,37.4359847,-5.9731008
+582021181,primary,Sin nombre,37.434842,-5.9740777
+584651077,primary,Calle Resolana,37.4036997,-5.9947171
+584913858,motorway,Sin nombre,37.3418792,-5.9806582
+590076247,primary,Avenida República Argentina,37.3793158,-5.9991981
+590076249,primary,Avenida República Argentina,37.3794632,-5.9989077
+590076251,primary,Avenida República Argentina,37.3794922,-5.9988502
+591172826,motorway_link,Sin nombre,37.3596343,-6.0287327
+601347726,secondary_link,Calle Energía Solar,37.3381358,-5.9790862
+601347731,secondary_link,Calle Energía Solar,37.3380983,-5.9791358
+613817222,trunk,Autovía de Sevilla a Almería por Granada,37.3862173,-5.9338285
+624026931,primary,Calle Matemáticos Rey Pastor y Castro,37.4054472,-6.0027097
+624026932,primary,Calle Matemáticos Rey Pastor y Castro,37.4055929,-6.0031705
+630774011,primary,Paseo de las Delicias,37.3818029,-5.9955245
+631109258,primary,Calle Amor,37.3855145,-5.9437539
+631109259,primary,Calle Amor,37.3845606,-5.9447927
+631109260,primary,Calle Amor,37.3862397,-5.943396
+631109262,primary,Sin nombre,37.3863683,-5.9432346
+631109263,primary,Calle Amor,37.3861209,-5.943599
+631109264,primary,Calle Amor,37.3837784,-5.9464963
+631109265,primary,Calle Amor,37.3828181,-5.9486511
+631134398,primary,Sin nombre,37.3817831,-5.9510684
+631134399,primary,Sin nombre,37.3819072,-5.9509523
+631134400,primary,Calle Amor,37.3830344,-5.9479955
+631138217,primary,Calle Amor,37.3840518,-5.9458811
+631138219,primary,Calle Amor,37.3845647,-5.944701
+631138220,primary,Sin nombre,37.3867075,-5.9434454
+631138221,primary,Sin nombre,37.3869975,-5.9539291
+631138222,primary,Sin nombre,37.3869152,-5.9541168
+636999546,secondary,Carretera de Sevilla a La Puebla del Río,37.3339176,-6.0260071
+638509099,primary,Glorieta Víctimas de Terrorismo,37.3728993,-5.9733195
+638509100,primary,Glorieta Víctimas de Terrorismo,37.372732,-5.9733641
+638509102,primary,Gran Plaza,37.3813155,-5.9661156
+638509103,primary,Gran Plaza,37.3815404,-5.9662195
+638509106,primary,Glorieta Diputado Manuel Barrios,37.3898269,-5.9747215
+638509107,primary,Glorieta Diputado Manuel Barrios,37.3900725,-5.9751962
+638509797,primary,Avenida de las Ciencias,37.399418,-5.9252453
+638509798,primary,Avenida de las Ciencias,37.3994677,-5.9250257
+638509799,primary,Sin nombre,37.3872378,-5.9207353
+638509800,primary,Gran Plaza,37.3818734,-5.9657741
+638513786,primary,Calle Inca Garcilaso,37.3903907,-6.0106495
+638513787,primary,Calle Gonzalo Jiménez de Quesada,37.390518,-6.0087369
+638513788,primary,Avenida Expo´92,37.3899825,-6.0086479
+638513789,primary,Sin nombre,37.3761779,-6.0055813
+638513790,primary,Sin nombre,37.3759435,-6.0053837
+638513791,primary,Puente de San Telmo,37.3802814,-5.9972739
+638513792,primary,Glorieta de San Diego,37.3791303,-5.9895027
+638513793,primary,Glorieta de San Diego,37.3793862,-5.9895236
+638513796,primary,Gran Plaza,37.3814751,-5.9654228
+638513799,primary,Gran Plaza,37.3812951,-5.9655574
+638515099,secondary,Calle Ingeniero de la Cierva,37.3743595,-5.9466156
+638515105,primary,Sin nombre,37.3869265,-5.9542186
+638515106,primary,Glorieta Sergio Rodríguez Prat,37.3872893,-5.958819
+638515107,primary,Sin nombre,37.3869239,-5.9540266
+638515108,primary,Sin nombre,37.3869572,-5.954286
+638712299,secondary,Calle Ingeniero de la Cierva,37.374284,-5.9467136
+638712300,primary,Plaza 1 de Mayo,37.3800248,-5.9541857
+638712301,primary_link,Plaza de Ruperto Chapí,37.3765927,-5.9603544
+638712302,primary_link,Plaza de Ruperto Chapí,37.3767984,-5.9612005
+638712303,primary_link,Plaza de Ruperto Chapí,37.3770245,-5.9610239
+638713836,primary,Sin nombre,37.3931491,-5.9711814
+638713837,primary,Sin nombre,37.393366,-5.970872
+638713838,motorway_link,Sin nombre,37.4140417,-5.9314406
+638713841,primary,Glorieta Rafael Gordillo,37.3998097,-5.9628836
+638713842,primary,Glorieta Rafael Gordillo,37.400144,-5.9622195
+638713843,primary,Glorieta Rafael Gordillo,37.3996114,-5.9627321
+638713844,primary,Glorieta Operación Clavel,37.3970249,-5.9665097
+638713845,primary,Glorieta Operación Clavel,37.3971224,-5.9663907
+638713846,primary,Glorieta Operación Clavel,37.3968029,-5.966027
+638713847,primary,Sin nombre,37.3929773,-5.9708902
+638713848,primary,Glorieta Diputado Manuel Barrios,37.3902152,-5.9750717
+638713849,primary,Glorieta Diputado Manuel Barrios,37.389971,-5.9746004
+638715063,primary,Sin nombre,37.3612892,-5.959395
+638715673,primary,Plaza 1 de Mayo,37.3800525,-5.9539649
+638715674,primary,Plaza 1 de Mayo,37.3803337,-5.9542652
+638719623,primary,Plaza Duquesa Cayetana de Alba,37.4037404,-5.9951594
+638719627,primary,Glorieta de los Marineros Voluntarios,37.3752034,-5.9913935
+638719628,primary,Avenida Concejal Alberto Jiménez-Becerril,37.4065061,-5.9935237
+638719629,secondary,Sin nombre,37.4132645,-5.9838536
+638719631,primary,Ronda Urbana Norte,37.4133517,-5.983506
+638719632,secondary,Sin nombre,37.4135641,-5.983783
+638719633,secondary,Sin nombre,37.413672,-5.9835166
+638719634,secondary,Sin nombre,37.4132452,-5.9832142
+638719635,secondary,Sin nombre,37.4134027,-5.9838865
+638988792,primary,Glorieta del Árbol,37.4105242,-5.9717863
+638990003,primary,Glorieta Sergio Rodríguez Prat,37.3874652,-5.9587893
+638990005,primary,Avenida de la Areonáutica,37.3875653,-5.9202145
+638990007,primary,Sin nombre,37.3872994,-5.9203784
+638996001,primary,Calle Torneo,37.4032638,-5.9956162
+638996002,primary,Calle Arjona,37.3890433,-6.0023235
+638998411,primary,Sin nombre,37.3759211,-6.0057648
+638998412,primary,Sin nombre,37.3760774,-6.0057557
+638998413,primary,Sin nombre,37.3712614,-6.003813
+638998414,primary,Sin nombre,37.3713881,-6.0040864
+638998415,primary,Sin nombre,37.3715431,-6.0041384
+638998416,primary,Sin nombre,37.3689003,-6.0042876
+638998417,primary,Sin nombre,37.3688223,-6.0038409
+638998418,primary,Sin nombre,37.3686475,-6.0038744
+639334623,secondary,Avenida de la Borbolla,37.3794275,-5.9831259
+639334625,primary,Carretera de Su Eminencia,37.3554279,-5.9706116
+639334628,primary,Sin nombre,37.355616,-5.9701473
+639334630,primary,Sin nombre,37.3556923,-5.969609
+639334635,primary,Glorieta Miguel Ángel Blanco,37.3667064,-5.9713541
+639334638,primary,Glorieta Miguel Ángel Blanco,37.3666906,-5.9714889
+639334639,primary,Glorieta Miguel Ángel Blanco,37.3668521,-5.9715831
+639334640,secondary,Calle Alfonso Lasso de Vega,37.3662504,-5.9742984
+639334643,secondary,Avenida de la Borbolla,37.3776633,-5.9839985
+639334644,primary,Calle Cardenal Bueno Monreal,37.3695343,-5.9780643
+639334645,primary,Calle Cardenal Bueno Monreal,37.3693404,-5.978214
+639334646,primary,Calle Cardenal Bueno Monreal,37.3684719,-5.9833723
+639334647,primary,Calle Cardenal Bueno Monreal,37.3684001,-5.9832466
+639340277,primary,Sin nombre,37.3610839,-5.9587967
+639340278,primary,Sin nombre,37.3611796,-5.9594342
+639340282,primary,Sin nombre,37.366955,-5.9665624
+639340283,primary,Sin nombre,37.3670685,-5.9665191
+639340284,primary,Glorieta Mar Cambrollé,37.3692564,-5.9691216
+639342649,primary,Glorieta Mar Cambrollé,37.3692238,-5.9692132
+639342650,primary,Glorieta Miguel Ángel Blanco,37.3667816,-5.9711896
+639345197,trunk,Autovía de Sevilla a Almería por Granada,37.3860609,-5.9232126
+639346211,primary,Avenida José Laguillo,37.3940542,-5.9833328
+639346214,secondary,Calle Baltasar de Alcazar,37.402398,-5.9655677
+639623361,primary,Plaza 1 de Mayo,37.3804938,-5.9537499
+639623362,primary,Plaza 1 de Mayo,37.3802913,-5.9537755
+639625555,primary,Paseo de Cristóbal Colón,37.3870895,-6.0010524
+639628945,primary,Calle Doctor Ordoñez de la Barrera,37.3786724,-5.9798153
+639628951,primary,Calle Enramadilla,37.3788623,-5.9795945
+639961898,primary,Avenida Biología,37.4305756,-5.9768488
+639961903,secondary,Calle Medina y Galnares,37.4320857,-5.9800781
+639961906,secondary,Calle Medina y Galnares,37.4318176,-5.9800575
+639961907,secondary,Sin nombre,37.427149,-5.9866063
+639961909,secondary,Glorieta Bebés Robados,37.3551715,-5.9827206
+639961910,secondary,Glorieta Bebés Robados,37.3550869,-5.9826469
+639961921,primary,Sin nombre,37.4278751,-5.9783053
+639961922,primary,Sin nombre,37.4277153,-5.9780442
+639961923,primary,Sin nombre,37.4274386,-5.9780705
+640315078,secondary,Sin nombre,37.4030878,-5.9639865
+640315079,secondary,Sin nombre,37.4030109,-5.9645492
+640315080,secondary,Sin nombre,37.4029846,-5.9640999
+640315081,primary,Glorieta del Árbol,37.4106966,-5.9714804
+640315083,primary,Sin nombre,37.4050479,-5.9688119
+640315084,primary,Sin nombre,37.4048076,-5.9687449
+640315274,secondary,Rotonda Luis de Lezama,37.4089422,-5.996082
+640325979,primary,Glorieta Diputado Manuel Barrios,37.390235,-5.9750018
+640325981,primary,Glorieta Diputado Manuel Barrios,37.3902384,-5.9749361
+640325984,primary,Glorieta de San Diego,37.3792853,-5.9890215
+640746447,primary,Avenida Alcalde Manuel de Valle,37.4150384,-5.9737961
+640746449,primary,Glorieta Berrocal,37.4156076,-5.9744339
+640746450,primary,Glorieta Berrocal,37.4164046,-5.9742097
+640746720,primary,Glorieta de San Diego,37.3792548,-5.9895871
+640747569,motorway,Circunvalación de Sevilla,37.3746759,-6.0271351
+640747570,primary,Glorieta de los Marineros Voluntarios,37.3755861,-5.991801
+641189441,primary,Glorieta Solidaridad y Vida,37.4073276,-5.9790346
+641189442,primary,Glorieta Solidaridad y Vida,37.4073415,-5.9791147
+641189443,primary,Glorieta Solidaridad y Vida,37.4074354,-5.979248
+641189444,primary,Glorieta Sergio Rodríguez Prat,37.3872489,-5.9588455
+641189445,primary,Glorieta Mar Cambrollé,37.3696697,-5.9693688
+641189446,primary,Glorieta Mar Cambrollé,37.3693598,-5.9690054
+641189447,primary,Glorieta Mar Cambrollé,37.3695923,-5.9695068
+641189448,primary,Glorieta Miguel Ángel Blanco,37.3670265,-5.9716337
+641189454,primary,Calle Ada,37.3906487,-5.9593513
+642105786,primary,Sin nombre,37.351055,-5.9769656
+642106286,primary,Glorieta Carlos Cano,37.3742129,-6.0090607
+642106287,primary,Glorieta Carlos Cano,37.3740788,-6.0089888
+642106288,primary,Glorieta Carlos Cano,37.3740004,-6.0091102
+642106289,primary,Glorieta Carlos Cano,37.3739518,-6.0092673
+642106290,primary,Glorieta Carlos Cano,37.3740496,-6.0093883
+642109717,primary,Glorieta Solidaridad y Vida,37.4075223,-5.9793216
+642982466,primary,Glorieta Cuzco,37.367363,-5.9541017
+642982468,primary,Glorieta Cuzco,37.367569,-5.9539489
+642982470,primary,Glorieta Cuzco,37.3674389,-5.9539602
+642983718,primary,Sin nombre,37.3512824,-5.9776307
+642983720,primary,Glorieta de Letonia,37.3463172,-5.9759064
+642983721,primary,Glorieta de Letonia,37.3461461,-5.9756782
+642983722,primary,Glorieta de Letonia,37.3464421,-5.975216
+642984981,primary,Sin nombre,37.3444265,-5.974579
+642984982,primary,Avenida de Jerez,37.3452763,-5.9750127
+642984985,secondary,Avenida de Finlandia,37.3439424,-5.9773816
+642986365,primary,Calle Resolana,37.4036203,-5.9939893
+642986366,primary,Calle Resolana,37.4033991,-5.9923941
+642986367,primary,Glorieta Solidaridad y Vida,37.4074745,-5.9788684
+642986368,primary,Glorieta Solidaridad y Vida,37.4075653,-5.9792318
+643334678,primary,Sin nombre,37.3535065,-5.9426498
+643334679,primary,Sin nombre,37.3531992,-5.942829
+644804912,primary,Glorieta Solidaridad y Vida,37.4075965,-5.9791116
+644830036,secondary,Sin nombre,37.4271765,-5.9867392
+644830037,secondary,Calle de José Galán Merino,37.4261945,-5.9874664
+645245210,primary,Glorieta de Isla Mágica,37.4052678,-5.9987587
+648155257,primary,Túnel Calle Cardenal Bueno Monreal,37.3676104,-5.9879046
+648155261,primary,Túnel Calle Cardenal Bueno Monreal,37.3679302,-5.9861743
+658169978,primary,Avenida Montes Sierra,37.3985921,-5.9463576
+658171216,primary,Sin nombre,37.3901862,-5.9590276
+658171221,primary,Avenida José María Javierre,37.390026,-5.9588045
+658172023,primary,Avenida Montes Sierra,37.3925384,-5.9545934
+658373687,primary,Sin nombre,37.3905732,-5.9587929
+658373688,primary,Sin nombre,37.3903689,-5.958604
+658373689,primary,Sin nombre,37.3904143,-5.9591657
+658373690,primary,Sin nombre,37.390574,-5.9590066
+661779995,secondary_link,Sin nombre,37.4314593,-5.9336165
+661779996,secondary,Sin nombre,37.4303165,-5.9323972
+661779997,secondary,Sin nombre,37.4310684,-5.9339954
+661779998,secondary_link,Sin nombre,37.4293381,-5.9316285
+661779999,secondary_link,Sin nombre,37.4291249,-5.9314461
+661780001,secondary,Sin nombre,37.4233754,-5.9288166
+661780002,secondary_link,Sin nombre,37.4290995,-5.9315338
+662216774,secondary,Carretera de La Algaba,37.4451954,-5.9954519
+662216775,secondary,Carretera de La Algaba,37.4377441,-5.9921039
+662216776,secondary,Carretera de La Algaba,37.4468751,-5.9963562
+662216777,secondary,Carretera de La Algaba,37.4489629,-5.9974611
+665832096,primary,Calle Torcuato Luca de Tena,37.362322,-5.9759096
+670664244,primary,Avenida San Francisco Javier,37.3785649,-5.9747483
+670664246,primary,Avenida San Francisco Javier,37.3813019,-5.9736391
+671175672,secondary,Calle Antonio Bienvenida,37.3712967,-5.9973075
+671175673,primary,Avenida Presidente Adolfo Suárez,37.372994,-5.9957488
+671175674,secondary,Calle Antonio Bienvenida,37.3714955,-5.9973705
+671175675,secondary,Calle Antonio Bienvenida,37.3710781,-5.9974334
+671543185,primary,Avenida República Argentina,37.3783037,-6.0011673
+671561378,secondary,Sin nombre,37.3309975,-5.9230907
+671601548,primary,Avenida Flota de Indias,37.3714518,-6.0005733
+671601549,primary,Avenida Flota de Indias,37.3713947,-5.9989789
+671601550,primary,Avenida Flota de Indias,37.3713515,-6.000586
+671639782,primary,Puente de la Barqueta,37.4040808,-5.9968817
+671778906,primary,Avenida de la Paz,37.362735,-5.9611397
+671991200,primary_link,Sin nombre,37.3713999,-6.0006416
+671991201,primary,Avenida Flota de Indias,37.3714605,-6.0020525
+674151947,primary,Sin nombre,37.3901576,-5.9587191
+676609545,secondary,Sin nombre,37.3359766,-5.9327433
+676609546,secondary,Sin nombre,37.3360048,-5.9326339
+676609547,secondary,Sin nombre,37.3358935,-5.9325246
+676609548,secondary,Sin nombre,37.3337896,-5.9278061
+676609549,secondary,Sin nombre,37.3338332,-5.9276674
+676609550,secondary,Sin nombre,37.3336321,-5.9275291
+676609551,secondary,Sin nombre,37.3317437,-5.9241005
+676609552,secondary,Sin nombre,37.3315794,-5.9239583
+676609553,secondary,Sin nombre,37.3317771,-5.9243256
+676609575,secondary,Glorieta Tacito,37.337033,-5.9352834
+676609576,secondary,Glorieta Tacito,37.3369759,-5.9351542
+676609577,secondary,Glorieta Tacito,37.33686,-5.9351346
+676726535,motorway,Circunvalación de Sevilla,37.4128383,-6.0309386
+676953637,primary,Calle Santa Fe,37.3756289,-6.0052547
+678066806,primary,Carretera Su Eminencia,37.3642991,-5.9565298
+678115886,primary,Avenida de Andalucía,37.3874347,-5.9598664
+690750122,secondary,Avenida de la Buhaira,37.3856022,-5.9787707
+690750123,secondary,Calle Luis Montoto,37.3871739,-5.9780966
+690750124,secondary,Avenida de la Buhaira,37.3878241,-5.977775
+690750125,secondary,Calle Luis Montoto,37.3871935,-5.9758619
+692532451,primary,Avenida de la Palmera,37.3622286,-5.9835803
+700896450,primary,Calle Cardenal Bueno Monreal,37.3688891,-5.9801089
+712561436,trunk,Carretera de la Esclusa,37.3472185,-6.0026895
+712561438,trunk,Carretera de la Esclusa,37.3409241,-6.0029502
+712561441,trunk,Carretera de la Esclusa,37.3478549,-6.0027768
+712561442,trunk,Sin nombre,37.3443169,-6.0029283
+712561443,trunk,Sin nombre,37.3409975,-6.0030624
+712561447,trunk,Carretera de la Esclusa,37.3531773,-6.0025129
+712561449,trunk,Sin nombre,37.3514326,-6.0025112
+725424704,primary,Calle Marqués de Pickman,37.381176,-5.9616322
+725424705,primary,Calle Marqués de Pickman,37.3812614,-5.9627319
+725435891,primary,Avenida de Andalucía,37.387495,-5.9615396
+725435893,primary,Avenida de Andalucía,37.3874863,-5.9612575
+725693398,primary,Calle Clemente Hidalgo,37.3812993,-5.9602002
+725693399,primary,Calle Marqués de Pickman,37.3810792,-5.9603958
+725694117,primary,Calle Marqués de Pickman,37.3813136,-5.9633967
+730658639,secondary,Sin nombre,37.3392988,-5.9897307
+730658640,secondary,Sin nombre,37.3394217,-5.9896947
+730658642,secondary,Sin nombre,37.342024,-5.9844921
+730658643,secondary,Sin nombre,37.340238,-5.9863569
+730658644,secondary,Sin nombre,37.3394816,-5.9885957
+730658645,secondary,Sin nombre,37.3397011,-5.9872736
+735416242,motorway_link,Sin nombre,37.3421051,-5.9808277
+749328479,secondary,Sin nombre,37.3756578,-5.944726
+749328480,secondary,Sin nombre,37.3757222,-5.9448521
+749328481,secondary,Sin nombre,37.3757171,-5.9446296
+749328482,secondary,Sin nombre,37.3757734,-5.9446565
+752915303,motorway_link,Sin nombre,37.3411682,-5.9843132
+757246683,motorway_link,Sin nombre,37.3548847,-6.0047441
+760742383,primary_link,Sin nombre,37.4035244,-5.9875422
+760949348,secondary,Calle Samaniego,37.3971598,-5.9754826
+761020942,secondary,Calle Samaniego,37.3943599,-5.9724113
+761145197,secondary,Calle Samaniego,37.3934188,-5.9712316
+761149063,secondary,Calle Pablo Picasso,37.389939,-5.9754218
+761149064,secondary,Calle Pablo Picasso,37.3892053,-5.9765398
+761149066,primary,Avenida José Laguillo,37.3907437,-5.9765809
+761149067,primary,Calle José Laguillo,37.3915164,-5.9777382
+761149068,primary,Calle José Laguillo,37.3900461,-5.9754029
+761149069,primary,Calle José Laguillo,37.3902231,-5.9753409
+761271400,secondary,Calle Doctor Miguel Rios Sarmiento,37.3995561,-5.9314718
+761271401,secondary,Calle Doctor Miguel Rios Sarmiento,37.3995122,-5.9315278
+761301517,secondary,Sin nombre,37.4032092,-5.9585479
+761301518,secondary,Sin nombre,37.402856,-5.9586426
+761574722,secondary_link,Sin nombre,37.4146121,-5.9937297
+761574723,secondary,Avenida Álvaro Alonso Barba,37.4145671,-5.9940623
+762539894,motorway,Circunvalación de Sevilla,37.3945496,-6.0253695
+762539895,motorway,Circunvalación de Sevilla,37.3942216,-6.0253783
+762539896,motorway,Circunvalación de Sevilla,37.3914503,-6.0264204
+762539897,motorway,Circunvalación de Sevilla,37.3945983,-6.0255306
+762543148,motorway_link,Sin nombre,37.3895045,-6.0230073
+762543149,motorway,Autovía del Quinto Centenario,37.38946,-6.0230363
+764290415,motorway,Circunvalación de Sevilla,37.3434326,-5.9864527
+764290416,motorway,Circunvalación de Sevilla,37.3425153,-5.9851599
+764565401,motorway,Autovía del Sur,37.3387864,-5.9838313
+764565402,motorway_link,Sin nombre,37.3387961,-5.9838757
+765497442,primary_link,Sin nombre,37.3716821,-6.0042094
+765497443,primary_link,Sin nombre,37.3714214,-6.0042465
+765497444,primary_link,Sin nombre,37.3713348,-6.0033916
+765497445,primary_link,Sin nombre,37.3715654,-6.0033749
+765497447,primary,Sin nombre,37.3747632,-5.9939604
+765519517,secondary_link,Sin nombre,37.3665056,-5.9715847
+766164300,primary,Avenida de Llanes,37.4032113,-5.9710581
+766164301,secondary,Calle Carretera de Carmona,37.4025199,-5.970453
+766633672,secondary,Sin nombre,37.4274495,-5.9868388
+768084299,secondary_link,Sin nombre,37.3408819,-5.9860947
+768085152,motorway_link,Sin nombre,37.340931,-5.9832193
+772689025,secondary,Calle Cardenal Ilundáin,37.3652062,-5.9797627
+772689032,primary,Glorieta de las Cigarreras,37.3747556,-5.9947602
+772689033,secondary,Sin nombre,37.3747774,-5.9950719
+780953379,primary,Calle Torneo,37.3917824,-6.0031937
+785852796,secondary,Calle Poto,37.4506377,-5.9462043
+785852797,secondary,Carretera de Sevilla a Los Rosales,37.4475002,-5.9570785
+786019233,secondary,Calle Génova,37.380428,-5.9992102
+807531842,primary_link,Sin nombre,37.3947426,-6.0029458
+807531843,primary,Calle Torneo,37.3947829,-6.0031427
+807531845,primary,Calle Torneo,37.3938258,-6.0036242
+807531846,primary,Calle Torneo,37.3948162,-6.0032906
+807531847,primary_link,Sin nombre,37.394882,-6.0031631
+807531848,primary,Calle Torneo,37.3953681,-6.0027279
+807531849,secondary,Calle Torneo,37.3949693,-6.0028392
+814351068,primary,Calle Arjona,37.3879809,-6.0018301
+860297531,secondary,Avenida Moliní,37.3693861,-5.9889266
+860297532,secondary,Avenida Moliní,37.3693061,-5.9881591
+860297533,secondary,Avenida Moliní,37.3693191,-5.988435
+863551497,motorway,Circunvalación de Sevilla,37.3935958,-6.0256181
+871584212,primary,Calle Doctor Pedro de Castro,37.376619,-5.9793808
+871584213,primary,Calle Doctor Pedro de Castro,37.3768106,-5.979947
+871584215,primary,Avenida de Portugal,37.3779557,-5.9839825
+871584226,primary,Avenida de Portugal,37.3781726,-5.984827
+882552935,motorway_link,Sin nombre,37.3887535,-6.0253313
+886212956,primary,Glorieta de Letonia,37.3465133,-5.9758625
+890675826,primary,Sin nombre,37.3867574,-5.9499185
+890675827,primary,Sin nombre,37.3869181,-5.9504244
+890675828,primary,Avenida de Andalucía,37.3868249,-5.9500059
+890675829,primary,Avenida de Andalucía,37.3874689,-5.9606947
+890675830,primary,Avenida de Andalucía,37.3872407,-5.9547555
+890744300,primary,Avenida República Argentina,37.3790691,-5.9996829
+890744301,primary,Plaza Alcalde Sánchez Monteseirín,37.3907044,-6.0097973
+890744302,primary,Calle López de Gomara,37.3783575,-6.007449
+890744306,primary,Sin nombre,37.3804655,-6.0090831
+890744308,primary,Paseo de Cristóbal Colón,37.3834343,-5.9969051
+891040096,primary,Glorieta Rafael Gordillo,37.4000551,-5.9626912
+891040097,primary,Avenida Kansas City,37.4006909,-5.9616342
+891423937,primary,Paseo de las Delicias,37.3776779,-5.9928457
+891841345,primary,Calle Recaredo,37.39291,-5.9840229
+892407185,secondary,Glorieta Bebés Robados,37.3551924,-5.9826454
+892407187,primary,Avenida Ramón y Cajal,37.3766503,-5.9732771
+892407196,primary,Sin nombre,37.3864289,-5.9437535
+892407197,primary,Avenida de Andalucía,37.3864736,-5.9434542
+892407198,primary,Sin nombre,37.3865505,-5.943795
+892407199,primary,Sin nombre,37.3867393,-5.9503474
+892407200,primary,Sin nombre,37.3442717,-5.9746295
+892407203,primary,Avenida de El Cid,37.3808279,-5.9884514
+892407204,primary,Avenida de Jerez,37.3478698,-5.9760313
+892407207,primary,Glorieta de Letonia,37.3461086,-5.9754008
+892407210,secondary,Calle de José Galán Merino,37.4234319,-5.9877493
+892407212,primary,Calle Amador de Los Ríos,37.3884482,-5.9829817
+892407213,secondary,Calle Luis Montoto,37.388405,-5.982704
+892407214,secondary,Calle Luis Montoto,37.3882999,-5.9825115
+892407215,primary,Calle La Florida,37.387861,-5.9848221
+892432973,secondary,Avenida de la Borbolla,37.3778865,-5.983894
+892432975,primary,Glorieta Rafael Gordillo,37.4000039,-5.9621607
+893087115,primary,Glorieta de Letonia,37.3462272,-5.975252
+893087116,primary,Calle San Juan de Ribera,37.4040691,-5.9871285
+893655077,primary,Calle María Auxiliadora,37.3943538,-5.9835599
+893655078,primary,Avenida de San Lázaro,37.4073639,-5.9828917
+893655079,primary,Calle Sor Francisca Dorotea,37.4072617,-5.9825442
+893655080,primary,Carretera de Su Eminencia,37.3568189,-5.9769528
+893655081,primary,Carretera de Su Eminencia,37.3569555,-5.9778601
+893655082,primary,Glorieta Doctor Muñoz Cariñanos,37.3562718,-5.9798215
+893655083,primary_link,Sin nombre,37.3564197,-5.975129
+893655084,primary,Carretera de Su Eminencia,37.3565347,-5.9758252
+893655086,primary,Carretera de Su Eminencia,37.356161,-5.9746137
+893655088,primary,Paseo de Cristóbal Colón,37.3850342,-5.9987004
+893655089,primary,Glorieta Julián Besteiros,37.3916203,-5.9784391
+893655090,primary,Glorieta Julián Besteiros,37.3916349,-5.9780784
+893655091,primary,Calle José Laguillo,37.3901758,-5.9755772
+893655092,secondary,Calle Juan Antonio Cavestany,37.3917363,-5.9782316
+893655093,primary,Glorieta Julián Besteiros,37.3915734,-5.9782711
+893655094,secondary,Calle Luis Montoto,37.388024,-5.9822027
+893911173,secondary,Calle Arroyo,37.3941725,-5.9819187
+893911174,secondary,Glorieta Rafael Torres,37.3941397,-5.9818469
+893911177,primary,Glorieta Julián Besteiros,37.3918689,-5.9784385
+893911178,primary,Glorieta Julián Besteiros,37.3917246,-5.9784915
+894268679,secondary,Calle Luis Montoto,37.3890085,-5.9840243
+894268683,primary,Avenida Expo´92,37.3901817,-6.0078306
+897170282,secondary,Carretera de Sevilla a La Puebla del Río,37.3497504,-6.0262214
+904300889,primary,Avenida de Eduardo Dato,37.384134,-5.9799626
+905079801,primary,A-376 Autovía Sevilla - Utrera,37.3544793,-5.9463269
+905079802,primary,A-376 Autovía Sevilla - Utrera,37.355188,-5.9477792
+907498557,primary,Gran Plaza,37.3812291,-5.9659837
+907498558,secondary,Avenida de la Ciudad Jardin,37.3811197,-5.9659293
+907498559,secondary,Avenida de la Ciudad Jardin,37.3810914,-5.9658159
+908360097,primary,Calle Marqués de Paradas,37.3889895,-6.000794
+908360098,primary,Gran Plaza,37.3812064,-5.9658647
+908360099,primary,Gran Plaza,37.3812114,-5.9657297
+908827587,primary,Glorieta Doctor Muñoz Cariñanos,37.3560827,-5.9802279
+917979386,secondary,Glorieta Avión Saeta,37.3676162,-5.9978225
+928129785,secondary,Sin nombre,37.3667989,-5.945101
+928131456,primary_link,Sin nombre,37.3572117,-5.9502192
+928131457,primary_link,Sin nombre,37.3564403,-5.9520201
+943259725,motorway_link,Sin nombre,37.3420838,-5.9848481
+943259726,motorway_link,Sin nombre,37.3399043,-5.9839356
+964509386,primary,Ronda de Pío XII,37.4061325,-5.9765022
+965341553,secondary,Calle Carretera de Carmona,37.4006253,-5.9759901
+970748390,motorway_link,Sin nombre,37.358962,-6.0065074
+970748391,motorway_link,Sin nombre,37.3578257,-6.0059718
+970750479,motorway_link,Sin nombre,37.3610224,-6.0076516
+970750480,trunk_link,Sin nombre,37.3547377,-6.0026735
+970750481,trunk_link,Sin nombre,37.3542519,-6.0026408
+975953414,primary,Glorieta Víctimas de Terrorismo,37.3730253,-5.9734779
+976270091,secondary,Calle Carretera de Carmona,37.3974208,-5.9813924
+976270092,primary,Ronda de Capuchinos,37.3996133,-5.9834916
+976891841,primary,Avenida Menéndez Pelayo,37.3877818,-5.9849965
+976891842,primary,Avenida Alcalde Manuel de Valle,37.4085687,-5.9708099
+976891843,primary,Calle Manuel Villalobos,37.4071669,-5.9825379
+977498170,primary,Glorieta Doña María de las Mercedes de Borbón y Orleans,37.3795443,-5.9828392
+977498172,primary,A-376 Autovía Sevilla - Utrera,37.3478866,-5.9376536
+977498176,primary,A-376 Autovía Sevilla - Utrera,37.3441033,-5.9321352
+987366116,secondary,A-376 Autovía Sevilla - Utrera,37.3365445,-5.9202863
+987366117,secondary,Sin nombre,37.3364283,-5.9206443
+1012582192,motorway_link,Sin nombre,37.4244416,-5.9052923
+1019254305,primary,Sin nombre,37.399024,-5.9687705
+1022485707,primary,Avenida Alcalde Manuel del Valle,37.3991946,-5.9688848
+1022485708,primary,Avenida Alcalde Manuel del Valle,37.3992379,-5.9688342
+1022485710,primary,Avenida Alcalde Manuel del Valle,37.3990314,-5.9686376
+1022485711,primary,Avenida Alcalde Manuel del Valle,37.3989965,-5.968695
+1038870690,primary,Calle Enramadilla,37.3783404,-5.9780745
+1039704147,motorway_link,Sin nombre,37.390238,-6.029107
+1039705527,motorway_link,Sin nombre,37.3892222,-6.0302445
+1044163467,primary,Avenida Ramón y Cajal,37.3770618,-5.9747156
+1044163468,primary,Avenida de Diego Martínez Barrio,37.3766039,-5.9751151
+1044163469,primary,Avenida de Diego Martínez Barrio,37.3766132,-5.9754363
+1047729394,motorway_link,Sin nombre,37.3900095,-6.0301607
+1056895529,primary,Calle Santa Fe,37.3737181,-6.0037604
+1075427003,motorway_link,Sin nombre,37.3883907,-6.027848
+1075427004,motorway_link,Sin nombre,37.3865758,-6.0268124
+1078874361,motorway_link,Sin nombre,37.3900347,-6.0293539
+1086372847,secondary_link,Sin nombre,37.4030332,-5.9647757
+1086372848,secondary,Calle Carretera de Carmona,37.4029131,-5.9642605
+1086372850,secondary,Sin nombre,37.4027016,-5.9640823
+1086372851,secondary,Sin nombre,37.4027642,-5.9643245
+1086372854,secondary,Sin nombre,37.4027617,-5.9636731
+1086372855,secondary,Sin nombre,37.4030853,-5.9637977
+1086372856,secondary,Sin nombre,37.4030066,-5.9636298
+1086372857,secondary,Calle Carretera de Carmona,37.40283,-5.9632606
+1086372858,secondary,Carretera de Carmona,37.4029116,-5.9603461
+1086372859,secondary,Sin nombre,37.4029861,-5.9603706
+1086372860,primary,Avenida Kansas City,37.4030278,-5.9587312
+1086372861,secondary,Carretera de Carmona,37.4030834,-5.9593085
+1086372862,secondary,Sin nombre,37.4031783,-5.9584373
+1086372863,primary,Avenida Kansas City,37.4042633,-5.9569736
+1086372864,primary,Avenida Kansas City,37.4032729,-5.9584179
+1087973027,primary,Avenida de Eduardo Dato,37.3823573,-5.9705942
+1088799298,motorway_link,Sin nombre,37.4137516,-5.9320135
+1088799299,motorway_link,Sin nombre,37.407872,-5.950349
+1092074152,primary,Carretera de Sevilla a Utrera,37.3591326,-5.9548494
+1092074153,motorway,A-4 Sevilla - Cádiz,37.3330952,-5.9853159
+1092074155,motorway,Sin nombre,37.3420107,-5.9796705
+1092074156,motorway,Sin nombre,37.3407916,-5.9781361
+1092074157,motorway,Circunvalación de Sevilla,37.3404651,-5.9765331
+1092100495,motorway_link,Sin nombre,37.3431212,-5.9863171
+1092100498,motorway,Circunvalación de Sevilla,37.3406385,-5.9725002
+1092100499,motorway,Circunvalación de Sevilla,37.3403057,-5.9740446
+1092100500,motorway,Circunvalación de Sevilla,37.3415825,-5.982976
+1092100502,motorway_link,Sin nombre,37.3421525,-5.9849294
+1092100503,motorway_link,Sin nombre,37.3409527,-5.9832776
+1092100504,motorway_link,Sin nombre,37.3413601,-5.9836995
+1092100505,motorway,Circunvalación de Sevilla,37.3631031,-6.0099826
+1092100507,motorway,Circunvalación de Sevilla,37.3605382,-6.0067287
+1092100508,motorway,Circunvalación de Sevilla,37.357242,-6.0028392
+1092109661,motorway_link,Sin nombre,37.4002879,-5.9463047
+1092109664,primary,Avenida Alcalde Luis Uruñuela,37.4000137,-5.9449091
+1092109666,primary,Avenida Alcalde Luis Uruñuela,37.3992645,-5.945447
+1092109667,primary,Avenida Alcalde Luis Uruñuela,37.3999197,-5.9447748
+1092835700,motorway_link,Sin nombre,37.3895947,-5.9420981
+1092835705,trunk_link,Sin nombre,37.3867918,-5.9356482
+1092835707,motorway,Circunvalación de Sevilla,37.3814805,-5.9422957
+1095188405,motorway,Autovía del Quinto Centenario,37.3900165,-6.0291762
+1104336094,primary_link,Sin nombre,37.3691237,-5.9782443
+1105850727,secondary,Avenida de la Borbolla,37.375659,-5.984813
+1105853441,secondary,Avenida de la Borbolla,37.3771318,-5.9842531
+1105853442,secondary,Avenida de la Borbolla,37.3773721,-5.9841339
+1107386907,secondary,Avenida de Europa,37.333361,-5.926951
+1108261376,primary,Sin nombre,37.3454204,-5.949058
+1108261377,primary,Sin nombre,37.3456757,-5.9489695
+1108873912,primary,Avenida de Portugal,37.3790494,-5.9886587
+1108873914,primary,Glorieta Plus Ultra,37.3574874,-5.9808294
+1108873915,primary,Glorieta Plus Ultra,37.3563426,-5.9802621
+1108873931,primary,Glorieta de Letonia,37.3466399,-5.9757191
+1109164668,primary,Sin nombre,37.3609013,-5.9589758
+1109164669,primary_link,Sin nombre,37.3607206,-5.9589809
+1109164670,primary,Avenida de la Paz,37.360698,-5.9584617
+1109164671,primary,Carretera de Su Eminencia,37.3607508,-5.9591763
+1109164683,primary,A-376 Autovía Sevilla - Utrera,37.3435872,-5.931665
+1109164684,motorway,A-376 Autovía Sevilla - Utrera,37.3394904,-5.9260316
+1109164705,secondary,Sin nombre,37.3320292,-5.9361157
+1109164706,secondary,Sin nombre,37.3318584,-5.9360092
+1109164707,secondary,Sin nombre,37.3321742,-5.9359491
+1109164708,secondary,Glorieta Tacito,37.3367549,-5.9353266
+1110434739,secondary,Glorieta Tacito,37.3367679,-5.9351973
+1110434743,secondary,Sin nombre,37.336321,-5.9205458
+1110434744,secondary,Sin nombre,37.3364276,-5.9204368
+1110434745,motorway,A-376 Autovía Sevilla - Utrera,37.3368215,-5.9230498
+1110434750,primary,Sin nombre,37.361063,-5.9594417
+1110434751,primary,Sin nombre,37.3535123,-5.9428067
+1110434753,primary,A-376 Autovía Sevilla - Utrera,37.3546136,-5.9463684
+1110435394,primary,Carretera de Su Eminencia,37.3568554,-5.9801024
+1110456073,primary,Avenida Ramón Carande,37.3772797,-5.9792246
+1110456074,primary,Calle Enramadilla,37.3786157,-5.9788061
+1110456075,primary,Calle Doctor Pedro de Castro,37.3766942,-5.9795502
+1110456076,primary,A-376 Autovía Sevilla - Utrera,37.3576927,-5.9527501
+1110456090,secondary,Sin nombre,37.3337595,-5.9275279
+1110456091,secondary,Sin nombre,37.3316333,-5.924326
+1110456095,secondary,Avenida Montequinto,37.3331981,-5.9357598
+1121908323,secondary,Avenida Pablo Iglesias,37.3952182,-5.9738995
+1121908324,secondary,Avenida Pablo Iglesias,37.3936043,-5.9759483
+1121990627,secondary,Calle Iguazú,37.3559263,-5.9802962
+1121990629,secondary,Calle Iguazú,37.3558917,-5.980274
+1121990630,primary,Carretera de Su Eminencia,37.3562754,-5.9796172
+1121990631,primary,Carretera de Su Eminencia,37.3562062,-5.9795651
+1121990632,primary,Glorieta Doctor Muñoz Cariñanos,37.3561721,-5.9796689
+1126860943,primary,A-376 Autovía Sevilla - Utrera,37.3454819,-5.9341631
+1126860944,primary,A-376 Autovía Sevilla - Utrera,37.3440062,-5.9322638
+1135499766,primary,Avenida Montes Sierra,37.3978068,-5.947221
+1137958432,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4134749,-6.0037523
+1138018281,primary,Avenida Carlos III,37.397778,-6.0119753
+1138018282,primary,Avenida Carlos III,37.4009171,-6.0111317
+1138018283,primary,Avenida Carlos III,37.3970116,-6.0123332
+1138018306,primary,Avenida Carlos III,37.3960505,-6.0124419
+1138018310,primary,Avenida Carlos III,37.3948549,-6.0129113
+1138018313,primary,Avenida Carlos III,37.3960742,-6.0125829
+1146578553,primary,Sin nombre,37.3439334,-5.9740972
+1147957971,trunk,Sin nombre,37.3515646,-6.0024899
+1147957972,trunk,Sin nombre,37.3530207,-6.0024209
+1147957973,trunk,Carretera de la Esclusa,37.3513608,-6.0025233
+1147957976,trunk,Carretera de la Esclusa,37.3515141,-6.002604
+1147957978,trunk,Carretera de la Esclusa,37.3544026,-6.0024663
+1147957979,trunk,Sin nombre,37.3545404,-6.0023589
+1147957980,trunk,Carretera de la Esclusa,37.3575101,-6.0022356
+1147957981,trunk,Sin nombre,37.3544391,-6.0023632
+1147957986,trunk,Carretera de la Esclusa,37.3422893,-6.0029262
+1147957988,trunk,Sin nombre,37.3423696,-6.0030328
+1147957989,trunk,Sin nombre,37.3420561,-6.0030408
+1147957990,trunk,Carretera de la Esclusa,37.3420122,-6.0029143
+1147957991,trunk,Carretera de la Esclusa,37.3427284,-6.0028897
+1147957992,trunk,Sin nombre,37.3427323,-6.0029914
+1147957993,trunk,Carretera de la Esclusa,37.3397825,-6.003008
+1147957994,trunk,Sin nombre,37.3396707,-6.0031437
+1147957995,trunk_link,Sin nombre,37.3397937,-6.0030609
+1147957999,trunk,Carretera de la Esclusa,37.3393961,-6.0030372
+1147958000,trunk,Carretera de la Esclusa,37.3388562,-6.0030705
+1147958001,trunk_link,Sin nombre,37.3393295,-6.0030972
+1147958002,trunk,Sin nombre,37.3392066,-6.0031799
+1149475052,secondary,Calle Antonio Bienvenida,37.3686036,-5.9974383
+1149865780,trunk,Carretera Gijón a Puerto de Sevilla,37.3774162,-6.0145355
+1149942713,trunk,Carretera Gijón a Puerto de Sevilla,37.3793494,-6.0144118
+1150103124,primary,Avenida del Cristo de la Expiración,37.3902719,-6.0073012
+1156001077,primary,Avenida de Hytasa,37.372479,-5.9630383
+1156001078,primary,Avenida de Hytasa,37.3726413,-5.9632864
+1157114728,primary,Glorieta del Bizco Amate,37.3734997,-5.9646199
+1157114729,primary,Glorieta del Bizco Amate,37.3732929,-5.964623
+1157114730,primary_link,Avenida de Hytasa,37.3731697,-5.9641135
+1157114732,primary,Glorieta del Bizco Amate,37.3732456,-5.9643874
+1157114733,primary,Glorieta del Bizco Amate,37.3735067,-5.964324
+1157114734,primary,Glorieta del Bizco Amate,37.3733105,-5.9643239
+1157114735,primary,Glorieta del Bizco Amate,37.3733787,-5.964263
+1157114736,primary_link,Avenida Ramón y Cajal,37.3736673,-5.9648543
+1157650816,primary,Avenida Doctor Fedriani,37.407044,-5.9855517
+1157986710,trunk,Ronda Norte de Sevilla,37.4238843,-5.9492889
+1157986711,trunk_link,Sin nombre,37.4240901,-5.9581461
+1157986712,trunk_link,Sin nombre,37.4241568,-5.9578826
+1157986714,trunk,Ronda Norte de Sevilla,37.4235137,-5.9513847
+1157986716,trunk_link,Sin nombre,37.4240674,-5.9582381
+1158446376,trunk,Ronda Norte de Sevilla,37.4242818,-5.9586005
+1158446377,trunk,Ronda Norte de Sevilla,37.4244177,-5.9597054
+1158446378,trunk,Ronda Norte de Sevilla,37.4242646,-5.9572586
+1158446379,trunk,Ronda Norte de Sevilla,37.4241847,-5.9560293
+1158446380,trunk,Ronda Norte de Sevilla,37.4222447,-5.9471514
+1158446381,trunk,Ronda Norte de Sevilla,37.4214699,-5.9467716
+1158446382,trunk,Ronda Norte de Sevilla,37.4229925,-5.9476318
+1158446383,trunk,Ronda Norte de Sevilla,37.4241139,-5.9543303
+1159157907,primary,Glorieta del Bizco Amate,37.3735763,-5.964501
+1159157908,primary,Glorieta del Bizco Amate,37.3734185,-5.9642658
+1159157909,primary,Glorieta del Bizco Amate,37.3735693,-5.9644205
+1159157910,primary,Glorieta del Bizco Amate,37.3733862,-5.964695
+1160122273,secondary,Calle Carretera de Carmona,37.4029953,-5.9689617
+1160122274,primary,Avenida Alcalde Manuel de Valle,37.4030597,-5.9690655
+1160125533,primary,Paseo de Cristóbal Colón,37.3865593,-6.0003959
+1160125534,primary,Paseo de Cristóbal Colón,37.3867299,-6.0005951
+1165154173,primary,Glorieta Operación Clavel,37.3967257,-5.9663305
+1165154434,primary,Glorieta Operación Clavel,37.3971938,-5.9661556
+1167340930,primary,Sin nombre,37.3991979,-5.9687145
+1167340931,primary,Sin nombre,37.3990551,-5.9686908
+1167340932,primary,Sin nombre,37.3990994,-5.9688575
+1167340933,primary,Sin nombre,37.3990566,-5.9688239
+1167340934,primary,Sin nombre,37.3991568,-5.9688092
+1167340935,primary,Sin nombre,37.3992011,-5.968746
+1167340936,primary,Sin nombre,37.3991055,-5.9686321
+1167340937,primary,Sin nombre,37.3991573,-5.9686633
+1169684273,primary_link,Plaza de Ruperto Chapí,37.3766626,-5.9611341
+1172986157,trunk_link,Sin nombre,37.3806203,-5.9001603
+1180080070,primary,Avenida José Laguillo,37.3941926,-5.983619
+1180080071,secondary,Sin nombre,37.4027081,-5.9640151
+1180080072,secondary,Sin nombre,37.4026628,-5.9638488
+1204840309,motorway_link,Sin nombre,37.3997605,-5.9445066
+1204840310,motorway_link,Sin nombre,37.3992212,-5.9447155
+1205200675,motorway,Circunvalación de Sevilla,37.4138863,-6.0284373
+1205200676,motorway,Circunvalación de Sevilla,37.4137267,-6.0158815
+1205200677,motorway,Circunvalación de Sevilla,37.4139016,-6.0296466
+1205200679,motorway,Circunvalación de Sevilla,37.4139021,-6.0307994
+1205200680,motorway,Circunvalación de Sevilla,37.4138942,-6.0290583
+1205200681,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.413539,-6.0013124
+1206225839,motorway_link,Sin nombre,37.3406299,-5.9846205
+1206225840,motorway,Autovía del Sur,37.3392943,-5.9834745
+1206225841,motorway,Circunvalación de Sevilla,37.3441376,-5.9670336
+1206225842,motorway,Circunvalación de Sevilla,37.3422472,-5.9698549
+1208279846,motorway,Circunvalación de Sevilla,37.3428727,-5.9857518
+1208279847,motorway,Circunvalación de Sevilla,37.3420001,-5.9841056
+1208279848,motorway,Circunvalación de Sevilla,37.3417278,-5.9831079
+1210272939,trunk,Autovía de Sevilla a Almería por Granada,37.3839949,-5.9098795
+1210272940,trunk,Autovía de Sevilla a Almería por Granada,37.3796709,-5.8976391
+1213659836,motorway,Circunvalación de Sevilla,37.358721,-5.9557408
+1213659837,motorway,Circunvalación de Sevilla,37.3598854,-5.9543943
+1213659838,motorway,Circunvalación de Sevilla,37.3587064,-5.9559632
+1222712227,primary,Sin nombre,37.3442596,-5.9740846
+1227573851,primary,Ronda Urbana Norte,37.4118938,-5.9497207
+1227573852,primary,Ronda Urbana Norte,37.4118738,-5.9498539
+1229265821,primary,A-376 Autovía Sevilla - Utrera,37.3489,-5.9390855
+1229265826,primary,Sin nombre,37.3605584,-5.9575639
+1229265829,primary,A-376 Autovía Sevilla - Utrera,37.3437846,-5.9316633
+1229265830,motorway,A-376 Autovía Sevilla - Utrera,37.3432667,-5.9311957
+1229265836,motorway_link,Sin nombre,37.3585037,-5.9534874
+1229265837,primary,Autovía de Sevilla a Utrera,37.359105,-5.9544477
+1229265838,primary_link,Sin nombre,37.3587112,-5.9538383
+1229265839,primary_link,Sin nombre,37.3584904,-5.9535016
+1229265840,motorway_link,Sin nombre,37.3586187,-5.9535696
+1229265842,primary,Autovía de Sevilla a Utrera,37.3592109,-5.955007
+1229265843,primary,Autovía de Sevilla a Utrera,37.3593083,-5.9551872
+1229265844,primary,Autovía de Sevilla a Utrera,37.3594947,-5.955087
+1229265845,primary,Autovía de Sevilla a Utrera,37.3593837,-5.954894
+1229272280,secondary,A-376 Autovía Sevilla - Utrera,37.3364801,-5.9202524
+1229272286,secondary,Sin nombre,37.3363499,-5.9204132
+1229272287,secondary,Sin nombre,37.3364975,-5.9204932
+1229272288,secondary,Sin nombre,37.3364957,-5.9205631
+1231621918,primary,Sin nombre,37.3516633,-5.9439896
+1236590039,primary,Glorieta Edward Johnston,37.3829559,-5.9731595
+1238091370,secondary,Carretera de La Rinconada,37.4422209,-5.9782357
+1238091371,secondary,Carretera de La Rinconada,37.4394054,-5.9787237
+1238091372,secondary_link,Sin nombre,37.4419597,-5.9783322
+1238091373,secondary_link,Sin nombre,37.4418735,-5.9782313
+1238091375,secondary_link,Sin nombre,37.4425705,-5.9782389
+1241215732,primary,Calle Torneo,37.3946288,-6.0034113
+1243175671,primary,Calle Avión Cuatro Vientos,37.3765308,-5.976251
+1243175672,primary_link,Sin nombre,37.3760404,-5.9756022
+1244954595,primary,Glorieta Palacio de Congresos,37.405757,-5.9346178
+1244954596,primary,Glorieta Palacio de Congresos,37.4047643,-5.9354936
+1253017328,primary,Glorieta Edward Johnston,37.3828707,-5.9730687
+1253017329,primary,Glorieta Edward Johnston,37.3827179,-5.9732691
+1253017330,primary,Glorieta Edward Johnston,37.3829453,-5.9733297
+1253017331,primary,Glorieta Edward Johnston,37.3828173,-5.9734021
+1253017332,primary,Glorieta Edward Johnston,37.3827667,-5.9731113
+1261873376,primary,Ronda Urbana Norte,37.4166974,-5.9700503
+1261873377,primary,Ronda Urbana Norte,37.4166591,-5.9697414
+1282503374,motorway,Circunvalación de Sevilla,37.3433902,-5.9865687
+1282503375,motorway,Circunvalación de Sevilla,37.3436981,-5.9869332
+1282503376,motorway_link,Sin nombre,37.3420571,-5.9820309
+1282503377,motorway_link,Sin nombre,37.342228,-5.9826355
+1282503378,motorway_link,Sin nombre,37.3413343,-5.9808993
+1282503379,motorway,Circunvalación de Sevilla,37.3410997,-5.9799765
+1283635222,trunk,Sin nombre,37.3388754,-6.0031778
+1283635224,trunk,Carretera de la Esclusa,37.3545654,-6.0024618
+1283635225,trunk_link,Sin nombre,37.3545647,-6.0024087
+1283635226,trunk,Carretera de la Esclusa,37.3547874,-6.0024462
+1283635227,motorway,Circunvalación de Sevilla,37.360963,-6.0072354
+1283635228,motorway,Circunvalación de Sevilla,37.3599999,-6.0060866
+1283635229,motorway,Circunvalación de Sevilla,37.3619482,-6.0084028
+1283635232,motorway_link,Sin nombre,37.3602755,-6.0070793
+1283635237,trunk,Carretera de la Esclusa,37.3518057,-6.0025723
+1283635238,trunk,Carretera de la Esclusa,37.3507331,-6.002634
+1284948978,primary,Ronda Urbana Norte,37.4149764,-5.9526724
+1284948979,primary,Ronda Urbana Norte,37.4146073,-5.9515501
+1284948983,primary,Ronda Urbana Norte,37.414696,-5.9521923
+1284948984,primary,Ronda Urbana Norte,37.4149582,-5.9529946
+1284948985,motorway,Sin nombre,37.4084498,-5.9493252
+1284948986,motorway,Circunvalación de Sevilla,37.4054022,-5.9483095
+1284948987,motorway,Circunvalación de Sevilla,37.4057588,-5.9484539
+1284948988,motorway,Sin nombre,37.4087813,-5.9493795
+1284948989,motorway,Sin nombre,37.4102888,-5.9494649
+1284948991,motorway,Sin nombre,37.4090346,-5.9492565
+1284948992,motorway,Sin nombre,37.4107968,-5.9495482
+1284948993,motorway,Sin nombre,37.4093644,-5.9493074
+1284948994,motorway,Sin nombre,37.408735,-5.9492141
+1284948995,motorway,Circunvalación de Sevilla,37.4078447,-5.948858
+1292092321,motorway,Circunvalación de Sevilla,37.372619,-6.0171296
+1295743292,primary,Avenida de Jerez,37.3436369,-5.9737799
+1298610863,primary,Calle Virgen del Patrocinio,37.38977,-6.0101591
+1298616760,secondary,Calle Pagés del Corro,37.3837375,-6.0051438
+1298616762,secondary,Calle Pagés del Corro,37.3859858,-6.0078039
+1298616765,secondary,Calle Alvarado,37.388525,-6.0077209
+1299798892,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4134327,-5.9890473
+1299798894,secondary,Acceso a Sevilla desde la SE-30 por el Puente del Alamillo,37.4132171,-5.9890511
+1303261471,motorway_link,Sin nombre,37.3721408,-6.0277911
+1303261472,motorway_link,Sin nombre,37.3723337,-6.0274644
+1303261475,motorway,Circunvalación de Sevilla,37.3712869,-6.0278494
+1303261476,motorway,Circunvalación de Sevilla,37.3709626,-6.0291574
+1303420787,primary,Calle Poeta Manuel Benítez Carrasco,37.3658562,-5.9718606
+1303420789,primary,Calle Poeta Manuel Benítez Carrasco,37.3651818,-5.9724103
+1303427825,motorway,Circunvalación de Sevilla,37.3768126,-6.0267728
+1303427826,motorway,Circunvalación de Sevilla,37.3773497,-6.0266836
+1303427827,motorway,Circunvalación de Sevilla,37.3802723,-6.0262313
+1303427828,motorway,Circunvalación de Sevilla,37.3750091,-6.0270306
+1305081892,motorway,Circunvalación de Sevilla,37.3616878,-5.9521318
+1305081893,motorway,Circunvalación de Sevilla,37.3629133,-5.9498842
+1305081894,motorway,Circunvalación de Sevilla,37.3645386,-5.9473801
+1305081895,motorway,Circunvalación de Sevilla,37.3614156,-5.952295
+1305081896,motorway,Circunvalación de Sevilla,37.3620915,-5.9512153
+1305081897,motorway,Circunvalación de Sevilla,37.3607202,-5.9532755
+1308319393,primary_link,Calle Cardenal Bueno Monreal,37.3676648,-5.9869448
+1316236172,primary,Sin nombre,37.3445119,-5.9744399
+1316470107,motorway_link,Sin nombre,37.4004201,-5.9440918
+1316470110,primary,Sin nombre,37.400576,-5.9441685
+1316470113,primary,Avenida Montes Sierra,37.3987762,-5.9459326
+1316470114,primary,Avenida Montes Sierra,37.3984521,-5.946263
+1316470116,primary,Sin nombre,37.3992093,-5.9458278
+1317093531,motorway_link,Sin nombre,37.3977977,-5.945291
+1317093533,motorway_link,Sin nombre,37.3986379,-5.9456497
+1322975098,primary,Avenida Kansas City,37.3928682,-5.9714122
+1323409157,primary,Calle Éfeso,37.3964587,-5.9657568
+1323409158,primary,Glorieta Operación Clavel,37.3969616,-5.9665183
+1323409159,primary,Glorieta Operación Clavel,37.3972029,-5.9662616
+1323409164,primary,Avenida Kansas City,37.3966633,-5.9667607
+1323409167,primary,Avenida Kansas City,37.3949368,-5.9686134
+1324488874,primary,Glorieta Operación Clavel,37.3967029,-5.9661893
+1324488875,primary,Glorieta Operación Clavel,37.3967056,-5.9662508
+1324488876,primary,Sin nombre,37.3932391,-5.9707012
+1326316698,motorway,Circunvalación de Sevilla,37.3909967,-5.9425452
+1329337772,primary,Sin nombre,37.3526298,-5.9434599
+1329337773,primary,Sin nombre,37.3530114,-5.9430561
+1329337774,primary,Sin nombre,37.3518031,-5.9436734
+1329337775,primary,Sin nombre,37.3515666,-5.9438406
+1329337776,primary,Sin nombre,37.3531884,-5.9426436
+1334996408,primary,Avenida San Francisco Javier,37.3791848,-5.9743474
+1342183263,primary,Plaza 1 de Mayo,37.3806197,-5.9537472
+1342183264,primary,Plaza 1 de Mayo,37.3805593,-5.9537445
+1342183270,primary,Sin nombre,37.3804914,-5.954229
+1342183271,primary,Sin nombre,37.3803838,-5.9540277
+1354697297,secondary_link,Sin nombre,37.3338165,-6.0256851
+1354698077,secondary,Calle Samaniego,37.3933436,-5.9711975
+1364300471,primary,Sin nombre,37.3990458,-5.9456303
+1364300472,primary,Sin nombre,37.3989931,-5.9458686
+1366226435,primary,Avenida Montes Sierra,37.3981191,-5.9465592
+1368388384,primary,Ronda del Tamarguillo,37.3785331,-5.9605551
+1368388731,primary,Ronda del Tamarguillo,37.3777203,-5.9607142
+1368691158,primary_link,Plaza de Ruperto Chapí,37.3764786,-5.9607403
+1370956303,primary,Calle Éfeso,37.3941899,-5.9629445
+1370956307,primary,Calle Éfeso,37.3940916,-5.9628899
+1371910960,primary,Calle Resolana,37.4035332,-5.993372
+1371910964,primary,Calle San Juan de Ribera,37.4031356,-5.9879381
+1372160681,primary,Calle Ada,37.3910762,-5.9596095
+1372160682,primary,Calle Ada,37.3905137,-5.959241
+1372160683,primary,Sin nombre,37.3902707,-5.9590651
+1372160685,primary,Calle Ada,37.3909855,-5.9594555
+1372477904,primary,Calle Clemente Hidalgo,37.3870068,-5.9595194
+1373885584,primary,Sin nombre,37.356388,-5.9497842
+1374141274,secondary,Calle Medina y Galnares,37.4298725,-5.9806504
+1374141275,secondary,Calle Medina y Galnares,37.4264312,-5.9818457
+1374141277,secondary,Calle Medina y Galnares,37.4281859,-5.9811745
+1375655931,primary,Avenida Alcalde Luis Uruñuela,37.4042338,-5.9371678
+1375655932,primary,Avenida Alcalde Luis Uruñuela,37.4038546,-5.938536
+1375655933,primary,Avenida Alcalde Luis Uruñuela,37.4043065,-5.9374366
+1375655934,primary,Avenida Alcalde Luis Uruñuela,37.4045766,-5.9364527
+1376669695,primary_link,Plaza de Ruperto Chapí,37.3770632,-5.9603596
+1376669696,primary_link,Plaza de Ruperto Chapí,37.3771468,-5.9606291
+1377609213,primary,Calle Torneo,37.4034516,-5.9958423
+1377609214,primary,Sin nombre,37.4035075,-5.9958605
+1380938282,primary,Sin nombre,37.3869724,-5.9208626
+1382373139,primary,Calle Éfeso,37.3949143,-5.9638246
+1382373141,primary,Calle Éfeso,37.3950126,-5.9638792
+1382618437,primary,Avenida Alcalde Luis Uruñuela,37.4013533,-5.943472
+1382618438,primary,Avenida Alcalde Luis Uruñuela,37.4016851,-5.9431284
+1382618439,primary,Avenida Alcalde Luis Uruñuela,37.402178,-5.9422685
+1382618440,primary,Avenida Alcalde Luis Uruñuela,37.4015121,-5.9430475
+1382883764,secondary,Carretera de La Algaba,37.4487324,-5.9973423
+1382883766,secondary,Carretera de La Algaba,37.448405,-5.9971735
+1382883780,secondary_link,Sin nombre,37.4423401,-5.9781231
+1382883781,secondary,Carretera de La Rinconada,37.4433916,-5.9780346
+1382883789,secondary,Carretera de La Rinconada,37.4446141,-5.9778213
+1382883790,secondary,Carretera de La Rinconada,37.4470554,-5.9773846
+1386288737,primary,Avenida de la Areonáutica,37.3879386,-5.9204133
+1386288738,primary,Avenida de la Areonáutica,37.3885274,-5.9203667
+1386288740,primary,Avenida de la Areonáutica,37.3893924,-5.9200603
+1386288741,primary,Avenida de la Areonáutica,37.3880114,-5.9201749
+1387469240,secondary,A-376 Autovía Sevilla - Utrera,37.3339181,-5.9202152
+1388332478,primary,Ronda Urbana Norte,37.4157958,-5.9750226
+1388332479,primary,Ronda Urbana Norte,37.4158634,-5.9747885
+1388332480,primary,Ronda Urbana Norte,37.4157251,-5.974985
+1388332481,primary,Ronda Urbana Norte,37.4157865,-5.974754
+1388332482,primary,Ronda Urbana Norte,37.4160889,-5.9737246
+1388332483,primary,Ronda Urbana Norte,37.4160157,-5.973703
+1388332484,primary,Ronda Urbana Norte,37.4160613,-5.9734375
+1388332485,primary,Ronda Urbana Norte,37.4161335,-5.9734603
+1391009648,primary,Avenida Alcalde Luis Uruñuela,37.4052514,-5.933435
+1391009649,primary,Avenida Alcalde Luis Uruñuela,37.4051257,-5.9338962
+1391009655,primary,Avenida Alcalde Luis Uruñuela,37.4055675,-5.9308304
+1391009656,primary,Avenida Alcalde Luis Uruñuela,37.4047954,-5.9294215
+1391650912,primary,Avenida Alcalde Luis Uruñuela,37.3996192,-5.9453366
+1391650914,primary,Sin nombre,37.4005635,-5.9445319
+1391650915,primary,Sin nombre,37.4003439,-5.9441887
+1391650916,primary,Avenida Alcalde Luis Uruñuela,37.4009267,-5.9436886
+1391650917,primary,Avenida Alcalde Luis Uruñuela,37.4007775,-5.9438471
+1391650918,primary,Avenida Alcalde Luis Uruñuela,37.4001705,-5.9444598
+1391650919,primary,Avenida Alcalde Luis Uruñuela,37.4003511,-5.9446402
+1391650920,primary,Avenida Alcalde Luis Uruñuela,37.4007594,-5.9441719
+1391650921,primary,Avenida Alcalde Luis Uruñuela,37.4010161,-5.9438346
+1391650922,primary,Avenida Alcalde Luis Uruñuela,37.4005989,-5.9439598
+1394593524,motorway_link,Sin nombre,37.4006871,-5.94479
+1394593525,primary,Avenida Alcalde Luis Uruñuela,37.3995307,-5.9451911
+1395664349,secondary,Carretera de La Algaba,37.4286388,-5.9876116
+1395664350,secondary,Carretera de La Algaba,37.4284588,-5.9874854
+1409828553,primary,Sin nombre,37.4006718,-5.9443843
+1411132144,primary,Avenida de las Ciencias,37.4010802,-5.9264436
+1411132145,primary,Avenida de las Ciencias,37.4026152,-5.9275571
+1411132158,primary,Avenida de las Ciencias,37.4018078,-5.9266979
+1411132159,primary,Avenida de las Ciencias,37.4012661,-5.926308
+1411421259,motorway,Circunvalación de Sevilla,37.371643,-6.0261836
+1411421261,motorway_link,Sin nombre,37.3716169,-6.0282972
+1411421262,motorway_link,Sin nombre,37.3718117,-6.0281281
+1411421263,motorway_link,Sin nombre,37.371786,-6.0281152
+1411421264,motorway_link,Sin nombre,37.3718298,-6.0279675
+1411421265,motorway_link,Sin nombre,37.3719028,-6.0280061
+1411421266,motorway_link,Sin nombre,37.3720749,-6.0277511
+1411427922,motorway,Circunvalación de Sevilla,37.3714873,-6.0250111
+1411427923,motorway,Circunvalación de Sevilla,37.3714511,-6.0250114
+1411427924,motorway_link,Sin nombre,37.3712279,-6.0258365
+1413555722,primary,Avenida de las Ciencias,37.3958496,-5.9226968
+1413805995,primary,Avenida de las Ciencias,37.3957355,-5.9223333
+1413805996,primary,Avenida de las Ciencias,37.394843,-5.9216932
+1416543159,secondary,Carretera de La Rinconada,37.441937,-5.9782845
+1416543160,secondary,Carretera de La Rinconada,37.441678,-5.9783289
+1416543162,secondary_link,Sin nombre,37.4426218,-5.9781147
+1416543164,secondary,Carretera de La Rinconada,37.4426104,-5.9781688
+1417402055,secondary,Calle Torneo,37.3952633,-6.0027599
+1418042659,secondary,Avenida El Greco,37.3899956,-5.9669053
+1418042660,secondary,Avenida El Greco,37.3900422,-5.9668819
+1418042662,secondary,Avenida El Greco,37.3895838,-5.9664811
+1418042663,secondary,Avenida El Greco,37.3895919,-5.9665691
+1418049070,primary,Paseo de Cristóbal Colón,37.3869555,-6.0008705
+1418051803,primary,Calle Torneo,37.3929773,-6.0035563
+1418051804,primary,Calle Torneo,37.3926314,-6.0036017
+1418051805,primary,Calle Torneo,37.392916,-6.0036233
+1418051806,primary,Calle Torneo,37.3927295,-6.0034769
+1418051807,primary,Calle Torneo,37.3926682,-6.0035439
+1418054451,secondary,Avenida El Greco,37.3879927,-5.9654347
+1418879984,trunk,Autovía de Sevilla a Almería por Granada,37.3831938,-5.9076116
+1418879985,trunk,Autovía de Sevilla a Almería por Granada,37.3860306,-5.9273796
+1418879986,trunk_link,Sin nombre,37.3861331,-5.92364
+1418879987,trunk_link,Sin nombre,37.3860816,-5.9214981
+1418879988,trunk_link,Sin nombre,37.3860371,-5.9209463
+1418879989,trunk,Autovía de Sevilla a Almería por Granada,37.3859894,-5.9202334
+1418879990,trunk,Autovía de Sevilla a Almería por Granada,37.3859371,-5.9187304
+1420150927,primary,Sin nombre,37.3936859,-5.9522707
+1420150928,primary,Avenida Montes Sierra,37.3958816,-5.9495103
+1420150930,primary,Avenida Montes Sierra,37.3940624,-5.951892
+1422881228,motorway,Autovía del Sur,37.4096012,-5.9424935
+1422881229,motorway,Autovía del Sur,37.411458,-5.9373483
+1422881230,motorway_link,Sin nombre,37.4083,-5.9485125
+1422881231,motorway,Sin nombre,37.4079602,-5.949234
+1422881232,motorway,Sin nombre,37.4094395,-5.9494813
+1423088672,motorway,Autovía del Sur,37.4090999,-5.9441303
+1423088681,motorway,Autovía del Sur,37.4119407,-5.9357008
+1423088682,motorway,Autovía del Sur,37.4092919,-5.9432764
+1423088685,motorway,Autovía del Sur,37.4094847,-5.9430067
+1423088686,motorway_link,Sin nombre,37.4096847,-5.9423518
+1423283011,primary,Avenida Montes Sierra,37.3915225,-5.9565296
+1423283012,primary,Avenida Montes Sierra,37.3909028,-5.9577944
+1424987689,secondary,Calle Medina y Galnares,37.432486,-5.9799064
+1424987690,secondary,Calle Medina y Galnares,37.4321889,-5.9799568
+1424987691,secondary,Calle Medina y Galnares,37.4324925,-5.9799503
+1424987692,secondary,Calle Medina y Galnares,37.4279489,-5.98137
+1424987693,secondary,Calle Medina y Galnares,37.428202,-5.9812877
+1424987696,secondary,Calle Medina y Galnares,37.428461,-5.9812034
+1429231583,primary,Avenida Montes Sierra,37.3905622,-5.9586166
+1429231584,primary,Avenida Montes Sierra,37.3911936,-5.9571648
+1429231590,primary,Avenida Montes Sierra,37.3935465,-5.9528134
+1429231591,primary,Sin nombre,37.3935654,-5.9526177
+1429231592,primary,Avenida Montes Sierra,37.3934356,-5.952717
+1432750988,primary,Avenida José María Javierre,37.3879047,-5.9593819
+1432750991,primary,Avenida José María Javierre,37.3896228,-5.9592458
+1432750992,primary,Avenida José María Javierre,37.3893606,-5.9585655
+1432750993,primary,Avenida José María Javierre,37.3891278,-5.9588671
+1436937655,motorway_link,Sin nombre,37.3840211,-6.0257996
+1441867821,primary,Glorieta Diputado Manuel Barrios,37.3899336,-5.9752723
+1445251496,secondary,Calle Medina y Galnares,37.4248993,-5.9822966
+1448020432,secondary,Avenida de Palmas Altas,37.3460309,-5.9901716
+1448020433,secondary,Sin nombre,37.3446517,-5.9902217
+1448020434,secondary,Sin nombre,37.3446844,-5.9901162
+1448020435,secondary,Sin nombre,37.3411922,-5.9876376
+1448020436,secondary,Sin nombre,37.3383259,-5.9843034
+1448020437,secondary,Sin nombre,37.3384446,-5.9842202
+1448676551,primary,Avenida San Jerónimo,37.4179818,-5.9853888
+1450748289,primary,Sin nombre,37.3905261,-5.95866
+1452455401,secondary,Calle Luis Montoto,37.389168,-5.9844403
+1453386863,motorway,Acceso Norte a Sevilla,37.437741,-5.9723993
+1461830134,motorway,Autovía del Sur,37.4224883,-5.9086647
+1472750326,motorway_link,Sin nombre,37.3510152,-6.0031311
+1474822048,secondary,Calle Secoya,37.41274,-5.9316652
+1474823107,primary,Avenida Alcalde Luis Uruñuela,37.4047833,-5.9356989
+1474824619,primary,Avenida Alcalde Luis Uruñuela,37.4040137,-5.9385116
+1474825733,primary,Avenida Alcalde Luis Uruñuela,37.4019261,-5.942863
+1474827467,primary,Glorieta Palacio de Congresos,37.4054199,-5.9355041
+1475071922,primary,Avenida de Diego Martínez Barrio,37.3759455,-5.975346
+1475071923,primary,Calle Doctor Ordoñez de la Barrera,37.3780911,-5.9798234
+1475071924,primary,Glorieta Palacio de Congresos,37.4049618,-5.9356121
+1475071928,primary,Glorieta Palacio de Congresos,37.4057902,-5.9352077
+1475071929,primary,Calle Recaredo,37.392629,-5.9840563
+1475199223,secondary,Avenida de la Buhaira,37.3842305,-5.9792754
+1475199224,primary,Avenida de las Ciencias,37.3961777,-5.9229364
+1484875395,secondary,Avenida de Grecia,37.3460034,-5.9831983
+1487649511,primary,Calle Torneo,37.3998864,-5.9991829
+1487684360,secondary,Avenida de Italia,37.3511273,-5.980501
+1488534028,primary,Calle José Díaz,37.4090865,-5.9915151
+1488537920,secondary,Glorieta Bebés Robados,37.3551567,-5.9827735
+1494548761,trunk,Carretera Gijón a Puerto de Sevilla,37.3826401,-6.0142738
+1494548762,trunk,Carretera Gijón a Puerto de Sevilla,37.3832575,-6.0141154
+1494548764,trunk,Carretera Gijón a Puerto de Sevilla,37.3811874,-6.0143835
+1494548767,trunk,Carretera Gijón a Puerto de Sevilla,37.3811818,-6.0142833
+1494556977,primary,Calle Poeta Manuel Benítez Carrasco,37.3671465,-5.9715553
+1494556978,primary,Glorieta Miguel Ángel Blanco,37.3670616,-5.9716055
+1494766427,primary,Calle San Juan de Ribera,37.4030413,-5.9876389
+1494946521,primary_link,Sin nombre,37.3742352,-5.9758274
+1494946522,primary,Glorieta de los Ingenieros Industriales,37.3747302,-5.9760992
+1494946523,primary,Glorieta de los Ingenieros Industriales,37.3745917,-5.9757577
+1494946524,primary,Calle José Saramago,37.3735456,-5.9747802
+1494946525,primary,Glorieta de los Ingenieros Industriales,37.3744991,-5.9760161
+1495285436,primary,Glorieta de los Ingenieros Industriales,37.3748773,-5.9758365
+1495285437,primary,Glorieta de los Ingenieros Industriales,37.3747734,-5.9756762
+1497056838,primary,A-376 Autovía Sevilla - Utrera,37.3446927,-5.9332787
+1497056839,primary,A-376 Autovía Sevilla - Utrera,37.3448057,-5.93317
+1497056840,primary,A-376 Autovía Sevilla - Utrera,37.3444079,-5.9325829
+1497056841,primary,A-376 Autovía Sevilla - Utrera,37.3443116,-5.9327122
+1497059123,primary,Sin nombre,37.3606877,-5.958483
+1497059124,primary,Avenida de la Paz,37.3608556,-5.9587592
+1497059125,primary,Avenida de la Paz,37.3608364,-5.9584775
+1518687569,secondary,Carretera de Sevilla a Los Rosales,37.4423229,-5.9609997
+1518687570,secondary,Carretera de Sevilla a Los Rosales,37.4417079,-5.9616961
+1518687571,secondary,Sin nombre,37.4412199,-5.9621805
