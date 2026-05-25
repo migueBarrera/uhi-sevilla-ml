@@ -7,7 +7,7 @@ import pandas as pd
 from scipy.ndimage import distance_transform_edt
 from botocore.exceptions import ClientError
 from dotenv import load_dotenv
-from gee_extractor import descargar_datos_sevilla
+from old.hito0.gee_extractor import descargar_datos_sevilla
 
 # Cargar variables de entorno desde .env
 load_dotenv()
