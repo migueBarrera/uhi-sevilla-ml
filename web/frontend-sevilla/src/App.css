@@ -1,3 +1,117 @@
+.app-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(120deg, #e0eafc 0%, #cfdef3 100%);
+}
+
+.welcome-container {
+  flex: 1 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 1rem 3rem 1rem;
+}
+
+.welcome-container h1 {
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 1.2rem;
+  color: #234567;
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 8px rgba(36, 65, 120, 0.08);
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .welcome-container h1 {
+    font-size: 2rem;
+  }
+  .welcome-container p {
+    font-size: 1rem;
+    padding: 1rem 0.5rem;
+  }
+  .welcome-container button {
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.9rem 0;
+  }
+}
+
+.welcome-container p {
+  max-width: 650px;
+  font-size: 1.25rem;
+  color: #2d3748;
+  margin-bottom: 2.5rem;
+  text-align: center;
+  line-height: 1.6;
+  background: rgba(255,255,255,0.7);
+  border-radius: 12px;
+  padding: 1.2rem 1.5rem;
+  box-shadow: 0 2px 12px rgba(36, 65, 120, 0.04);
+}
+
+.welcome-container button {
+  padding: 1rem 2.8rem;
+  font-size: 1.15rem;
+  background: linear-gradient(90deg, #3182ce 0%, #4fd1c5 100%);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 700;
+  box-shadow: 0 4px 16px rgba(49,130,206,0.10);
+  transition: background 0.2s, transform 0.1s;
+  margin-bottom: 1.5rem;
+}
+.welcome-container button:hover {
+  background: linear-gradient(90deg, #2563eb 0%, #38b2ac 100%);
+  transform: translateY(-2px) scale(1.03);
+}
+
+/* Footer styles */
+.footer {
+  width: 100%;
+  background: rgba(36, 65, 120, 0.08);
+  color: #234567;
+  padding: 1.2rem 0 1.2rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  box-shadow: 0 -2px 12px rgba(36, 65, 120, 0.04);
+  font-size: 1rem;
+}
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.footer-link {
+  color: #234567;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  transition: color 0.2s;
+}
+.footer-link:hover {
+  color: #3182ce;
+}
+@media (max-width: 600px) {
+  .footer-content {
+    flex-direction: column;
+    gap: 0.5rem;
+    font-size: 0.95rem;
+  }
+  .footer {
+    font-size: 0.95rem;
+    padding: 0.8rem 0;
+  }
+}
 .counter {
   font-size: 16px;
   padding: 5px 10px;
