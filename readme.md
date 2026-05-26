@@ -51,3 +51,26 @@ Estas instrucciones aplican únicamente al **Hito 0**.
    ```bash
    python main.py
    ```
+
+
+
+   Firebase
+
+   PAra levantar el firebase service 
+   //TODO
+
+   para ejecutar via curl:
+   curl -s -w "\n⏱️ Tiempo total de respuesta: %{time_total} segundos\n" \
+     -X POST "https://predict-temperature-bzqfrud2ua-ew.a.run.app" \
+     -H "Content-Type: application/json" \
+     -d '{
+           "NDVI": 0.15,
+           "NDBI": 0.25,
+           "Albedo": 0.18,
+           "D2W_meters": 1200.5,
+           "D2R_HighCapacity_m": 350.0,
+           "D2R_Urban_m": 15.0,
+           "Tree_Density_50m": 3,
+           "Building_Density_100m": 45,
+           "Avg_Building_Height_100m": 12.0
+         }'

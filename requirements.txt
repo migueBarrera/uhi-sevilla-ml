@@ -12,6 +12,6 @@ matplotlib
 shapely
 seaborn
 nbconvert
-scikit-learn
-xgboost
+xgboost==2.0.3
+scikit-learn==1.6.1
 lightgbm
