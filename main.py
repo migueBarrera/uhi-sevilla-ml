@@ -10,6 +10,8 @@ def main():
     archivo_tiff = os.path.join(raw_dir, "sevilla_dataset.tif")
     archivo_arbolado = os.path.join(raw_dir, "arbolado_sevilla.csv")
     archivo_carreteras = os.path.join(raw_dir, "carreteras_sevilla.csv")
+    archivo_edificios = os.path.join(raw_dir, "edificios_sevilla.csv")
+
 
     #ejecutar_infraestructura()
     #ejecutar_descarga()
@@ -17,6 +19,7 @@ def main():
         archivo_local_tiff=archivo_tiff,
         arbolado_csv=archivo_arbolado,
         carreteras_csv=archivo_carreteras,
+        edificios_csv=archivo_edificios
     )
     print("\n🎉 ¡Pipeline completado! Infraestructura, descarga y procesamiento ejecutados en scripts separados.")
 

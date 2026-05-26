@@ -18,13 +18,13 @@ except ModuleNotFoundError:
     from src.output_writer import save_dataframe_to_csv
 
 
-def ejecutar_procesamiento(archivo_local_tiff, arbolado_csv, carreteras_csv):
+def ejecutar_procesamiento(archivo_local_tiff, arbolado_csv, carreteras_csv, edificios_csv):
     config = load_config()
 
     processed_dir = os.path.join("outputs", "processed")
     os.makedirs(processed_dir, exist_ok=True)
 
-    for ruta in (archivo_local_tiff, arbolado_csv, carreteras_csv):
+    for ruta in (archivo_local_tiff, arbolado_csv, carreteras_csv, edificios_csv):
         if not os.path.exists(ruta):
             raise FileNotFoundError(f"No existe el fichero requerido: {ruta}")
 
@@ -44,8 +44,8 @@ def ejecutar_procesamiento(archivo_local_tiff, arbolado_csv, carreteras_csv):
     # 1. Extraemos los datos del satélite
     pixel_data_df = raster_to_dataframe(ARCHIVO_LOCAL_TIFF)
     
-    # 2. MATCH ESPACIAL: Unimos con arbolado y carreteras
-    pixel_data_df = unir_datos_espaciales(pixel_data_df, arbolado_csv, carreteras_csv)
+    # 2. MATCH ESPACIAL: Unimos con arbolado, carreteras y edificios
+    pixel_data_df = unir_datos_espaciales(pixel_data_df, arbolado_csv, carreteras_csv, edificios_csv)
 
     # 3. Guardamos el DataFrame final enriquecido
     output_csv_path = save_dataframe_to_csv(pixel_data_df, outputs_dir=processed_dir)
@@ -70,10 +70,12 @@ if __name__ == "__main__":
     parser.add_argument("--tiff", required=True, help="Ruta al fichero TIFF de entrada")
     parser.add_argument("--arbolado", required=True, help="Ruta al CSV de arbolado de Sevilla")
     parser.add_argument("--carreteras", required=True, help="Ruta al CSV de carreteras")
+    parser.add_argument("--edificios", required=True, help="Ruta al CSV de edificios")
     args = parser.parse_args()
 
     ejecutar_procesamiento(
         archivo_local_tiff=args.tiff,
         arbolado_csv=args.arbolado,
         carreteras_csv=args.carreteras,
+        edificios_csv=args.edificios
     )
