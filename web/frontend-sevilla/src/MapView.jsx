@@ -15,6 +15,9 @@ export default function MapView() {
   const [error, setError] = useState(null);
   const [geojson, setGeojson] = useState(null);
   const [points, setPoints] = useState([]);
+  const [predictedPoints, setPredictedPoints] = useState([]);
+  const [pointsMode, setPointsMode] = useState('original');
+  const [markerOpacity, setMarkerOpacity] = useState(0.85);
   const [zoomTarget, setZoomTarget] = useState(null);
   const [selectedBarrio, setSelectedBarrio] = useState(null);
   const mapRef = useRef();
@@ -58,6 +61,8 @@ export default function MapView() {
         .then(text => {
           if (text) setPoints(parseCSV(text));
           else setPoints([]);
+          setPredictedPoints([]);
+          setPointsMode('original');
         })
         .catch(e => {
           setError('Error cargando el CSV de puntos para el barrio');
@@ -72,12 +77,21 @@ export default function MapView() {
   function handleVolver() {
     setSelectedBarrio(null);
     setPoints([]);
+    setPredictedPoints([]);
+    setPointsMode('original');
     if (mapRef.current) {
       mapRef.current.setView([37.3886, -5.9823], 13);
     } else {
       setZoomTarget({ center: [37.3886, -5.9823], zoom: 13 });
     }
   }
+
+  function handlePredictedPointsChange(newPredictedPoints) {
+    setPredictedPoints(Array.isArray(newPredictedPoints) ? newPredictedPoints : []);
+    setPointsMode('predicted');
+  }
+
+  const visiblePoints = pointsMode === 'predicted' && predictedPoints.length > 0 ? predictedPoints : points;
 
   // Dataset stats (from provided summary) to set sensible slider ranges
   const datasetStats = {
@@ -91,10 +105,54 @@ export default function MapView() {
 
   return (
     <div style={{ width: '100vw', height: '100vh' }}>
-      <SidePanel barrioName={selectedBarrio} data={getSelectedBarrioData()} onClose={handleVolver} datasetStats={datasetStats} />
+      <SidePanel barrioName={selectedBarrio} data={getSelectedBarrioData()} points={points} onClose={handleVolver} datasetStats={datasetStats} markerOpacity={markerOpacity} onMarkerOpacityChange={setMarkerOpacity} onPredictedPointsChange={handlePredictedPointsChange} />
       <Legend items={colorLegend} />
       <ErrorBanner error={error} />
       <BackButton visible={!!selectedBarrio} onClick={handleVolver} />
+
+      {!!selectedBarrio && (
+        <div style={{
+          position: 'absolute',
+          top: 12,
+          left: '50%',
+          transform: 'translateX(-50%)',
+          zIndex: 2100,
+          display: 'flex',
+          borderRadius: 999,
+          overflow: 'hidden',
+          border: '1px solid #d7dfef',
+          background: '#fff',
+          boxShadow: '0 4px 12px rgba(0,0,0,0.10)'
+        }}>
+          <button
+            onClick={() => setPointsMode('original')}
+            style={{
+              border: 'none',
+              padding: '8px 14px',
+              cursor: 'pointer',
+              fontWeight: 700,
+              background: pointsMode === 'original' ? '#2b6cb0' : 'transparent',
+              color: pointsMode === 'original' ? '#fff' : '#2b6cb0'
+            }}
+          >
+            Original
+          </button>
+          <button
+            onClick={() => setPointsMode('predicted')}
+            disabled={predictedPoints.length === 0}
+            style={{
+              border: 'none',
+              padding: '8px 14px',
+              cursor: predictedPoints.length > 0 ? 'pointer' : 'not-allowed',
+              fontWeight: 700,
+              background: pointsMode === 'predicted' ? '#2b6cb0' : 'transparent',
+              color: pointsMode === 'predicted' ? '#fff' : (predictedPoints.length > 0 ? '#2b6cb0' : '#97a9c8')
+            }}
+          >
+            Predicho
+          </button>
+        </div>
+      )}
 
       <MapContainer center={[37.3886, -5.9823]} zoom={12} style={{ width: '100%', height: '100%' }} whenCreated={map => (mapRef.current = map)}>
         <SetMapRef mapRef={mapRef} />
@@ -111,7 +169,7 @@ export default function MapView() {
           setError={setError}
         />
 
-        <PointsLayer points={points} getColor={getColor} />
+        <PointsLayer points={visiblePoints} getColor={getColor} markerOpacity={markerOpacity} />
       </MapContainer>
     </div>
   );

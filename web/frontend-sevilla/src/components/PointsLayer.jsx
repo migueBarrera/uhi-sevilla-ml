@@ -1,7 +1,7 @@
 import React from 'react';
 import { CircleMarker, Tooltip } from 'react-leaflet';
 
-export default function PointsLayer({ points, getColor }) {
+export default function PointsLayer({ points, getColor, markerOpacity = 0.85 }) {
   if (!points || points.length === 0) return null;
   return (
     <>
@@ -18,7 +18,7 @@ export default function PointsLayer({ points, getColor }) {
             key={i}
             center={[lat, lon]}
             radius={7}
-            pathOptions={{ color: getColor(temp), fillColor: getColor(temp), fillOpacity: 0.85, weight: 1 }}
+            pathOptions={{ color: getColor(temp), fillColor: getColor(temp), fillOpacity: markerOpacity, opacity: markerOpacity, weight: 1 }}
           >
             <Tooltip direction="top" offset={[0, -10]} opacity={1} permanent={false}>
               {`${temp.toFixed(1)} °C`}

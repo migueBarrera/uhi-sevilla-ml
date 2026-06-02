@@ -48,17 +48,29 @@ def predict_temperature(req: https_fn.Request) -> https_fn.Response:
 
     # 3. Extracción y ordenamiento de las 9 variables del TFM
     try:
-        input_features = pd.DataFrame([{
-            'NDVI': float(data["NDVI"]),
-            'NDBI': float(data["NDBI"]),
-            'Albedo': float(data["Albedo"]),
-            'D2W_meters': float(data["D2W_meters"]),
-            'D2R_HighCapacity_m': float(data["D2R_HighCapacity_m"]),
-            'D2R_Urban_m': float(data["D2R_Urban_m"]),
-            'Tree_Density_50m': int(data["Tree_Density_50m"]),
-            'Building_Density_100m': int(data["Building_Density_100m"]),
-            'Avg_Building_Height_100m': float(data["Avg_Building_Height_100m"])
-        }])
+        # Soportamos tanto un único objeto JSON como una lista de objetos
+        if isinstance(data, dict):
+            items = [data]
+        elif isinstance(data, list):
+            items = data
+        else:
+            return https_fn.Response("Formato JSON inválido: se esperaba un objeto o una lista de objetos", status=400)
+
+        filas = []
+        for i, item in enumerate(items):
+            filas.append({
+                'NDVI': float(item["NDVI"]),
+                'NDBI': float(item["NDBI"]),
+                'Albedo': float(item["Albedo"]),
+                'D2W_meters': float(item["D2W_meters"]),
+                'D2R_HighCapacity_m': float(item["D2R_HighCapacity_m"]),
+                'D2R_Urban_m': float(item["D2R_Urban_m"]),
+                'Tree_Density_50m': int(item["Tree_Density_50m"]),
+                'Building_Density_100m': int(item["Building_Density_100m"]),
+                'Avg_Building_Height_100m': float(item["Avg_Building_Height_100m"])
+            })
+
+        input_features = pd.DataFrame(filas)
         
         # Forzamos el orden exacto de las columnas de entrenamiento por seguridad
         columnas_ordenadas = [
@@ -74,13 +86,17 @@ def predict_temperature(req: https_fn.Request) -> https_fn.Response:
     input_scaled = scaler.transform(input_features)
     prediccion = modelo.predict(input_scaled)
 
-    # 5. Construir la respuesta con el CHIVATO DEBUG
+    # 5. Construir la respuesta (soporta batch)
+    temperaturas = [round(float(x), 2) for x in prediccion]
     resultado = {
-        "temperatura_predicha_lst": round(float(prediccion[0]), 2),
+        "temperaturas_predichas": temperaturas,
         "unidad": "Celsius",
         "status": "success",
-        "debug_scaled_array": input_scaled[0].tolist() 
+        # retorno del array escalado por si se necesita debugging; puede ser grande en batches
+        #"debug_scaled_array": input_scaled.tolist()
     }
+
+    # Siempre devolver solo el array `temperaturas_predichas`, incluso si tiene un elemento
 
     return https_fn.Response(
         json.dumps(resultado),

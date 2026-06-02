@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { predictTemperature } from '../services/predictService';
 
 function formatValue(v) {
   const num = Number(v);
@@ -27,7 +28,7 @@ const explanations = {
   'Avg_Building_Height_100m': 'Altura media de los edificios en 100 metros: puede influir en la sombra y la ventilación.',
 };
 
-export default function SidePanel({ barrioName, data, onClose, datasetStats }) {
+export default function SidePanel({ barrioName, data, points = [], onClose, datasetStats, markerOpacity = 0.85, onMarkerOpacityChange = () => {}, onPredictedPointsChange = () => {} }) {
   if (!barrioName) return null;
   if (!data) return (
     <div style={{
@@ -79,6 +80,20 @@ export default function SidePanel({ barrioName, data, onClose, datasetStats }) {
   const [predictLoading, setPredictLoading] = useState(false);
   const [predictedTemp, setPredictedTemp] = useState(null);
 
+  function getPercentChange(key) {
+    const original = Number(defaultValues[key]);
+    const current = Number(modifiedValues[key]);
+    if (Number.isNaN(original) || Number.isNaN(current)) return null;
+    if (original === 0) return current === 0 ? 0 : null;
+    return ((current - original) / Math.abs(original)) * 100;
+  }
+
+  function applyPercentChange(value, percent) {
+    const num = Number(value);
+    if (Number.isNaN(num) || percent === null || percent === undefined) return num;
+    return num * (1 + percent / 100);
+  }
+
   useEffect(() => {
     if (!data) return;
     const defs = {};
@@ -89,6 +104,7 @@ export default function SidePanel({ barrioName, data, onClose, datasetStats }) {
     });
     setDefaultValues(defs);
     setModifiedValues({ ...defs });
+    setPredictedTemp(null);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [data]);
 
@@ -140,43 +156,65 @@ export default function SidePanel({ barrioName, data, onClose, datasetStats }) {
     setPredictLoading(true);
     setPredictedTemp(null);
     try {
-      // Build payload using merged values (modified override defaults)
-      const merged = { ...defaultValues, ...modifiedValues };
-      const payload = {
-        NDVI: Number(merged.NDVI),
-        NDBI: Number(merged.NDBI),
-        Albedo: Number(merged.Albedo),
-        D2W_meters: Number(merged.D2W_meters) || Number(data.D2W_meters) || 0,
-        D2R_HighCapacity_m: Number(data.D2R_HighCapacity_m) || 0,
-        D2R_Urban_m: Number(data.D2R_Urban_m) || 0,
-        Tree_Density_50m: Number(merged.Tree_Density_50m),
-        Building_Density_100m: Number(merged.Building_Density_100m),
-        Avg_Building_Height_100m: Number(merged.Avg_Building_Height_100m),
-      };
+      const predictorFields = [
+        'NDVI',
+        'NDBI',
+        'Albedo',
+        'D2W_meters',
+        'Tree_Density_50m',
+        'Building_Density_100m',
+        'Avg_Building_Height_100m',
+      ];
 
-      // Log request payload and context
-      console.log('[Predict]', new Date().toISOString(), '-> payload:', payload, 'original_LST_Target:', data && data.LST_Target);
-
-      const res = await fetch('https://predict-temperature-bzqfrud2ua-ew.a.run.app', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(payload),
+      const percentByField = {};
+      predictorFields.forEach(field => {
+        percentByField[field] = getPercentChange(field);
       });
-      let json = null;
-      try {
-        json = await res.json();
-      } catch (parseErr) {
-        console.error('[Predict]', new Date().toISOString(), '-> failed to parse JSON response', parseErr);
+
+      const rows = Array.isArray(points) ? points : [];
+      const predictionRows = rows.map(row => {
+        const transformed = { ...row };
+        predictorFields.forEach(field => {
+          const pct = percentByField[field];
+          const baseValue = row[field] ?? data[field] ?? 0;
+          const updated = applyPercentChange(baseValue, pct);
+          transformed[field] = Number.isNaN(updated) ? Number(baseValue) || 0 : updated;
+        });
+
+        return {
+          NDVI: Number(transformed.NDVI) || 0,
+          NDBI: Number(transformed.NDBI) || 0,
+          Albedo: Number(transformed.Albedo) || 0,
+          D2W_meters: Number(transformed.D2W_meters) || 0,
+          D2R_HighCapacity_m: Number(row.D2R_HighCapacity_m ?? data.D2R_HighCapacity_m) || 0,
+          D2R_Urban_m: Number(row.D2R_Urban_m ?? data.D2R_Urban_m) || 0,
+          Tree_Density_50m: Number(transformed.Tree_Density_50m) || 0,
+          Building_Density_100m: Number(transformed.Building_Density_100m) || 0,
+          Avg_Building_Height_100m: Number(transformed.Avg_Building_Height_100m) || 0,
+        };
+      });
+
+      if (predictionRows.length === 0) {
+        console.warn('[Predict] No points available for prediction');
+        return;
       }
 
-      console.log('[Predict]', new Date().toISOString(), '-> response status:', res.status, 'body:', json);
-
-      if (json && typeof json.temperatura_predicha_lst === 'number') {
-        const p = Number(json.temperatura_predicha_lst).toFixed(2);
-        console.log('[Predict]', new Date().toISOString(), '-> predicted:', p);
+      // Delegate network call to predict service
+      const result = await predictTemperature(predictionRows);
+      if (result && result.success && Array.isArray(result.predicted_array) && result.predicted_array.length > 0) {
+        const predictedArray = result.predicted_array.map(v => Number(v)).filter(v => !Number.isNaN(v));
+        const avg = predictedArray.reduce((acc, v) => acc + v, 0) / predictedArray.length;
+        const p = avg.toFixed(2);
+        console.log('[Predict]', new Date().toISOString(), '-> predicted (service) - avg:', p, 'count:', predictedArray.length);
         setPredictedTemp(`${p} °C`);
+
+        const predictedPointsWithTemp = rows.map((row, idx) => ({
+          ...row,
+          LST_Target: predictedArray[idx] ?? row.LST_Target,
+        }));
+        onPredictedPointsChange(predictedPointsWithTemp);
       } else {
-        console.error('[Predict] Unexpected response', json);
+        console.error('[Predict] Service returned unexpected result', result);
       }
     } catch (e) {
       console.error('[Predict] Error', new Date().toISOString(), e);
@@ -264,7 +302,17 @@ export default function SidePanel({ barrioName, data, onClose, datasetStats }) {
                   <td style={{padding:'4px 0', width: '60%'}}>
                     {isNumeric ? (
                       <div>
-                        <div style={{ textAlign: 'right', fontSize: 15, marginBottom: 6 }}>{formatValue(current)}</div>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 6 }}>
+                          <div style={{ fontSize: 15 }}>{formatValue(current)}</div>
+                          <div style={{ fontSize: 12, color: '#2b6cb0', fontWeight: 600 }}>
+                            {(() => {
+                              const pct = getPercentChange(key);
+                              if (pct === null) return '—';
+                              const sign = pct > 0 ? '+' : '';
+                              return `${sign}${pct.toFixed(1)}%`;
+                            })()}
+                          </div>
+                        </div>
                         <input
                           type="range"
                           min={range.min}
@@ -285,6 +333,7 @@ export default function SidePanel({ barrioName, data, onClose, datasetStats }) {
           </tbody>
         </table>
       </div>
+
       {/* Temperaturas: Real (izquierda) y Predicha (derecha) */}
       <div style={{ display: 'flex', justifyContent: 'space-between', gap: 12, marginTop: 8 }}>
         <div style={{ flex: 1, textAlign: 'center', padding: 12, background: '#fafafa', borderRadius: 8 }}>
@@ -299,20 +348,37 @@ export default function SidePanel({ barrioName, data, onClose, datasetStats }) {
       <div style={{ marginTop: 16, display: 'flex', justifyContent: 'center' }}>
         <button
           onClick={handlePredict}
-          disabled={!isModified || predictLoading}
+          disabled={!isModified || predictLoading || !Array.isArray(points) || points.length === 0}
           style={{
             padding: '10px 18px',
             borderRadius: 8,
             border: 'none',
-            cursor: (isModified && !predictLoading) ? 'pointer' : 'not-allowed',
-            background: (isModified && !predictLoading) ? '#2b6cb0' : '#e6eefc',
-            color: (isModified && !predictLoading) ? '#fff' : '#8aa6d8',
+            cursor: (isModified && !predictLoading && Array.isArray(points) && points.length > 0) ? 'pointer' : 'not-allowed',
+            background: (isModified && !predictLoading && Array.isArray(points) && points.length > 0) ? '#2b6cb0' : '#e6eefc',
+            color: (isModified && !predictLoading && Array.isArray(points) && points.length > 0) ? '#fff' : '#8aa6d8',
             fontWeight: 700,
             fontSize: 15
           }}
         >
           {predictLoading ? 'Prediciendo...' : 'Predecir temperatura'}
         </button>
+      </div>
+
+      {/* Opacidad de marcadores (debajo del botón de predicción) */}
+      <div style={{ marginTop: 12, marginBottom: 8 }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 6 }}>
+          <div style={{ fontSize: 14, color: '#555' }}>Opacidad marcadores</div>
+          <div style={{ fontWeight: 700 }}>{Math.round((markerOpacity || 0) * 100)}%</div>
+        </div>
+        <input
+          type="range"
+          min={0}
+          max={1}
+          step={0.01}
+          value={markerOpacity}
+          onChange={e => onMarkerOpacityChange(Number(e.target.value))}
+          style={{ width: '100%' }}
+        />
       </div>
     </div>
   );
