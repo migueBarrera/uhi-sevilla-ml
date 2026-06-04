@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { predictTemperature } from '../services/predictService';
+import SidePanelSimpleSection from './SidePanelSimpleSection';
+import SidePanelDetailedSection from './SidePanelDetailedSection';
 
 function formatValue(v) {
   const num = Number(v);
@@ -15,17 +17,6 @@ const friendlyNames = {
   'Tree_Density_50m': 'Densidad de Árboles (50m)',
   'Building_Density_100m': 'Densidad de Edificios (100m)',
   'Avg_Building_Height_100m': 'Altura Media Edificios (100m)',
-};
-
-const explanations = {
-  'NDVI': 'Índice de vegetación: valores altos indican más vegetación, lo que suele reducir la temperatura superficial.',
-  'NDBI': 'Índice de construcción: valores altos indican mayor presencia de edificios y superficies selladas, lo que suele aumentar la temperatura.',
-  'Albedo': 'Porcentaje de radiación reflejada: valores altos reflejan más luz y pueden reducir la temperatura.',
-  'D2W_meters': 'Distancia al agua: cuanto más cerca del agua, mayor efecto refrescante.',
-  'LST_Target': 'Temperatura superficial media estimada para el barrio.',
-  'Tree_Density_50m': 'Cantidad de árboles en un radio de 50 metros: más árboles suelen reducir la temperatura.',
-  'Building_Density_100m': 'Cantidad de edificios en un radio de 100 metros: más edificios suelen aumentar la temperatura.',
-  'Avg_Building_Height_100m': 'Altura media de los edificios en 100 metros: puede influir en la sombra y la ventilación.',
 };
 
 export default function SidePanel({ barrioName, data, points = [], onClose, datasetStats, markerOpacity = 0.85, onMarkerOpacityChange = () => {}, onPredictedPointsChange = () => {} }) {
@@ -79,6 +70,59 @@ export default function SidePanel({ barrioName, data, points = [], onClose, data
   const [modifiedValues, setModifiedValues] = useState({});
   const [predictLoading, setPredictLoading] = useState(false);
   const [predictedTemp, setPredictedTemp] = useState(null);
+  const [viewMode, setViewMode] = useState('detailed');
+  const [scenarioControls, setScenarioControls] = useState({
+    reforestation: 0,
+    densification: 0,
+    coolRoofs: 0,
+  });
+
+  function clamp(value, min, max) {
+    return Math.min(max, Math.max(min, value));
+  }
+
+  function computeScenarioValues(baseValues, controls) {
+    const reforestation = Number(controls.reforestation) || 0;
+    const densification = Number(controls.densification) || 0;
+    const coolRoofs = Number(controls.coolRoofs) || 0;
+
+    const baseNDVI = Number(baseValues.NDVI) || 0;
+    const baseNDBI = Number(baseValues.NDBI) || 0;
+    const baseTree = Number(baseValues.Tree_Density_50m) || 0;
+    const baseBuildingDensity = Number(baseValues.Building_Density_100m) || 0;
+    const baseBuildingHeight = Number(baseValues.Avg_Building_Height_100m) || 0;
+    const baseAlbedo = Number(baseValues.Albedo) || 0;
+
+    const ndviDeltaRef = (reforestation / 100) * 0.40;
+    const ndviDeltaDense = densification > 0 ? (densification / 100) * 0.12 : 0;
+    const nextNDVI = clamp(baseNDVI + ndviDeltaRef - ndviDeltaDense, 0.02, 0.65);
+
+    const nextTree = clamp(baseTree + Math.round((reforestation / 100) * 10), 0, 12);
+
+    const ndbiDeltaRef = (reforestation / 100) * 0.25;
+    const ndbiDeltaDense = (densification / 100) * 0.30;
+    const nextNDBI = clamp(baseNDBI - ndbiDeltaRef + ndbiDeltaDense, -0.15, 0.95);
+
+    const albedoDeltaRef = (reforestation / 100) * 0.03;
+    const albedoDeltaCool = (coolRoofs / 100) * 0.24;
+    const nextAlbedo = clamp(baseAlbedo - albedoDeltaRef + albedoDeltaCool, 0, 0.40);
+
+    const densityFactor = densification >= 0 ? 40 : 20;
+    const nextBuildingDensity = clamp(baseBuildingDensity + (densification / 100) * densityFactor, 0, 85);
+
+    const heightFactor = densification >= 0 ? 15.0 : 6.0;
+    const nextBuildingHeight = clamp(baseBuildingHeight + (densification / 100) * heightFactor, 0, 30.0);
+
+    return {
+      ...baseValues,
+      NDVI: nextNDVI,
+      NDBI: nextNDBI,
+      Albedo: nextAlbedo,
+      Tree_Density_50m: nextTree,
+      Building_Density_100m: nextBuildingDensity,
+      Avg_Building_Height_100m: nextBuildingHeight,
+    };
+  }
 
   function getPercentChange(key) {
     const original = Number(defaultValues[key]);
@@ -104,6 +148,7 @@ export default function SidePanel({ barrioName, data, points = [], onClose, data
     });
     setDefaultValues(defs);
     setModifiedValues({ ...defs });
+    setScenarioControls({ reforestation: 0, densification: 0, coolRoofs: 0 });
     setPredictedTemp(null);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [data]);
@@ -146,7 +191,17 @@ export default function SidePanel({ barrioName, data, points = [], onClose, data
   }
 
   function handleReset() {
+    setScenarioControls({ reforestation: 0, densification: 0, coolRoofs: 0 });
     setModifiedValues({ ...defaultValues });
+  }
+
+  function handleScenarioControlChange(key, raw) {
+    const value = Number(raw);
+    setScenarioControls(prev => {
+      const next = { ...prev, [key]: value };
+      setModifiedValues(computeScenarioValues(defaultValues, next));
+      return next;
+    });
   }
 
   const isModified = Object.keys(defaultValues).length > 0 && Object.keys(defaultValues).some(k => defaultValues[k] !== modifiedValues[k]);
@@ -258,81 +313,72 @@ export default function SidePanel({ barrioName, data, points = [], onClose, data
       >
         ✕
       </button>
-      <h2 style={{marginTop:0, marginBottom: 18, fontSize: 26, color: '#a50f15'}}>{barrioName}</h2>
-      <div style={{marginBottom: 18}}>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-          <b style={{fontSize:18, color:'#234567'}}>Indicadores principales</b>
-          <button onClick={handleReset} style={{ background: 'transparent', border: 'none', color: '#2b6cb0', cursor: 'pointer', fontSize: 13 }}>restablecer</button>
+      <h2 style={{marginTop:0, marginBottom: 10, fontSize: 26, color: '#a50f15'}}>{barrioName}</h2>
+      <div style={{ marginBottom: 16 }}>
+        <div
+          style={{
+            display: 'inline-flex',
+            gap: 6,
+            padding: 4,
+            borderRadius: 10,
+            background: '#f5f7fb',
+            border: '1px solid #e5e9f2'
+          }}
+        >
+          <button
+            onClick={() => setViewMode('simple')}
+            style={{
+              border: 'none',
+              borderRadius: 8,
+              padding: '6px 10px',
+              fontSize: 13,
+              fontWeight: 700,
+              cursor: 'pointer',
+              background: viewMode === 'simple' ? '#2b6cb0' : 'transparent',
+              color: viewMode === 'simple' ? '#fff' : '#4a5568'
+            }}
+          >
+            Simple
+          </button>
+          <button
+            onClick={() => setViewMode('detailed')}
+            style={{
+              border: 'none',
+              borderRadius: 8,
+              padding: '6px 10px',
+              fontSize: 13,
+              fontWeight: 700,
+              cursor: 'pointer',
+              background: viewMode === 'detailed' ? '#2b6cb0' : 'transparent',
+              color: viewMode === 'detailed' ? '#fff' : '#4a5568'
+            }}
+          >
+            Detallado
+          </button>
         </div>
-        <table style={{width:'100%', fontSize:16, borderCollapse:'collapse', marginTop:8, marginBottom:8}}>
-          <tbody>
-            {mainVars.map(key => {
-              const def = defaultValues[key];
-              const mod = modifiedValues[key];
-              const current = mod !== undefined ? mod : def;
-              const range = getRangeForKey(key, def);
-              const isNumeric = range !== null;
-              return (
-                <tr key={key} style={{ verticalAlign: 'middle' }}>
-                  <td style={{fontWeight:600, padding:'6px 10px 6px 0', color:'#555', width: '40%'}}>
-                    <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-                      <span style={{ textAlign: 'left' }}>{friendlyNames[key] || key.replace(/_/g,' ')}</span>
-                      <span
-                        title={explanations[key] || ''}
-                        style={{
-                          marginLeft: 6,
-                          display: 'inline-flex',
-                          alignItems: 'center',
-                          justifyContent: 'center',
-                          width: 20,
-                          height: 20,
-                          borderRadius: '50%',
-                          background: '#f3f6ff',
-                          color: '#2b6cb0',
-                          fontSize: 12,
-                          cursor: 'help',
-                          boxShadow: '0 1px 2px rgba(0,0,0,0.06)'
-                        }}
-                        aria-hidden
-                      >
-                        i
-                      </span>
-                    </div>
-                  </td>
-                  <td style={{padding:'4px 0', width: '60%'}}>
-                    {isNumeric ? (
-                      <div>
-                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 6 }}>
-                          <div style={{ fontSize: 15 }}>{formatValue(current)}</div>
-                          <div style={{ fontSize: 12, color: '#2b6cb0', fontWeight: 600 }}>
-                            {(() => {
-                              const pct = getPercentChange(key);
-                              if (pct === null) return '—';
-                              const sign = pct > 0 ? '+' : '';
-                              return `${sign}${pct.toFixed(1)}%`;
-                            })()}
-                          </div>
-                        </div>
-                        <input
-                          type="range"
-                          min={range.min}
-                          max={range.max}
-                          step={range.step}
-                          value={current}
-                          onChange={e => handleSliderChange(key, e.target.value)}
-                          style={{ width: '100%' }}
-                        />
-                      </div>
-                    ) : (
-                      <div style={{ textAlign: 'right' }}>{String(current)}</div>
-                    )}
-                  </td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
       </div>
+
+      {viewMode === 'simple' && (
+        <SidePanelSimpleSection
+          scenarioControls={scenarioControls}
+          onScenarioControlChange={handleScenarioControlChange}
+          onReset={handleReset}
+        />
+      )}
+
+      {viewMode === 'detailed' && (
+        <SidePanelDetailedSection
+          mainVars={mainVars}
+          defaultValues={defaultValues}
+          modifiedValues={modifiedValues}
+          friendlyNames={friendlyNames}
+          formatValue={formatValue}
+          getRangeForKey={getRangeForKey}
+          getPercentChange={getPercentChange}
+          handleSliderChange={handleSliderChange}
+          onReset={handleReset}
+        />
+      )}
 
       {/* Temperaturas: Real (izquierda) y Predicha (derecha) */}
       <div style={{ display: 'flex', justifyContent: 'space-between', gap: 12, marginTop: 8 }}>
