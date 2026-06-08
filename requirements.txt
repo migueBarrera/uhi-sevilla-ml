@@ -3,6 +3,7 @@ pymongo
 rasterio
 numpy
 pandas
+plotly
 scipy
 python-dotenv
 earthengine-api

@@ -74,3 +74,34 @@ Estas instrucciones aplican únicamente al **Hito 0**.
            "Building_Density_100m": 45,
            "Avg_Building_Height_100m": 12.0
          }'
+
+   Ejemplo (batch) - enviar varias filas en una sola petición:
+   ```bash
+   curl -s -w "\n⏱️ Tiempo total de respuesta: %{time_total} segundos\n" \
+      -X POST "https://predict-temperature-bzqfrud2ua-ew.a.run.app" \
+      -H "Content-Type: application/json" \
+      -d '[
+               {
+                  "NDVI": 0.15,
+                  "NDBI": 0.25,
+                  "Albedo": 0.18,
+                  "D2W_meters": 1200.5,
+                  "D2R_HighCapacity_m": 350.0,
+                  "D2R_Urban_m": 15.0,
+                  "Tree_Density_50m": 3,
+                  "Building_Density_100m": 45,
+                  "Avg_Building_Height_100m": 12.0
+               },
+               {
+                  "NDVI": 0.05,
+                  "NDBI": 0.10,
+                  "Albedo": 0.22,
+                  "D2W_meters": 800.0,
+                  "D2R_HighCapacity_m": 150.0,
+                  "D2R_Urban_m": 8.0,
+                  "Tree_Density_50m": 1,
+                  "Building_Density_100m": 20,
+                  "Avg_Building_Height_100m": 6.0
+               }
+            ]'
+   ```

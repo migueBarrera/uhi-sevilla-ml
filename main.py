@@ -1,7 +1,7 @@
 import os
 
 from infraestructura import ejecutar_infraestructura
-from descarga_datos import ejecutar_descarga
+from notebooks.src.descarga_datos import ejecutar_descarga
 from procesar_datos import ejecutar_procesamiento
 
 
