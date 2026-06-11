@@ -153,3 +153,5 @@ Para desplegar la function en firebase, sera necesario una cuenta de Firebase ac
 * Ejemplo de respuesta: {"temperaturas_predichas": [46.21, 47.79], "unidad": "Celsius", "status": "success"}
 
 > La primera ejecución puede tardar un poco ya que levanta el servidor
+
+### El modelo se ha subido a Huggin Face Hub: https://huggingface.co/MiguelBarrera/testtfmmigue/tree/main
