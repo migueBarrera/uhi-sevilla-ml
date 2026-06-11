@@ -18,7 +18,7 @@ class AppConfig:
 
 
 def load_config() -> AppConfig:
-    load_dotenv()
+    load_dotenv(override=True)
     return AppConfig(
         aws_access_key=os.getenv("AWS_ACCESS_KEY"),
         aws_secret_key=os.getenv("AWS_SECRET_KEY"),

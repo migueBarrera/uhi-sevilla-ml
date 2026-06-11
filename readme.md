@@ -77,6 +77,8 @@ Para ejcutar los distintos notebooks, sera necesario activar un entorno virtual 
    ```
    > Las credenciales de AWS (`AWS_ACCESS_KEY`, `AWS_SECRET_KEY`, `AWS_SESSION_TOKEN`) son temporales (STS). Cuando expiren deberás actualizarlas.
    > `GEE_PROJECT` es el ID del proyecto de Google Earth Engine habilitado con la API de Earth Engine.
+   https://awsacademy.instructure.com/courses/173937/modules/items/17058285
+
 
 6. Ejecuta cada cuaderno
 

@@ -1,75 +1,10 @@
 import os
-import shutil
 import ee
 import requests
 import pandas as pd
-import numpy as np
 import re
-import rasterio
-from scipy.ndimage import distance_transform_edt
-
+import time
 from src.config import load_config
-
-
-def tif_to_dataframe(archivo_local_tiff):
-    """
-    Convierte un GeoTIFF multibanda en un DataFrame con variables para modelado.
-
-    Args:
-        archivo_local_tiff (str): Ruta al archivo GeoTIFF con 8 bandas.
-
-    Returns:
-        pd.DataFrame: DataFrame con coordenadas, índices, albedo, distancia al agua y LST.
-    """
-    with rasterio.open(archivo_local_tiff) as src:
-        # 1. Variables principales
-        ndvi_arr = src.read(1)
-        ndbi_arr = src.read(2)
-        lst_arr = src.read(3)
-
-        # 2. Bandas ópticas para el albedo (Sentinel-2)
-        b2_blue = src.read(4)
-        b4_red = src.read(5)
-        b8_nir = src.read(6)
-        b11_swir1 = src.read(7)
-        b12_swir2 = src.read(8)
-
-        filas, columnas = ndvi_arr.shape
-        cols_grid, rows_grid = np.meshgrid(np.arange(columnas), np.arange(filas))
-        longitudes, latitudes = rasterio.transform.xy(src.transform, rows_grid, cols_grid)
-
-    # 3. Distancia al agua (aproximación de máscara espectral)
-    mascara_agua = (ndvi_arr < 0) & (ndbi_arr < 0)
-    tierra_array = ~mascara_agua
-    distancia_agua_metros = distance_transform_edt(tierra_array) * 10
-
-    # 4. Albedo de banda ancha
-    albedo_arr = (
-        (0.356 * b2_blue)
-        + (0.130 * b4_red)
-        + (0.373 * b8_nir)
-        + (0.085 * b11_swir1)
-        + (0.072 * b12_swir2)
-        - 0.0018
-    )
-
-    # Limitar ruido fuera del rango físico
-    albedo_arr = np.clip(albedo_arr, 0, 1)
-
-    # 5. Estructuración final
-    df = pd.DataFrame(
-        {
-            "Longitude": np.array(longitudes).flatten(),
-            "Latitude": np.array(latitudes).flatten(),
-            "NDVI": ndvi_arr.flatten(),
-            "NDBI": ndbi_arr.flatten(),
-            "Albedo": albedo_arr.flatten(),
-            "D2W_meters": distancia_agua_metros.flatten(),
-            "LST_Target": lst_arr.flatten(),
-        }
-    )
-
-    return df.dropna().copy()
 
 def descargar_datos_sevilla(
     gee_project,
@@ -172,33 +107,93 @@ def descargar_datos_sevilla(
     print(f"✅ GeoTIFF descargado correctamente en: {output_path}")
 
 
-def descargar_arbolado_csv(output_file="arbolado_sevilla.csv"):
+def descargar_arbolado_csv(
+    bbox="37.33,-6.03,37.45,-5.90",
+    output_file="arbolado_sevilla.csv",
+    divisiones_lat=4,
+    divisiones_lon=4,
+):
     """
-    Extrae el inventario de arbolado urbano y lo guarda directamente en formato CSV.
+    Descarga el arbolado desde OpenStreetMap (Overpass API) y lo guarda en CSV.
+
+    Usa una cuadrícula sobre el bbox para evitar límites de consulta y deduplica
+    por ID de OSM para obtener el mayor número posible de árboles del área.
     """
-    print("🌳 Extrayendo datos del Inventario Municipal de Arbolado...")
-    
-    # Simulación de la descarga de datos del portal municipal
-    # (Para el proyecto final, aquí podrías hacer un pd.read_csv() desde la URL pública)
-    np.random.seed(42)
-    num_arboles = 10000
-    
-    # Generamos los datos con la estructura tabular clásica de un Open Data
-    df_arboles = pd.DataFrame({
-        'id_arbol': range(1, num_arboles + 1),
-        'especie': np.random.choice(
-            ['Naranjo amargo', 'Plátano de sombra', 'Jacaranda', 'Palmera datilera', 'Olmo'], 
-            num_arboles, 
-            p=[0.35, 0.25, 0.20, 0.10, 0.10] # Probabilidades ajustadas a la realidad botánica
-        ),
-        'latitud': np.random.uniform(low=37.33, high=37.45, size=num_arboles),
-        'longitud': np.random.uniform(low=-6.03, high=-5.90, size=num_arboles)
-    })
-    
-    # Guardar en CSV
+    print("🌳 Descargando arbolado urbano desde OpenStreetMap (Overpass API)...")
+
+    lat_min, lon_min, lat_max, lon_max = [float(v.strip()) for v in bbox.split(",")]
+
+    paso_lat = (lat_max - lat_min) / divisiones_lat
+    paso_lon = (lon_max - lon_min) / divisiones_lon
+
+    overpass_url = "https://overpass-api.de/api/interpreter"
+    headers = {
+        'User-Agent': 'ThermoSevilla_TFM_Project/1.0',
+        'Accept': 'application/json',
+    }
+
+    arboles = {}
+    total_celdas = divisiones_lat * divisiones_lon
+    celda_actual = 0
+
+    for i in range(divisiones_lat):
+        celda_lat_min = lat_min + i * paso_lat
+        celda_lat_max = lat_max if i == divisiones_lat - 1 else lat_min + (i + 1) * paso_lat
+
+        for j in range(divisiones_lon):
+            celda_actual += 1
+            celda_lon_min = lon_min + j * paso_lon
+            celda_lon_max = lon_max if j == divisiones_lon - 1 else lon_min + (j + 1) * paso_lon
+
+            print(f"  · Consultando celda {celda_actual}/{total_celdas}...")
+
+            overpass_query = f"""
+            [out:json][timeout:180];
+            (
+              node["natural"="tree"]({celda_lat_min},{celda_lon_min},{celda_lat_max},{celda_lon_max});
+            );
+            out body;
+            """
+
+            data = None
+            for intento in range(3):
+                try:
+                    response = requests.get(
+                        overpass_url,
+                        params={'data': overpass_query},
+                        headers=headers,
+                        timeout=240,
+                    )
+                    response.raise_for_status()
+                    data = response.json()
+                    break
+                except requests.RequestException:
+                    if intento == 2:
+                        raise
+                    time.sleep(2)
+
+            for element in data.get('elements', []):
+                if element.get('type') != 'node':
+                    continue
+
+                tags = element.get('tags', {})
+                arboles[element['id']] = {
+                    'id_arbol': element['id'],
+                    'especie': tags.get('species') or tags.get('genus') or tags.get('leaf_type') or 'desconocida',
+                    'latitud': element.get('lat'),
+                    'longitud': element.get('lon'),
+                }
+
+            # Pequeña pausa para no saturar el endpoint público.
+            time.sleep(0.3)
+
+    if not arboles:
+        raise ValueError("No se encontraron árboles en las coordenadas indicadas.")
+
+    df_arboles = pd.DataFrame(arboles.values()).sort_values('id_arbol')
     df_arboles.to_csv(output_file, index=False, encoding='utf-8')
-    
-    print(f"✅ Descarga completada: {output_file} ({num_arboles} árboles registrados)")
+
+    print(f"✅ Descarga completada: {output_file} ({len(df_arboles)} árboles registrados)")
     return output_file
 
 def descargar_carreteras_csv(bbox="37.33,-6.03,37.45,-5.90", output_file="carreteras_sevilla.csv"):
@@ -334,12 +329,6 @@ def ejecutar_descarga(raw_dir):
 
     sevilla_tif_path = os.path.join(raw_dir, "sevilla_dataset.tif")
     descargar_datos_sevilla(gee_project=config.gee_project, output_path=sevilla_tif_path)
-
-    print("\n Transformando GeoTIFF a DataFrame...")
-    df_raster = tif_to_dataframe(sevilla_tif_path)
-    sevilla_csv_path = os.path.join(raw_dir, "sevilla_dataset_pixels.csv")
-    df_raster.to_csv(sevilla_csv_path, index=False, encoding='utf-8')
-    print(f"✅ DataFrame generado y guardado en: {sevilla_csv_path} ({len(df_raster)} filas)")
 
     print("\n Descargando datos complementarios...")
 

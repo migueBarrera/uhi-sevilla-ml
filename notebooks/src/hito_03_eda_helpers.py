@@ -5,6 +5,69 @@ import seaborn as sns
 import plotly.express as px
 import plotly.offline as pyo
 import plotly.io as pio
+import rasterio
+from IPython.display import display
+from scipy.ndimage import distance_transform_edt
+
+def tif_to_dataframe(archivo_local_tiff):
+    """
+    Convierte un GeoTIFF multibanda en un DataFrame con variables para modelado.
+
+    Args:
+        archivo_local_tiff (str): Ruta al archivo GeoTIFF con 8 bandas.
+
+    Returns:
+        pd.DataFrame: DataFrame con coordenadas, índices, albedo, distancia al agua y LST.
+    """
+    with rasterio.open(archivo_local_tiff) as src:
+        # 1. Variables principales
+        ndvi_arr = src.read(1)
+        ndbi_arr = src.read(2)
+        lst_arr = src.read(3)
+
+        # 2. Bandas ópticas para el albedo (Sentinel-2)
+        b2_blue = src.read(4)
+        b4_red = src.read(5)
+        b8_nir = src.read(6)
+        b11_swir1 = src.read(7)
+        b12_swir2 = src.read(8)
+
+        filas, columnas = ndvi_arr.shape
+        cols_grid, rows_grid = np.meshgrid(np.arange(columnas), np.arange(filas))
+        longitudes, latitudes = rasterio.transform.xy(src.transform, rows_grid, cols_grid)
+
+    # 3. Distancia al agua (aproximación de máscara espectral)
+    mascara_agua = (ndvi_arr < 0) & (ndbi_arr < 0)
+    tierra_array = ~mascara_agua
+    distancia_agua_metros = distance_transform_edt(tierra_array) * 10
+
+    # 4. Albedo de banda ancha
+    albedo_arr = (
+        (0.356 * b2_blue)
+        + (0.130 * b4_red)
+        + (0.373 * b8_nir)
+        + (0.085 * b11_swir1)
+        + (0.072 * b12_swir2)
+        - 0.0018
+    )
+
+    # Limitar ruido fuera del rango físico
+    albedo_arr = np.clip(albedo_arr, 0, 1)
+
+    # 5. Estructuración final
+    df = pd.DataFrame(
+        {
+            "Longitude": np.array(longitudes).flatten(),
+            "Latitude": np.array(latitudes).flatten(),
+            "NDVI": ndvi_arr.flatten(),
+            "NDBI": ndbi_arr.flatten(),
+            "Albedo": albedo_arr.flatten(),
+            "D2W_meters": distancia_agua_metros.flatten(),
+            "LST_Target": lst_arr.flatten(),
+        }
+    )
+
+    return df.dropna().copy()
 
 def identificar_valores_nulos_y_tipos(df):
     """Muestra información básica: tipos de datos y valores nulos."""
@@ -14,6 +77,37 @@ def identificar_valores_nulos_y_tipos(df):
     print(df.isnull().sum())
     print("\n--- Estadísticas Descriptivas ---")
     display(df.describe(include='all'))
+
+def resumir_conteo_categorias(
+    df,
+    columna,
+    incluir_nulos=True,
+    incluir_porcentaje=True,
+    imprimir=True,
+):
+    if columna not in df.columns:
+        return f"Error: la columna '{columna}' no existe en el dataset."
+
+    conteos = df[columna].value_counts(dropna=not incluir_nulos)
+
+    if conteos.empty:
+        return f"La columna '{columna}' no tiene valores para resumir."
+
+    total = int(conteos.sum())
+    lineas = [f"Conteo de categorías para '{columna}' (total: {total}):"]
+
+    for categoria, cantidad in conteos.items():
+        nombre_categoria = "NaN" if pd.isna(categoria) else str(categoria)
+        if incluir_porcentaje:
+            porcentaje = (cantidad / total) * 100
+            lineas.append(f"- {nombre_categoria}: {cantidad} ({porcentaje:.2f}%)")
+        else:
+            lineas.append(f"- {nombre_categoria}: {cantidad}")
+
+    resumen = "\n".join(lineas)
+    if imprimir:
+        print(resumen)
+    return resumen
 
 def graficar_distribuciones(df, columnas_numericas=None, columnas_categoricas=None, columnas_ignorar=None):
     """Genera histogramas para variables numéricas y gráficos de barras para categóricas, omitiendo las columnas especificadas."""
@@ -103,14 +197,14 @@ def graficar_dispersion_mapa(df, col_lat='latitud', col_lon='longitud', col_cate
 def graficar_mapa_densidad(df):
     """Genera un mapa de calor estático asegurando limpieza y rendimiento."""
     
-    spatial_sample = df.sample(n=min(50000, len(df)), random_state=42)
+    spatial_sample = df.sample(n=min(200000, len(df)), random_state=42)
 
     fig, ax = plt.subplots(figsize=(14, 10))
     
     # Aquí está el cambio: cmap='hot_r' invierte la escala de colores
     scatter = ax.scatter(spatial_sample['Longitude'], spatial_sample['Latitude'],
                         c=spatial_sample['LST_Target'], cmap='hot_r',
-                        s=1, alpha=0.6, edgecolors='none')
+                        s=1, alpha=1, edgecolors='none')
                         
     ax.set_xlabel('Longitud', fontsize=12)
     ax.set_ylabel('Latitud', fontsize=12)
