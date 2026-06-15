@@ -155,3 +155,7 @@ Para desplegar la function en firebase, sera necesario una cuenta de Firebase ac
 > La primera ejecución puede tardar un poco ya que levanta el servidor
 
 ### El modelo se ha subido a Huggin Face Hub: https://huggingface.co/MiguelBarrera/testtfmmigue/tree/main
+
+
+### Presentacion
+https://docs.google.com/presentation/d/1hGu0jvKiqEuj3C7AutHoLEBcZL3e_DdKZwc3ZS06LOo/edit?usp=sharing
