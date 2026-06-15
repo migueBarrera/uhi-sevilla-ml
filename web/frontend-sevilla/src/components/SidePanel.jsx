@@ -132,12 +132,6 @@ export default function SidePanel({ barrioName, data, points = [], onClose, data
     return ((current - original) / Math.abs(original)) * 100;
   }
 
-  function applyPercentChange(value, percent) {
-    const num = Number(value);
-    if (Number.isNaN(num) || percent === null || percent === undefined) return num;
-    return num * (1 + percent / 100);
-  }
-
   useEffect(() => {
     if (!data) return;
     const defs = {};
@@ -193,6 +187,8 @@ export default function SidePanel({ barrioName, data, points = [], onClose, data
   function handleReset() {
     setScenarioControls({ reforestation: 0, densification: 0, coolRoofs: 0 });
     setModifiedValues({ ...defaultValues });
+    setPredictedTemp(null);
+    onPredictedPointsChange([]);
   }
 
   function handleScenarioControlChange(key, raw) {
@@ -221,19 +217,34 @@ export default function SidePanel({ barrioName, data, points = [], onClose, data
         'Avg_Building_Height_100m',
       ];
 
-      const percentByField = {};
+      const deltaByField = {};
       predictorFields.forEach(field => {
-        percentByField[field] = getPercentChange(field);
+        const original = Number(defaultValues[field]);
+        const modified = Number(modifiedValues[field]);
+        if (Number.isNaN(original) || Number.isNaN(modified)) {
+          deltaByField[field] = 0;
+          return;
+        }
+        deltaByField[field] = modified - original;
       });
 
       const rows = Array.isArray(points) ? points : [];
       const predictionRows = rows.map(row => {
         const transformed = { ...row };
         predictorFields.forEach(field => {
-          const pct = percentByField[field];
-          const baseValue = row[field] ?? data[field] ?? 0;
-          const updated = applyPercentChange(baseValue, pct);
-          transformed[field] = Number.isNaN(updated) ? Number(baseValue) || 0 : updated;
+          const baseValue = Number(row[field] ?? data[field] ?? 0);
+          const delta = Number(deltaByField[field]) || 0;
+          const candidate = baseValue + delta;
+
+          if (datasetStats && datasetStats[field] && typeof datasetStats[field].min === 'number' && typeof datasetStats[field].max === 'number') {
+            transformed[field] = clamp(candidate, datasetStats[field].min, datasetStats[field].max);
+          } else {
+            transformed[field] = candidate;
+          }
+
+          if (Number.isNaN(transformed[field])) {
+            transformed[field] = Number.isNaN(baseValue) ? 0 : baseValue;
+          }
         });
 
         return {

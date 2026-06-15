@@ -87,8 +87,9 @@ export default function MapView() {
   }
 
   function handlePredictedPointsChange(newPredictedPoints) {
-    setPredictedPoints(Array.isArray(newPredictedPoints) ? newPredictedPoints : []);
-    setPointsMode('predicted');
+    const nextPredictedPoints = Array.isArray(newPredictedPoints) ? newPredictedPoints : [];
+    setPredictedPoints(nextPredictedPoints);
+    setPointsMode(nextPredictedPoints.length > 0 ? 'predicted' : 'original');
   }
 
   const visiblePoints = pointsMode === 'predicted' && predictedPoints.length > 0 ? predictedPoints : points;
